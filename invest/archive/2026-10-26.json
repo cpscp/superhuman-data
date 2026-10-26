@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-26",
+  "generatedBy": "Claude · análise diária",
+  "marketSummary": "Na sexta-feira as bolsas desceram de forma moderada: o S&P 500 perdeu 0,5% e o Dow Jones 1,2%. O principal motivo foi o petróleo, que subiu para perto de 117 dólares (Brent) depois de novos ataques dos Houthis à Arábia Saudita, o que reacendeu o medo de mais inflação e levou o juro da dívida americana a 10 anos para quase 5%. Na Europa, o Stoxx 600 caiu 0,3% com resultados fracos de empresas como a Kering e a Volvo Cars e com preocupações sobre as contas públicas de França; Lisboa fechou quase sem mudança (+0,07%), com a Galp a subir mais de 3%. Esta segunda-feira o petróleo alivia um pouco, mas a semana é decisiva: há decisões da Reserva Federal americana (quarta), do BCE (quinta) e do Banco do Japão (sexta), e as contas de gigantes como Microsoft, Alphabet e Amazon.",
+  "mood": "risk-off",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "change": "-0,5% (7.623,68)"
+    },
+    {
+      "name": "Nasdaq",
+      "change": "-0,2% (25.955,34)"
+    },
+    {
+      "name": "Stoxx 600",
+      "change": "-0,3% (635,77)"
+    },
+    {
+      "name": "PSI",
+      "change": "+0,1% (9.244,62; -2,4% na semana)"
+    },
+    {
+      "name": "Treasury 10 anos (yield)",
+      "change": "+0,05 p.p. para ≈5,00%"
+    },
+    {
+      "name": "Bund 10 anos (yield)",
+      "change": "desce para ≈3,34%"
+    },
+    {
+      "name": "EUR/USD",
+      "change": "-0,3% (1,1204)"
+    },
+    {
+      "name": "Petróleo Brent",
+      "change": "+3,1% (116,72 $)"
+    },
+    {
+      "name": "Ouro",
+      "change": "-0,3% (≈4.012 $; ≈-4% na semana)"
+    },
+    {
+      "name": "Bitcoin",
+      "change": "≈0% na sexta (≈81.200 $); ≈-1% hoje (≈80.000 $)"
+    }
+  ],
+  "tips": [
+    {
+      "title": "Manter o investimento mensal no ETF de ações do mundo",
+      "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
+      "body": "Semanas com petróleo caro e juros altos fazem as bolsas oscilar, mas o VWCE reparte o dinheiro por milhares de empresas de todo o mundo, por isso nenhuma notícia isolada decide o resultado. Ao investir todos os meses o mesmo valor, quando os preços descem compras mais unidades com o mesmo dinheiro. É exatamente para dias como estes que o plano automático existe.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "a parte de ações do teu plano (ex.: 70-80% do investimento mensal)",
+      "potential": "6-8%/ano em média histórica a longo prazo; pode haver anos negativos, sem garantias"
+    },
+    {
+      "title": "Obrigações ficaram mais interessantes com juros altos",
+      "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
+      "body": "Quando os juros (yields) sobem, as obrigações que já existem perdem algum valor no curto prazo, mas as novas pagam mais, o que melhora o retorno esperado daqui para a frente. O VAGF tem cobertura cambial em euros (protege-te das oscilações do dólar), o que o torna mais estável. Serve de amortecedor quando as ações caem.",
+      "horizon": "médio",
+      "risk": "baixo",
+      "suggestedAmount": "a parte de obrigações do teu plano (ex.: 15-25% do investimento mensal)",
+      "potential": "≈3-4%/ano cenário base, próximo dos juros atuais; pode variar"
+    },
+    {
+      "title": "O monetário como almofada para emergências",
+      "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
+      "body": "O XEON acompanha a taxa de juro diária do euro, que depende do BCE (a taxa principal está em 2,65% e espera-se que fique igual na quinta-feira). É quase tão estável como uma conta poupança e serve para guardar o dinheiro de que podes precisar a curto prazo, para não teres de vender ações num mau momento.",
+      "horizon": "curto",
+      "risk": "baixo",
+      "suggestedAmount": "o teu fundo de emergência (ex.: 3-6 meses de despesas), não do plano mensal de ações",
+      "potential": "≈2-2,5%/ano, acompanha os juros do BCE"
+    },
+    {
+      "title": "Ideia complementar: uma pitada de ouro para diversificar",
+      "instrument": "4GLD.DE · Xetra-Gold (ETC com ouro físico)",
+      "body": "O ouro caiu cerca de 4% na semana passada e está perto de mínimos de três meses, porque juros altos tornam menos atrativo um ativo que não paga juros. Tende a comportar-se de forma diferente das ações em crises, por isso uma parte muito pequena pode equilibrar a carteira. Atenção: é volátil, não gera rendimento e um ETC (produto que replica uma matéria-prima) não é um ETF diversificado; é totalmente opcional.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "no máximo 5% do investimento mensal, só se quiseres",
+      "potential": "sem rendimento próprio; depende só do preço do ouro, que pode subir ou cair bastante"
+    }
+  ],
+  "news": [
+    {
+      "title": "How major US stock indexes fared Friday 10/23/2026",
+      "source": "AP / Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html",
+      "summary": "O S&P 500 caiu 0,5%, o Dow Jones 1,2% e o Nasdaq 0,2% na sexta-feira, pressionados pela subida do petróleo.",
+      "relevance": "As ações americanas são cerca de 60% do VWCE, por isso estas quedas notam-se no teu ETF; mas uma descida de 0,5% num dia é variação normal."
+    },
+    {
+      "title": "Lisboa fecha com ganhos ligeiros em dia misto na Europa. Galp soma mais de 3%",
+      "source": "Jornal de Negócios",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/lisboa-fecha-em-alta-ligeira-em-dia-misto-na-europa-galp-soma-mais-de-3",
+      "summary": "O PSI subiu 0,07% na sexta, com a Galp a ganhar 3,4% graças ao petróleo e a Navigator a cair 3,2% após lucros mais baixos; na semana o índice perdeu 2,4%.",
+      "relevance": "Portugal pesa muito pouco num ETF global; o que se passa no PSI quase não muda o teu plano, e isso é uma vantagem de diversificar."
+    },
+    {
+      "title": "European Stocks Fall as China Woes Hit Volvo Car, Gucci",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/european-stocks-fall-as-china-woes-hit-volvo-car-gucci",
+      "summary": "As ações europeias caíram com resultados fracos da Volvo Cars e da Kering (dona da Gucci), afetadas pela procura mais fraca na China.",
+      "relevance": "Mostra o risco de apostar em empresas individuais (uma ação pode cair 16-26% num dia); num ETF global esse impacto dilui-se."
+    },
+    {
+      "title": "Bund Yields at Highest Since October 2023 (atualização de 23 de outubro: Bund desce para ≈3,34%)",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/germany/government-bond-yield/news/511772",
+      "summary": "O juro da dívida alemã a 10 anos desceu para cerca de 3,34%, com investidores a procurar segurança por causa das preocupações orçamentais e políticas em França; o diferencial França-Alemanha chegou a cerca de 170 pontos base.",
+      "relevance": "As obrigações do VAGF incluem dívida europeia; juros mais altos hoje significam rendimentos futuros maiores, mesmo com oscilações no caminho."
+    },
+    {
+      "title": "Key Market Events for the Week of October 26–30, 2026",
+      "source": "The Rio Times",
+      "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-october-26-30-2026",
+      "summary": "Esta semana a Fed (quarta), o BCE (quinta) e o Banco do Japão (sexta) decidem os juros; o consenso é que todos os mantenham.",
+      "relevance": "Decisões de juros mexem com ações e obrigações em todo o mundo; espera alguma volatilidade, mas não é motivo para mudar um plano mensal."
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Brazil ETF slumps on Lula win",
+      "source": "investingLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-brazil-etf-slumps-on-lula-win/",
+      "summary": "Lula venceu a segunda volta no Brasil e um ETF de ações brasileiras cotado em Tóquio caiu quase 15%; as bolsas asiáticas abriram a semana maioritariamente em queda e o petróleo recuou.",
+      "relevance": "Um mercado emergente pode cair muito num dia; o Brasil é uma fração mínima do VWCE, o que mostra porque é mais seguro diversificar do que apostar num só país."
+    },
+    {
+      "title": "Gold Slips 0.30% to US$4,012 as Yields Rise",
+      "source": "The Rio Times",
+      "url": "https://www.riotimesonline.com/gold-silver-precious-metals-friday-october-23-2026/",
+      "summary": "O ouro desceu para cerca de 4.012 dólares por onça na sexta, pressionado pela subida dos juros americanos.",
+      "relevance": "Quando os juros sobem, ativos sem rendimento como o ouro perdem atração; por isso o ouro, se o tiveres, deve ser só uma parte pequena."
+    },
+    {
+      "title": "Why is Bitcoin price down today? BTC slips below $80K ahead of Fed decision",
+      "source": "crypto.news",
+      "url": "https://crypto.news/why-is-bitcoin-price-down-today-fed-etf-outflows/",
+      "summary": "A Bitcoin caiu cerca de 1% para perto de 80.000 dólares, com saídas de dinheiro dos ETF de Bitcoin nos EUA e à espera da Fed.",
+      "relevance": "Cripto é muito volátil e não faz parte do plano base; não é necessária para investir bem a longo prazo."
+    }
+  ],
+  "signals": [
+    {
+      "symbol": "VWCE.DE",
+      "action": "MANTER",
+      "reason": "Núcleo do plano; quedas moderadas como a de sexta são normais e o investimento mensal aproveita preços mais baixos."
+    },
+    {
+      "symbol": "VAGF.DE",
+      "action": "MANTER",
+      "reason": "Com juros perto de máximos, as obrigações oferecem melhor rendimento esperado; a cobertura em euros reduz o risco cambial."
+    },
+    {
+      "symbol": "XEON.DE",
+      "action": "MANTER",
+      "reason": "Ideal para o fundo de emergência; rende em linha com a taxa do BCE, que deverá manter-se em 2,65% na quinta."
+    },
+    {
+      "symbol": "VUAA.L",
+      "action": "MANTER",
+      "reason": "Bom ETF do S&P 500, mas sobrepõe-se em grande parte ao VWCE; se já tens VWCE, não precisas de ambos."
+    },
+    {
+      "symbol": "IWDA.AS",
+      "action": "MANTER",
+      "reason": "Alternativa ao VWCE (só países desenvolvidos); escolhe um dos dois como núcleo para manter a carteira simples."
+    },
+    {
+      "symbol": "SXR8.DE",
+      "action": "MANTER",
+      "reason": "S&P 500 de acumulação em euros; tal como o VUAA, duplica a parte americana do VWCE."
+    },
+    {
+      "symbol": "CSPX.L",
+      "action": "MANTER",
+      "reason": "Mesmo índice que o SXR8, cotado em dólares em Londres; para quem já tem VWCE é exposição repetida."
+    },
+    {
+      "symbol": "AAPL",
+      "action": "MANTER",
+      "reason": "Ação individual já incluída no VWCE; se a tiveres à parte, mantém-na como parte pequena da carteira."
+    },
+    {
+      "symbol": "MSFT",
+      "action": "MANTER",
+      "reason": "Apresenta resultados esta semana, o que pode causar movimentos fortes; não convém comprar ou vender só por causa disso."
+    },
+    {
+      "symbol": "NVDA",
+      "action": "REVER",
+      "reason": "Os receios sobre a sustentabilidade dos gastos em inteligência artificial têm pressionado os chips; confirma que esta ação não pesa demasiado na tua carteira."
+    }
+  ],
+  "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
+  "lessonTitle": "O que é uma yield e porque se fala tanto dos 5%",
+  "lessonBody": "A yield é o juro anual que uma obrigação rende a quem a compra hoje; a yield do Treasury a 10 anos é o juro da dívida americana a 10 anos, que serve de referência para o mundo inteiro. Quando o petróleo sobe, os investidores temem mais inflação e exigem juros mais altos, por isso a yield subiu para perto de 5%. Juros altos pesam nas ações, porque uma aplicação segura passa a render mais e torna as ações relativamente menos atrativas. Já nas obrigações há uma regra simples: quando as yields sobem, o preço das obrigações antigas desce, mas as que compras a seguir rendem mais.",
+  "beginnerNote": "Hoje não há nada a fazer: mantém o investimento mensal automático. Petróleo caro e uma semana cheia de bancos centrais trazem oscilações, mas reagir a notícias de curto prazo costuma sair mais caro do que esperar."
+}

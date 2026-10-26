@@ -21,12 +21,8 @@
       "change": "+0,1% (9.244,62; -2,4% na semana)"
     },
     {
-      "name": "Treasury 10 anos (yield)",
-      "change": "+0,05 p.p. para ≈5,00%"
-    },
-    {
-      "name": "Bund 10 anos (yield)",
-      "change": "desce para ≈3,34%"
+      "name": "Yields 10 anos (Treasury / Bund)",
+      "change": "EUA +0,05 p.p. para ≈5,00% / Alemanha desce para ≈3,34%"
     },
     {
       "name": "EUR/USD",
@@ -39,10 +35,6 @@
     {
       "name": "Ouro",
       "change": "-0,3% (≈4.012 $; ≈-4% na semana)"
-    },
-    {
-      "name": "Bitcoin",
-      "change": "≈0% na sexta (≈81.200 $); ≈-1% hoje (≈80.000 $)"
     }
   ],
   "tips": [

@@ -1,185 +1,185 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "generatedBy": "Claude · análise diária",
-  "marketSummary": "Na terça-feira as bolsas voltaram a subir, outra vez puxadas pela tecnologia: o Nasdaq ganhou 1,2% e o S&P 500 0,6%, com as empresas de chips (semicondutores) a dispararem 3,6% graças ao entusiasmo com a inteligência artificial e com a entrada em bolsa da Anthropic. Mas a subida foi pouco abrangente: muitas ações ficaram para trás e a Boeing caiu cerca de 10% depois de cortar as previsões de entregas. O petróleo desceu quase 2% (Brent perto de 114 dólares) com notícias de conversas de paz no Médio Oriente, o que ajudou a Europa: o Stoxx 600 subiu 0,5% e Lisboa 0,85%. Hoje à noite a Reserva Federal americana decide os juros e espera-se que os mantenha; amanhã é a vez do BCE.",
+  "marketSummary": "Na quarta-feira a Reserva Federal americana (Fed) manteve os juros entre 3,75% e 4%, como se esperava, mas dois membros votaram por uma subida, sinal de que a inflação ainda preocupa. Wall Street subiu pouco (S&P 500 +0,28%, num novo máximo), ajudada pela Oracle (+10,7%). Depois do fecho, a Microsoft subiu com bons resultados, enquanto a Alphabet (Google) caiu por estar a gastar muito dinheiro em inteligência artificial e a endividar-se para isso. O petróleo voltou a subir (Brent +1,3%, acima de 115 dólares) com receios de novos ataques dos EUA ao Irão, e a Europa ficou praticamente parada. Hoje é a vez do Banco Central Europeu (BCE), que deverá manter os juros em 2,5%.",
   "mood": "neutro",
   "indices": [
     {
       "name": "S&P 500",
-      "change": "+0,6% (7.722,60)"
+      "change": "+0,28% (7.743,98, máximo histórico)"
     },
     {
       "name": "Nasdaq",
-      "change": "+1,18% (26.477,81)"
+      "change": "+0,27% (26.549,85)"
     },
     {
       "name": "Stoxx 600",
-      "change": "+0,47% (643,68)"
+      "change": "+0,07% (644,14)"
     },
     {
       "name": "PSI",
-      "change": "+0,85% (9.253,58; EDP Renováveis +3,4%)"
+      "change": "-0,08% (9.245,78; Jerónimo Martins -1,6%, Galp +1,2%)"
     },
     {
       "name": "Yields 10 anos (Treasury / Bund)",
-      "change": "EUA quase sem mudança, ≈5,0% / Alemanha estável, ≈3,36%"
+      "change": "EUA +0,05 p.p. (≈5,04%) / Alemanha +0,03 p.p. (≈3,38%)"
     },
     {
       "name": "EUR/USD",
-      "change": "-0,43% (1,1131)"
+      "change": "+0,30% (1,1155)"
     },
     {
       "name": "Petróleo Brent",
-      "change": "-1,67% (113,88 $/barril)"
+      "change": "+1,3% (115,32 $/barril)"
     },
     {
       "name": "Ouro / Bitcoin",
-      "change": "Ouro +0,86% (4.073 $/onça) / Bitcoin +1,0% (≈80.600 $)"
+      "change": "Ouro +0,43% (≈4.078 $/onça) / Bitcoin +0,99% (≈81.600 $)"
     }
   ],
   "tips": [
     {
-      "title": "Continuar o investimento mensal no núcleo global",
+      "title": "Mantém o motor do plano: o investimento mensal no mundo inteiro",
       "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
-      "body": "O VWCE já tem lá dentro as tecnológicas que subiram ontem, mas também milhares de outras empresas, por isso não precisas de adivinhar qual vai ganhar. Dias como ontem, em que meia dúzia de ações sobem muito e o resto quase não mexe, são exatamente a razão para ter um fundo do mundo inteiro: estás diversificado (o risco está espalhado). Mantém a compra automática, mesmo com a decisão da Fed hoje.",
+      "body": "Ontem viste a Microsoft a subir e a Alphabet a cair no mesmo dia. Com o VWCE tens as duas e mais de 3.000 empresas, por isso a surpresa de uma empresa pesa pouco. É precisamente para isto que serve diversificar: não tens de adivinhar quem ganha.",
       "horizon": "longo",
       "risk": "médio",
-      "suggestedAmount": "a parte principal do plano, ex.: 70-80% do investimento mensal",
-      "potential": "historicamente 6-8%/ano em períodos longos, com anos negativos pelo meio; não é garantido"
+      "suggestedAmount": "70-80% do investimento mensal (núcleo do plano)",
+      "potential": "6-8%/ano cenário base a longo prazo, com anos negativos pelo meio"
     },
     {
-      "title": "Obrigações para amortecer os sustos",
+      "title": "Obrigações: juros altos tornam esta parte mais interessante",
       "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
-      "body": "Com a Fed e o BCE a subirem juros para travar a inflação causada pela energia, as obrigações (empréstimos a governos e empresas) voltaram a pagar juros interessantes. O VAGF tem cobertura cambial em EUR, ou seja, a descida do dólar ou do euro quase não o afeta. Se os juros subirem mais o preço pode cair um pouco no curto prazo, mas no longo prazo compras obrigações novas a pagar mais.",
+      "body": "Com a Fed e o BCE a manter juros altos por causa da inflação do petróleo, as obrigações novas pagam mais do que há uns anos. O VAGF compra obrigações de todo o mundo e protege-te das variações do dólar (cobertura em EUR). Amortece as quedas das ações, embora também possa descer se os juros subirem ainda mais.",
       "horizon": "médio",
       "risk": "baixo",
-      "suggestedAmount": "ex.: 15-25% do investimento mensal",
-      "potential": "≈3-4%/ano em cenário base (próximo dos juros atuais), sem garantia"
+      "suggestedAmount": "15-20% do investimento mensal",
+      "potential": "3-4%/ano cenário base"
     },
     {
-      "title": "Fundo de emergência e dinheiro para os próximos meses",
+      "title": "Fundo de emergência e dinheiro à espera",
       "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
-      "body": "O XEON acompanha a taxa de juro diária do euro e quase não oscila, por isso serve para guardar dinheiro que podes precisar em breve. Com o BCE em 2,5% e a hipótese de nova subida em dezembro, o rendimento deste tipo de ETF tende a acompanhar essa taxa. Não é para fazer crescer o património a longo prazo, mas para dormires descansado.",
+      "body": "O XEON acompanha a taxa de juro diária do euro, que está ligada à taxa do BCE (2,5%). Quase não oscila, por isso é bom para dinheiro que possas precisar em breve. Se o BCE voltar a subir juros em dezembro, como o mercado espera, este rendimento acompanha.",
       "horizon": "curto",
       "risk": "baixo",
-      "suggestedAmount": "o equivalente a 3-6 meses de despesas, antes de investir em ações",
-      "potential": "≈2-2,5%/ano, a acompanhar a taxa do BCE"
+      "suggestedAmount": "0-10% do investimento mensal, até teres 3-6 meses de despesas de reserva",
+      "potential": "≈2-2,5%/ano, acompanha a taxa do BCE"
     },
     {
-      "title": "Ideia complementar: as 500 empresas americanas com o mesmo peso",
-      "instrument": "XDEW · Xtrackers S&P 500 Equal Weight UCITS ETF (Acc)",
-      "body": "No S&P 500 normal, as maiores tecnológicas pesam muito, e ontem a subida veio quase toda delas. Este ETF dá o mesmo peso a cada uma das 500 empresas, por isso depende menos de meia dúzia de gigantes. É uma ideia para quem já tem o plano base montado e quer reduzir a dependência das grandes tecnológicas; pode ficar atrás do índice normal durante anos se essas continuarem a liderar.",
+      "title": "Ideia complementar: dar um pouco mais de peso à Europa",
+      "instrument": "MEUD · Amundi Stoxx Europe 600 UCITS ETF (Acc)",
+      "body": "O VWCE tem mais de 60% em ações americanas, muito concentradas em grandes tecnológicas que estão a gastar fortunas em IA. Um ETF do Stoxx 600 dá-te as 600 maiores empresas europeias, com bancos, indústria e consumo. Não é obrigatório: a Europa também pode ficar para trás e sofre com o petróleo caro.",
       "horizon": "longo",
       "risk": "médio",
-      "suggestedAmount": "no máximo 5-10% do investimento mensal, só depois do plano base",
-      "potential": "semelhante às ações americanas no longo prazo (6-9%/ano cenário base), com anos de desempenho diferente; não é garantido"
+      "suggestedAmount": "no máximo 5-10% do investimento mensal",
+      "potential": "5-8%/ano cenário base, sem garantias"
     }
   ],
   "news": [
     {
-      "title": "Stock Market Today (Oct. 27, 2026): Nasdaq and Russell 2000 gain as Anthropic lifts tech sector",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026",
-      "summary": "Wall Street subiu puxada pela tecnologia e pela entrada em bolsa da Anthropic; a Boeing caiu cerca de 10% depois de cortar a meta de entregas.",
-      "relevance": "As grandes tecnológicas pesam bastante no VWCE, por isso dias assim ajudam o teu ETF, mas não mudam nada no plano mensal."
+      "title": "U.S. stocks close higher as Fed holds rates steady",
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20261029/f80380f9d16c4f11887371493d2b3211/c.html",
+      "summary": "A Fed manteve os juros em 3,75%-4% numa votação 10-2, com dois membros a quererem subir já. O S&P 500 subiu pelo terceiro dia e a Oracle disparou 10,7%.",
+      "relevance": "Juros que ficam altos durante mais tempo podem travar as bolsas a curto prazo, mas quem compra todos os meses aproveita preços mais baixos se houver quedas."
     },
     {
-      "title": "European Stocks Advance on Lower Oil, Solid US Data; HSBC Slides",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/european-stocks-pulled-lower-by-banks-as-hsbc-results-disappoint",
-      "summary": "As bolsas europeias subiram com a descida do petróleo e bons dados americanos, apesar da queda do HSBC após resultados abaixo do esperado.",
-      "relevance": "Petróleo mais barato alivia a inflação na Europa e é boa notícia para as empresas europeias dentro do teu ETF global."
+      "title": "Microsoft and Alphabet Just Reported Earnings, Putting the AI Boom to the Test",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/10/28/microsoft-and-alphabet-just-reported-earnings-putting-the-ai-boom-to-the-test/",
+      "summary": "A Microsoft bateu as previsões com a cloud Azure a crescer 48% e subiu depois do fecho. A Alphabet gastou 51 mil milhões num trimestre em IA, teve fluxo de caixa negativo e caiu.",
+      "relevance": "As grandes tecnológicas pesam muito no VWCE; resultados mistos lembram que diversificar evita depender de uma só aposta na IA."
     },
     {
-      "title": "Bolsa de Lisboa fecha a subir 0,85% numa Europa maioritariamente positiva",
-      "source": "Executive Digest",
-      "url": "https://executivedigest.sapo.pt/bolsa-de-lisboa-fecha-a-subir-085-numa-europa-maioritariamente-positiva/",
-      "summary": "O PSI subiu 0,85% para 9.253,58 pontos, liderado pela EDP Renováveis (+3,4%), com 11 das 16 cotadas em alta.",
-      "relevance": "Portugal é uma fatia muito pequena de um ETF global; o PSI interessa para contexto, não para decidir o teu investimento."
+      "title": "Oil Rises with Iran Attack Report, Israeli Election in Focus",
+      "source": "Rigzone (Bloomberg)",
+      "url": "https://www.rigzone.com/news/wire/oil_rises_with_iran_attack_report_israeli_election_in_focus-28-oct-2026-184958-article/",
+      "summary": "O Brent subiu 1,3% para 115,32 dólares com notícias de que os EUA poderão voltar a atacar o Irão depois das eleições intercalares e com stocks de crude a cair.",
+      "relevance": "Petróleo caro alimenta a inflação e mantém os juros altos; é uma das principais razões para ter também obrigações e monetário no plano."
     },
     {
-      "title": "European Central Bank Expected to Hold Interest Rates at 2.5%",
-      "source": "Greek City Times",
-      "url": "https://greekcitytimes.com/2026/10/28/european-central-bank-expected-to-hold-interest-rates-at-2-5",
-      "summary": "O BCE deverá manter a taxa em 2,5% na quinta-feira, depois de subidas em junho e setembro; a inflação da zona euro chegou a 3,8% em setembro por causa da energia.",
-      "relevance": "Juros mais altos tornam o XEON e as obrigações (VAGF) mais rentáveis, e podem pesar nas ações no curto prazo."
+      "title": "STOXX 600 inches lower as investors sift through earnings, higher oil prices",
+      "source": "Reuters / Euronext",
+      "url": "https://live.euronext.com/en/financial-news/stoxx-600-inches-lower-investors-sift-through-earnings-higher-oil-prices",
+      "summary": "A bolsa europeia fechou quase sem mudança: a Stellantis subiu mais de 15% e o Deutsche Bank 4%, mas a Adyen caiu 13% e a Thyssenkrupp 17%.",
+      "relevance": "Dentro de um índice há sempre grandes vencedores e perdedores no mesmo dia; num ETF o efeito anula-se em grande parte."
     },
     {
-      "title": "ECO da semana: Resultados, nervos de aço nos juros e o Orçamento do Estado",
+      "title": "Lisboa fecha em baixa ligeira. Cotadas do retalho pressionam",
+      "source": "Jornal de Negócios",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/lisboa-fecha-em-baixa-ligeira-cotadas-do-retalho-pressionam",
+      "summary": "O PSI recuou 0,08% para 9.245,78 pontos, penalizado pela Jerónimo Martins e Sonae; a Galp subiu com o petróleo.",
+      "relevance": "A bolsa portuguesa é uma fatia mínima de um ETF global; o seu dia não deve mudar o teu plano."
+    },
+    {
+      "title": "ECB to hold rates as investors focus on French bonds, Lagarde's future",
+      "source": "Reuters",
+      "url": "https://wtvbam.com/2026/10/28/ecb-to-hold-rates-as-investors-focus-on-french-bonds-lagardes-future/",
+      "summary": "O BCE deve manter a taxa de depósito em 2,5% hoje, depois de duas subidas desde junho; o mercado espera mais subidas e preocupa-se com os juros elevados da dívida francesa.",
+      "relevance": "A taxa do BCE define o rendimento do XEON e influencia as obrigações do VAGF; juros mais altos significam mais rendimento para a parte segura do plano."
+    },
+    {
+      "title": "Parlamento discute Orçamento do Estado para 2027 antes da primeira votação",
       "source": "ECO",
-      "url": "https://eco.sapo.pt/2026/10/25/eco-da-semana-resultados-nervos-de-aco-nos-juros-e-o-orcamento-do-estado/",
-      "summary": "Semana com Fed, BCE e Banco do Japão, resultados de BCP, Jerónimo Martins e Galp, e a votação na generalidade do Orçamento do Estado para 2027.",
-      "relevance": "Muitos acontecimentos numa só semana podem trazer oscilações; o plano automático serve precisamente para não teres de reagir a cada um."
-    },
-    {
-      "title": "Fed Rate Decision October 2026: Hike or Hold on 28 Oct?",
-      "source": "Admiral Markets",
-      "url": "https://admiralmarkets.com/analytics/traders-blog/fed-rate-decision-october-2026",
-      "summary": "A Fed tem os juros entre 3,75% e 4% e o mais provável é mantê-los hoje, com o mercado a apostar numa subida em dezembro.",
-      "relevance": "Se a Fed surpreender, as bolsas podem mexer bastante num dia; para quem investe há décadas, um dia de decisão é ruído."
-    },
-    {
-      "title": "Germany 10-Year Bond Yield",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/germany/government-bond-yield",
-      "summary": "A yield da dívida alemã a 10 anos estava perto de 3,36%, junto aos mínimos desde início de setembro, com investidores à procura de ativos seguros.",
-      "relevance": "A yield alemã é a referência dos juros na zona euro e influencia o rendimento das obrigações que o VAGF compra."
+      "url": "https://eco.sapo.pt/2026/10/28/parlamento-discute-orcamento-do-estado-para-2027-antes-da-primeira-votacao-acompanhe-aqui",
+      "summary": "O Parlamento debateu o OE2027, com a habitação no centro da discussão antes da votação na generalidade.",
+      "relevance": "Vale a pena acompanhar mudanças fiscais que mexam com a tributação de mais-valias ou com contas de poupança, mas o plano de ETF não depende do Orçamento."
     }
   ],
   "signals": [
     {
       "symbol": "VWCE.DE",
       "action": "MANTER",
-      "reason": "É o núcleo do plano e já inclui as tecnológicas que lideram a subida e o resto do mundo. Continua com a compra mensal automática."
+      "reason": "Núcleo do plano; nada nas notícias de ontem muda a lógica de investir todos os meses no mundo inteiro."
     },
     {
       "symbol": "VAGF.DE",
       "action": "MANTER",
-      "reason": "Com juros altos na Europa e nos EUA, as obrigações pagam rendimentos interessantes e amortecem as quedas das ações. A cobertura em EUR protege das oscilações do dólar."
+      "reason": "Juros altos tornam as obrigações mais rentáveis à entrada; mantém a percentagem definida no plano."
     },
     {
       "symbol": "XEON.DE",
       "action": "MANTER",
-      "reason": "Ideal para o fundo de emergência; o rendimento acompanha a taxa do BCE, que deverá manter-se em 2,5% esta semana."
+      "reason": "Rendimento acompanha o BCE (2,5%) e pode subir se houver nova subida em dezembro; ideal para a reserva."
     },
     {
       "symbol": "VUAA.L",
       "action": "MANTER",
-      "reason": "S&P 500 em ações americanas, bom ETF, mas cerca de 60% do VWCE já são EUA. Se já tens VWCE, não precisas dele."
+      "reason": "S&P 500 em máximos e muito concentrado em tecnológicas; se já tens VWCE, não precisas de reforçar."
     },
     {
       "symbol": "IWDA.AS",
       "action": "MANTER",
-      "reason": "Alternativa ao VWCE só com países desenvolvidos. Escolhe um dos dois para o núcleo, ter ambos é quase repetir o mesmo."
+      "reason": "Alternativa válida ao VWCE (só países desenvolvidos); não vale a pena ter os dois nem trocar por causa de um dia."
     },
     {
       "symbol": "SXR8.DE",
       "action": "MANTER",
-      "reason": "Mesmo índice que o VUAA e o CSPX (S&P 500), cotado em euros na Xetra. Só faz sentido como complemento pequeno."
+      "reason": "Igual ao S&P 500; sobrepõe-se em grande parte ao VWCE, por isso não é necessário para um principiante."
     },
     {
       "symbol": "CSPX.L",
       "action": "MANTER",
-      "reason": "Igual ao SXR8 mas cotado em dólares em Londres; para quem investe em euros, o SXR8 costuma ser mais prático."
+      "reason": "Mesmo índice que o SXR8 noutra bolsa (cotado em dólares); a mesma lógica: dispensável se tens VWCE."
     },
     {
       "symbol": "AAPL",
       "action": "MANTER",
-      "reason": "Ação individual com peso grande nos índices; para principiantes é melhor tê-la através do VWCE do que comprar à parte."
+      "reason": "Sem notícias relevantes ontem; ações individuais devem ser uma parte pequena, se existirem, numa carteira de principiante."
     },
     {
       "symbol": "MSFT",
-      "action": "REVER",
-      "reason": "A Microsoft apresenta resultados esta semana, que podem fazer a ação subir ou descer bastante. Quem a tiver diretamente deve rever depois dos resultados, sem pressa."
+      "action": "MANTER",
+      "reason": "Bons resultados e Azure a crescer 48%, mas a ação já reflete muito otimismo; não persigas a subida pós-resultados."
     },
     {
       "symbol": "NVDA",
-      "action": "MANTER",
-      "reason": "Os chips subiram 3,6% num só dia; perseguir uma ação depois de subidas fortes aumenta o risco. Já a tens em pequena parte através do VWCE."
+      "action": "REVER",
+      "reason": "Muito dependente dos gastos em IA das grandes tecnológicas; a reação negativa à Alphabet mostra que o mercado começa a questionar esses gastos. Se tens, confirma que o peso é pequeno."
     }
   ],
   "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
-  "lessonTitle": "Porque é que o dólar mexe com os teus ETF",
-  "lessonBody": "Ontem o euro desceu 0,43% face ao dólar, para 1,1131. Cerca de 60% das empresas do VWCE são americanas e valem em dólares, por isso quando o dólar sobe face ao euro o teu ETF vale um pouco mais em euros, e quando desce vale um pouco menos, mesmo que as ações não mexam. A isto chama-se risco cambial: a variação da taxa de câmbio entre duas moedas. Nas ações, a longo prazo estes efeitos tendem a equilibrar-se; nas obrigações, que oscilam pouco, o câmbio pesaria demasiado, e é por isso que o VAGF tem cobertura em EUR (protege-te dessas oscilações).",
-  "beginnerNote": "Hoje há decisão da Fed e amanhã do BCE: mantém o plano mensal como está e não compres nem vendas por causa disso. Ninguém sabe ao certo o que vão dizer, e quem investe todos os meses durante anos ganha com a disciplina, não com o momento escolhido."
+  "lessonTitle": "Porque é que o petróleo mexe com os juros",
+  "lessonBody": "Quando o petróleo sobe, sobem os combustíveis, os transportes e muitos outros preços, ou seja, a inflação (a subida geral dos preços). Para travar a inflação, os bancos centrais como a Fed e o BCE mantêm ou sobem os juros, o que torna o crédito mais caro e arrefece a economia. Foi por isso que dois membros da Fed quiseram subir juros ontem e que se espera que o BCE suba de novo em dezembro. Para ti isto tem dois lados: as ações podem ficar mais nervosas, mas as obrigações (VAGF) e o monetário (XEON) passam a render mais.",
+  "beginnerNote": "Mantém o plano mensal tal como está: decisões de bancos centrais e resultados de empresas são notícias de um dia, e o teu ETF global já tem as empresas que sobem e as que descem. Investir sempre a mesma quantia todos os meses é o que te protege de entrar no momento errado."
 }

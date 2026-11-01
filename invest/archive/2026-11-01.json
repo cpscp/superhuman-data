@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-01",
+  "generatedBy": "Claude · análise diária",
+  "marketSummary": "É domingo, por isso as bolsas estão fechadas e os números abaixo são do fecho de sexta-feira, 30 de outubro. Nesse dia o Nasdaq caiu 2,9% e o S&P 500 1,8%, depois de resultados fracos da Intel (cerca de -29%) e da Amazon, que reforçaram a dúvida sobre quem paga os enormes investimentos em inteligência artificial e quando é que dão retorno. Na Europa a queda foi muito menor (Stoxx 600 -0,4%, PSI -0,5%), embora o Stoxx 600 tenha fechado outubro com o melhor mês desde junho. O petróleo continua caro (Brent acima de 115 $) por causa das tensões no Médio Oriente e na Rússia, o que alimenta receios de inflação e de subida de juros nos EUA. Esta semana traz muita coisa: resultados da Apple (segunda), eleições intercalares nos EUA (terça) e os números do emprego americano (sexta).",
+  "mood": "risk-off",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "change": "-1,82% (7.580,07; -0,6% na semana)"
+    },
+    {
+      "name": "Nasdaq",
+      "change": "-2,86% (25.437,00; -5,3% em outubro)"
+    },
+    {
+      "name": "Dow Jones",
+      "change": "-1,09% (51.770,31)"
+    },
+    {
+      "name": "Stoxx 600",
+      "change": "-0,38% (646,64)"
+    },
+    {
+      "name": "PSI",
+      "change": "-0,47% (9.276,13; BCP -2,49%)"
+    },
+    {
+      "name": "Yields 10 anos (Treasury / Bund)",
+      "change": "EUA -0,085 p.p. (≈4,90%) / Alemanha -0,016 p.p. (≈3,36%)"
+    },
+    {
+      "name": "Petróleo WTI / Brent",
+      "change": "WTI +2,08% (104,12 $) / Brent acima de 117 $ em sessão"
+    },
+    {
+      "name": "Ouro / Bitcoin",
+      "change": "Ouro -3,5% (≈3.880 $/onça, mínimo de um ano) / Bitcoin +0,8% em 24h (≈77.725 $, domingo de manhã)"
+    }
+  ],
+  "tips": [
+    {
+      "title": "Deixa o débito mensal fazer o trabalho",
+      "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
+      "body": "O VWCE tem cerca de 3.700 empresas de todo o mundo, por isso uma má semana da Intel ou da Amazon pesa pouco no total. Quando os preços descem, o mesmo valor mensal compra mais unidades do ETF, o que melhora o teu preço médio a longo prazo. O risco é que as ações podem cair 20-30% num ano mau; por isso este dinheiro deve ser para 10+ anos.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "70-80% do investimento mensal (o núcleo do plano)",
+      "potential": "historicamente 6-8%/ano em média a longo prazo, com anos negativos pelo meio; sem garantia"
+    },
+    {
+      "title": "Obrigações: o amortecedor que funcionou na sexta",
+      "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
+      "body": "Quando as ações caíram, muitos investidores procuraram segurança e os juros das obrigações do Tesouro americano e alemãs desceram, o que faz subir o preço das obrigações que já existem. A cobertura em EUR (hedged) protege-te das oscilações do dólar. O risco principal é a subida de juros: se a Fed subir em dezembro, este ETF pode descer um pouco.",
+      "horizon": "médio",
+      "risk": "baixo",
+      "suggestedAmount": "15-25% do investimento mensal",
+      "potential": "cerca de 3-4%/ano cenário base, em linha com os juros atuais"
+    },
+    {
+      "title": "Monetário para emergências e para dormir descansado",
+      "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
+      "body": "O XEON acompanha a taxa de juro diária do euro, por isso quase não oscila. O BCE manteve os juros na semana passada, e o XEON rende perto dessa taxa. Serve para o fundo de emergência (3-6 meses de despesas) ou para dinheiro que vais precisar em menos de 2 anos, não para crescer a longo prazo.",
+      "horizon": "curto",
+      "risk": "baixo",
+      "suggestedAmount": "o necessário para o fundo de emergência; depois 0-10% do mensal",
+      "potential": "perto da taxa do BCE, sem grandes oscilações"
+    },
+    {
+      "title": "Ideia opcional: saúde, um setor mais defensivo",
+      "instrument": "XDWH · Xtrackers MSCI World Health Care UCITS ETF 1C (Acc)",
+      "body": "Na sexta-feira, quando a tecnologia caiu, os investidores europeus foram para setores defensivos como farmacêuticas e alimentação, cujos lucros dependem menos da economia. Um pequeno ETF de saúde reduz a dependência das gigantes tecnológicas, que pesam muito no VWCE. O risco é que um só setor é menos diversificado e pode ficar anos atrás do mercado; confirma o ticker UCITS exato na tua corretora.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "no máximo 5% do investimento mensal",
+      "potential": "semelhante ao mercado a longo prazo, com quedas normalmente menores; sem garantia"
+    }
+  ],
+  "news": [
+    {
+      "title": "Markets News, Oct. 30, 2026: Tech Sell-Off Sends Nasdaq, S&P 500 Reeling; Intel Stock Drops 30%; Bitcoin Slides, Gold Hits One-Year Low",
+      "source": "Yahoo Finance / Investopedia",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-123540419.html",
+      "summary": "Intel caiu cerca de 29% apesar de bons resultados, por causa de previsões fracas; a Amazon desiludiu no fluxo de caixa e os chips afundaram (SOXX -8%, Nvidia -4,2%).",
+      "relevance": "As tecnológicas americanas pesam muito no VWCE, por isso sentiste esta queda, mas diluída por milhares de outras empresas."
+    },
+    {
+      "title": "Nasdaq 100 Sinks 3.5% as AI Earnings Expose a Financing Problem. Midterms, Apple and Jobs Report Next.",
+      "source": "Cardano Capital (Substack)",
+      "url": "https://cardanocapital.substack.com/p/nasdaq-100-sinks-35-as-ai-earnings",
+      "summary": "O Nasdaq 100 chegou a estar mais de 10% abaixo do máximo de 6 de outubro durante a sessão; o S&P 500 teve a terceira semana seguida de perdas mas ainda sobe 10,7% em 2026.",
+      "relevance": "Mesmo depois desta queda o ano continua positivo — bom lembrete de que as quedas fazem parte do caminho."
+    },
+    {
+      "title": "European shares stumble at end of best month since June",
+      "source": "Reuters via Business Recorder",
+      "url": "https://www.brecorder.com/news/40446727/european-shares-stumble-at-end-of-best-month-since-june",
+      "summary": "O Stoxx 600 caiu 0,36% na sexta, com a tecnologia europeia a perder 2,75%, mas fechou outubro com o melhor mês desde junho.",
+      "relevance": "A parte europeia do teu ETF portou-se melhor que a americana: é a diversificação geográfica a funcionar."
+    },
+    {
+      "title": "Europa fecha em baixa pressionada por tecnologia e energia. PSI recua com tombo do BCP",
+      "source": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/europa-fecha-em-baixa-pressionada-por-tecnologia-e-energia-psi-recua-com-tombo-do-bcp/",
+      "summary": "O PSI caiu 0,47% com o BCP a perder 2,49%; os juros alemães desceram e os portugueses ficaram estáveis perto de 3,83%.",
+      "relevance": "Portugal pesa muito pouco num ETF global; o que acontece no PSI quase não mexe no teu plano."
+    },
+    {
+      "title": "Gold falls below $3,900, silver tumbles as Wall Street selloff triggers liquidation",
+      "source": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-10-30/gold-falls-below-3900-silver-tumbles-wall-street-selloff-triggers",
+      "summary": "O ouro caiu cerca de 3,5% e a prata 6%, porque muitos investidores venderam o que tinham para cobrir perdas e por receios de juros mais altos.",
+      "relevance": "Nem os ativos 'refúgio' sobem sempre; por isso o plano usa obrigações e monetário como amortecedor, não ouro."
+    },
+    {
+      "title": "Bitcoin Price: Tightest Daily Range Since October 17",
+      "source": "CryptoTicker",
+      "url": "https://cryptoticker.io/en/bitcoin-price-narrowest-daily-range-november-2026/",
+      "summary": "O Bitcoin está perto de 77.700 $ este domingo, numa calma rara, mas fechou outubro 7,7% abaixo de setembro após o ataque informático à Binance.",
+      "relevance": "As criptomoedas são muito voláteis e não fazem parte do plano base; se quiseres, nunca mais do que uma fatia mínima."
+    },
+    {
+      "title": "É oficial. Christine Lagarde abandona presidência do Banco Central Europeu a 7 de fevereiro",
+      "source": "ECO",
+      "url": "https://eco.sapo.pt/2026/10/29/e-oficial-christine-lagarde-abandona-presidencia-do-banco-central-europeu-a-7-de-fevereiro/",
+      "summary": "O BCE manteve os juros e Lagarde confirmou que sai a 7 de fevereiro; começa a corrida à sucessão.",
+      "relevance": "A taxa do BCE determina quanto rende o XEON e influencia o VAGF; uma mudança na liderança pode mudar o rumo dos juros em 2027."
+    }
+  ],
+  "signals": [
+    {
+      "symbol": "VWCE.DE",
+      "action": "MANTER",
+      "reason": "Núcleo do plano. Uma semana má na tecnologia americana não muda a tese de longo prazo e o débito mensal compra mais barato."
+    },
+    {
+      "symbol": "VAGF.DE",
+      "action": "MANTER",
+      "reason": "Amortecedor da carteira; beneficiou da descida dos juros na sexta. Risco moderado se a Fed subir juros em dezembro."
+    },
+    {
+      "symbol": "XEON.DE",
+      "action": "MANTER",
+      "reason": "BCE manteve os juros; continua adequado para fundo de emergência e dinheiro de curto prazo."
+    },
+    {
+      "symbol": "VUAA.L",
+      "action": "MANTER",
+      "reason": "Bom ETF do S&P 500, mas repete grande parte do VWCE. Não é preciso acrescentar."
+    },
+    {
+      "symbol": "IWDA.AS",
+      "action": "MANTER",
+      "reason": "Alternativa ao VWCE (só países desenvolvidos). Ter os dois acrescenta pouca diversificação."
+    },
+    {
+      "symbol": "SXR8.DE",
+      "action": "MANTER",
+      "reason": "S&P 500 em euros; sobrepõe-se ao VWCE e está mais exposto à tecnologia que está a cair."
+    },
+    {
+      "symbol": "CSPX.L",
+      "action": "MANTER",
+      "reason": "Mesmo índice que o SXR8 e o VUAA; basta um, se quiseres reforço nos EUA."
+    },
+    {
+      "symbol": "AAPL",
+      "action": "REVER",
+      "reason": "Apresenta resultados segunda-feira depois do fecho; pode mexer muito. Se tens a ação, confirma que não pesa demasiado na carteira e não decidas à pressa."
+    },
+    {
+      "symbol": "MSFT",
+      "action": "MANTER",
+      "reason": "Resultados recentes sólidos, mas sofre com as dúvidas gerais sobre os gastos em IA. Uma só ação é mais arriscada do que o ETF."
+    },
+    {
+      "symbol": "NVDA",
+      "action": "REVER",
+      "reason": "Caiu 4,2% na sexta com o setor dos chips a afundar 8%; AMD e Qualcomm apresentam resultados esta semana e podem mexer com ela. Mantém-na pequena face ao total."
+    }
+  ],
+  "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
+  "lessonTitle": "O que é uma correção",
+  "lessonBody": "Chama-se 'correção' a uma queda de 10% ou mais face ao último máximo; acima de 20% fala-se de 'mercado em baixa' (bear market). Na sexta, o Nasdaq 100 chegou a passar essa linha dos 10% durante o dia, embora tenha fechado um pouco acima. Correções são normais: historicamente acontecem, em média, quase uma vez por ano, e a maioria recupera em meses, não em anos. Para quem investe todos os meses, uma correção é um período em que o mesmo dinheiro compra mais unidades. O erro clássico é vender no meio da queda e perder a recuperação.",
+  "beginnerNote": "Hoje é domingo e não há nada a fazer: mantém o débito mensal como está. Esta semana vai ter muito ruído (Apple, eleições nos EUA, emprego), e reagir a cada notícia costuma custar mais do que ajudar."
+}

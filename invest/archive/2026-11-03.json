@@ -21,12 +21,8 @@
       "change": "-0,3% (9.252; Galp -2,2%)"
     },
     {
-      "name": "Treasury EUA 10 anos (yield)",
-      "change": "-0,035 p.p. (≈4,89%)"
-    },
-    {
-      "name": "Bund alemão 10 anos (yield)",
-      "change": "-0,03 p.p. (≈3,29%)"
+      "name": "Yields 10 anos (EUA / Alemanha)",
+      "change": "-0,035 p.p. (≈4,89%) / -0,03 p.p. (≈3,29%)"
     },
     {
       "name": "EUR/USD",
@@ -39,10 +35,6 @@
     {
       "name": "Ouro",
       "change": "+1,9% (≈3.948 $/onça)"
-    },
-    {
-      "name": "Bitcoin",
-      "change": "-0,1% (≈77.750 $, manhã de segunda)"
     }
   ],
   "tips": [

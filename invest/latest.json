@@ -1,128 +1,193 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "generatedBy": "Claude · análise diária",
-  "marketSummary": "Os números abaixo são do último fecho, sexta-feira 30 de outubro: Wall Street caiu com força (S&P 500 -1,8%, Nasdaq -2,8%) depois de resultados fracos da Intel e da Amazon, que aumentaram as dúvidas sobre se os enormes gastos em inteligência artificial vão dar lucro a tempo. A Europa caiu bem menos (Stoxx 600 -0,4%, PSI -0,5%) e o ouro teve o fecho mais baixo em mais de um ano, por receio de que os bancos centrais subam juros. Esta segunda de manhã o ambiente acalmou um pouco: os futuros dos EUA sobem cerca de 0,4%, a Ásia está mista e o petróleo desce entre 1,5% e 3% porque o Irão fala numa proposta, negociada no Catar, que poderia reabrir o Estreito de Ormuz. A semana é cheia: resultados da Apple hoje à noite, eleições intercalares nos EUA amanhã e números do emprego americano na sexta.",
-  "mood": "risk-off",
+  "marketSummary": "Segunda-feira foi um dia de sinais trocados. O petróleo Brent caiu mais de 7% (para cerca de 105 $) com a esperança de conversações de paz entre os EUA e o Irão, o que ajudou a Europa (Stoxx 600 +0,45%) e o Dow Jones (+0,4%). Mas as ações de tecnologia continuaram a ser vendidas, depois da semana passada, e puxaram o S&P 500 (-0,5%) e o Nasdaq (-1,1%) para baixo; a Apple apresentou receitas recorde, mas previu margens de lucro mais baixas e caiu ligeiramente após o fecho. Em Lisboa o PSI recuou 0,3%, travado pela Galp (-2,2%), que sofre quando o petróleo desce. Hoje há eleições intercalares nos EUA e, na sexta, números do emprego americano, por isso pode haver mais oscilações.",
+  "mood": "neutro",
   "indices": [
-    {"name": "S&P 500", "change": "-1,8% (7.580; futuros +0,4% esta manhã)"},
-    {"name": "Stoxx 600", "change": "-0,4% (646,75)"},
-    {"name": "PSI", "change": "-0,5% (9.276; BCP -2,5%)"},
-    {"name": "Treasury EUA 10 anos (yield)", "change": "-0,06 p.p. (≈4,93%)"},
-    {"name": "Bund alemão 10 anos (yield)", "change": "-0,04 p.p. (≈3,32%)"},
-    {"name": "EUR/USD", "change": "-0,3% (≈1,116; 1,117 esta manhã)"},
-    {"name": "Petróleo WTI", "change": "+2,1% (104 $; cai ~2-3% esta manhã)"},
-    {"name": "Ouro", "change": "-3,3% (≈3.899 $/onça, mínimo de um ano; +0,9% esta manhã)"}
+    {
+      "name": "S&P 500",
+      "change": "-0,5% (7.541)"
+    },
+    {
+      "name": "Nasdaq",
+      "change": "-1,1% (25.164)"
+    },
+    {
+      "name": "Stoxx 600",
+      "change": "+0,45%"
+    },
+    {
+      "name": "PSI",
+      "change": "-0,3% (9.252; Galp -2,2%)"
+    },
+    {
+      "name": "Treasury EUA 10 anos (yield)",
+      "change": "-0,035 p.p. (≈4,89%)"
+    },
+    {
+      "name": "Bund alemão 10 anos (yield)",
+      "change": "-0,03 p.p. (≈3,29%)"
+    },
+    {
+      "name": "EUR/USD",
+      "change": "+0,5% (≈1,12, na sessão europeia)"
+    },
+    {
+      "name": "Petróleo Brent",
+      "change": "-7,4% (≈105 $)"
+    },
+    {
+      "name": "Ouro",
+      "change": "+1,9% (≈3.948 $/onça)"
+    },
+    {
+      "name": "Bitcoin",
+      "change": "-0,1% (≈77.750 $, manhã de segunda)"
+    }
   ],
   "tips": [
     {
-      "title": "Uma semana barulhenta não muda o núcleo do plano",
+      "title": "Rotação de setores? O VWCE já a faz por si",
       "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
-      "body": "O VWCE junta milhares de empresas de todo o mundo, por isso a queda da Intel ou um mau dia da Apple pesam pouco no total. Quando os preços descem, o teu valor mensal compra mais unidades e baixa o teu preço médio. O risco é real: as ações podem cair 20-30% num ano mau, por isso este dinheiro deve ficar investido 10 anos ou mais.",
+      "body": "Ontem o dinheiro saiu da tecnologia e foi para companhias aéreas, indústria e Europa. Um ETF do mundo inteiro tem um pouco de tudo isto, por isso quando um setor cai outro pode compensar. É a razão para ser o núcleo do plano: não precisas de adivinhar que setor vai ganhar.",
       "horizon": "longo",
       "risk": "médio",
       "suggestedAmount": "70-80% do investimento mensal (o núcleo do plano)",
-      "potential": "historicamente 6-8%/ano em média a longo prazo, com anos negativos pelo meio; sem garantia"
+      "potential": "cenário base histórico de 6-8%/ano em média, com anos negativos pelo meio; sem garantias"
     },
     {
-      "title": "Obrigações: o amortecedor quando as ações tremem",
+      "title": "Obrigações: juros a descer ajudam quem já as tem",
       "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
-      "body": "Na sexta, enquanto as ações caíam, os juros das obrigações americanas e alemãs desceram, o que faz subir o preço das obrigações que já existem. 'EUR Hedged' quer dizer que o ETF anula o efeito das oscilações do dólar face ao euro. O principal risco é uma subida forte de juros, que faria este ETF descer um pouco.",
+      "body": "As yields (o juro que os empréstimos aos Estados pagam) desceram ontem nos EUA e na Alemanha. Quando as yields descem, as obrigações que já existem valem um pouco mais. A cobertura em EUR (hedged) evita que as oscilações do dólar mexam neste amortecedor.",
       "horizon": "médio",
       "risk": "baixo",
       "suggestedAmount": "15-25% do investimento mensal",
-      "potential": "cerca de 3-4%/ano cenário base, em linha com os juros atuais; sem garantia"
+      "potential": "cenário base de 3-4%/ano, ligado aos juros atuais"
     },
     {
       "title": "Fundo de emergência primeiro, em monetário",
       "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
-      "body": "O XEON acompanha a taxa de juro diária do euro, por isso quase não oscila. O BCE manteve os juros na semana passada e admitiu discutir uma subida, o que mantém o rendimento do XEON perto da taxa do BCE. É o sítio para 3-6 meses de despesas ou dinheiro que vais precisar em menos de 2 anos, não para crescer a longo prazo.",
+      "body": "Com eleições nos EUA hoje e notícias de guerra e paz a mexer no petróleo, a semana pode ser agitada. Ter 3-6 meses de despesas num ativo estável como o XEON (acompanha a taxa de juro diária do euro) evita teres de vender ações num dia mau.",
       "horizon": "curto",
       "risk": "baixo",
       "suggestedAmount": "o necessário para o fundo de emergência; depois 0-10% do mensal",
-      "potential": "perto da taxa de juro do BCE, sem grandes oscilações"
+      "potential": "próximo da taxa do BCE, sem grandes oscilações"
     },
     {
-      "title": "Ideia opcional: uma pitada de ouro como diversificação",
-      "instrument": "IGLN · iShares Physical Gold ETC",
-      "body": "O ouro caiu para o valor mais baixo de um ano, o que torna a entrada menos cara do que há uns meses. Não paga juros nem dividendos e pode cair bastante (como se viu na sexta), mas às vezes sobe quando há crises ou inflação, comportando-se de forma diferente das ações. Se quiseres, fica sempre numa fatia pequena; é um ETC (título que guarda ouro físico), não um ETF.",
+      "title": "Ideia opcional: um pouco mais de Europa",
+      "instrument": "SMEA · iShares Core MSCI Europe UCITS ETF (Acc)",
+      "body": "A bolsa europeia tem aguentado melhor do que a americana nos últimos dias porque depende menos das grandes tecnológicas. O VWCE já tem Europa (cerca de 15%), por isso isto é só um pequeno reforço, não obrigatório. Risco: a Europa é sensível à energia e à política (ex.: as dúvidas orçamentais em França).",
       "horizon": "longo",
-      "risk": "alto",
-      "suggestedAmount": "no máximo 5% do investimento mensal",
-      "potential": "muito incerto; serve mais como proteção do que para crescer"
+      "risk": "médio",
+      "suggestedAmount": "no máximo 5-10% do investimento mensal",
+      "potential": "semelhante às ações globais a longo prazo; sem garantias"
     }
   ],
   "news": [
     {
-      "title": "Markets News, Oct. 30, 2026: Tech Sell-Off Sends Nasdaq, S&P 500 Reeling; Intel Stock Drops 30%; Bitcoin Slides, Gold Hits One-Year Low",
-      "source": "Yahoo Finance / Investopedia",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-123540419.html",
-      "summary": "A Intel caiu cerca de 29% por causa de previsões fracas, a Amazon desiludiu no dinheiro que gera e os chips afundaram, puxando o Nasdaq para -2,9%.",
-      "relevance": "As grandes tecnológicas americanas pesam muito no VWCE, por isso sentes estas quedas, mas diluídas por milhares de outras empresas."
+      "title": "How major US stock indexes fared Monday 11/2/2026",
+      "source": "AP / Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-212103580.html",
+      "summary": "O S&P 500 chegou a subir 1,1% de manhã, mas fechou em -0,5%, com a Nvidia e outras tecnológicas a pesar.",
+      "relevance": "Mostra como um dia pode mudar de sentido em horas; quem investe todos os meses não precisa de acompanhar estes movimentos."
     },
     {
-      "title": "Stock Selloff Eases in Asian Trade, Oil Declines: Markets Wrap",
-      "source": "Bloomberg via swissinfo.ch",
-      "url": "https://swissinfo.ch/eng/stock-selloff-eases-in-asian-trade,-oil-declines:-markets-wrap/92310840",
-      "summary": "Esta segunda os futuros dos EUA sobem pelo menos 0,4%, o ouro recupera 0,9% e o petróleo desce, depois do pior dia do Nasdaq 100 desde junho.",
-      "relevance": "Mostra como o mercado passa do pânico à calma em poucos dias; quem vende na queda arrisca perder a recuperação."
+      "title": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/",
+      "summary": "Receitas recorde (+12%) e iPhone +17%, mas a Apple prevê margens de 45-46% no próximo trimestre por causa do custo da memória e da IA.",
+      "relevance": "A Apple é uma das maiores posições do VWCE; uma empresa sozinha mexe pouco num ETF com milhares de ações."
     },
     {
-      "title": "Oil slips more than 1% as talks continue on ending Iran war",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/oil-slips-more-than-1percent-as-talks-continue-on-ending-iran-war.html",
-      "summary": "O petróleo desce com as conversações no Catar sobre o fim da guerra com o Irão e a possível reabertura do Estreito de Ormuz.",
-      "relevance": "Petróleo mais barato alivia a inflação, o que pode travar subidas de juros — bom para obrigações (VAGF) e para ações a prazo."
+      "title": "European stocks edge down, oil drops as midterm caution prevails",
+      "source": "Reuters / Euronext",
+      "url": "https://live.euronext.com/en/financial-news/european-stocks-edge-down-oil-drops-midterm-caution-prevails",
+      "summary": "O petróleo caiu com a esperança de um acordo para terminar a guerra com o Irão; os investidores estão cautelosos antes das eleições nos EUA.",
+      "relevance": "Petróleo mais barato reduz a pressão sobre a inflação, o que é geralmente bom para ações e obrigações a prazo."
     },
     {
-      "title": "European shares stumble at end of best month since June",
-      "source": "Reuters via Business Recorder",
-      "url": "https://www.brecorder.com/news/40446727/european-shares-stumble-at-end-of-best-month-since-june",
-      "summary": "O Stoxx 600 caiu 0,36% na sexta, com a tecnologia europeia a perder 2,75%, mas fechou outubro com o melhor mês desde junho.",
-      "relevance": "A parte europeia do teu ETF aguentou melhor que a americana: é a diversificação geográfica a funcionar."
+      "title": "PSI cai arrastado pela queda da Galp em dia de otimismo para conflito do Médio Oriente",
+      "source": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/psi-cai-arrastado-pela-queda-da-galp-em-dia-de-optimismo-para-conflito-do-medio-oriente/",
+      "summary": "O PSI fechou em -0,26%; a Galp caiu 2,2% com o petróleo e a Corticeira Amorim subiu 2%.",
+      "relevance": "Portugal pesa muito pouco num ETF global, por isso o PSI quase não afeta o teu plano; é um bom exemplo de diversificação."
     },
     {
-      "title": "Fitch coloca França a caminho do corte de rating. Altera \"outlook\" para negativo",
-      "source": "Jornal de Negócios",
-      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/fitch-coloca-franca-a-caminho-do-corte-de-rating-altera-outlook-para-negativo",
-      "summary": "A Fitch avisou que pode baixar a nota de crédito de França, cujos juros já estão em máximos de vários anos.",
-      "relevance": "França pesa nas obrigações europeias dentro do VAGF, mas o ETF tem milhares de obrigações de muitos países, o que dilui este risco."
+      "title": "Tech Stocks Pulled the Nasdaq Lower as Oil Tumbled",
+      "source": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026",
+      "summary": "Investidores tiraram dinheiro da tecnologia e puseram-no em setores como aviação e retalho; o índice ISM da indústria americana surpreendeu pela positiva (55,5).",
+      "relevance": "Quando há rotação entre setores, um ETF do mundo inteiro beneficia de uns e perde com outros, ficando mais estável."
     },
     {
-      "title": "Lisboa segue perdas europeias. Regista pior mês em mais de dois anos",
-      "source": "Jornal de Negócios",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/20261030-165327-lisboa-segue-perdas-europeias-bcp-lidera-quedas",
-      "summary": "O PSI caiu 0,47% na sexta, com o BCP a liderar as quedas, e fechou outubro com o pior mês em mais de dois anos.",
-      "relevance": "Portugal é uma parte minúscula de um ETF global; o que acontece no PSI quase não mexe no teu plano."
+      "title": "Gold Rises 1.9% to US$3,948 as Silver Gains 3.2%",
+      "source": "The Rio Times",
+      "url": "https://www.riotimesonline.com/gold-silver-precious-metals-monday-november-2-2026/",
+      "summary": "O ouro recuperou parte da queda de sexta, ajudado pela descida das yields americanas.",
+      "relevance": "O ouro oscila muito; se o quiseres ter, deve ser uma fatia pequena e não substitui as obrigações do plano."
     },
     {
-      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
-      "summary": "O Bitcoin recupera para perto de 78.600 $ depois do roubo de 6,3 mil milhões de dólares à Binance, o maior de sempre numa corretora de cripto.",
-      "relevance": "Lembra que as criptomoedas têm riscos próprios (como ataques às plataformas) e não fazem parte do plano base."
-    },
-    {
-      "title": "'Não é só uma pessoa cheia de dinheiro que consegue investir'. Jovens rompem estigma da poupança",
-      "source": "Jornal de Negócios",
-      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/nao-e-so-uma-pessoa-cheia-de-dinheiro-que-consegue-investir-jovens-rompem-estigma-da-poupanca",
-      "summary": "Cada vez mais jovens portugueses começam a investir com pequenos montantes regulares.",
-      "relevance": "É exatamente a tua estratégia: valores mensais pequenos e constantes, que ao longo dos anos fazem a diferença."
+      "title": "ECO da Semana: ‘Midterms’, contas da EDP e audições do OE2027",
+      "source": "ECO",
+      "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
+      "summary": "Semana com eleições nos EUA, inflação da Zona Euro (quarta), resultados da EDP (quinta), Banco de Inglaterra e emprego nos EUA (sexta).",
+      "relevance": "Muitos eventos numa semana significam mais ruído; o plano mensal automático foi feito precisamente para não teres de reagir a cada um."
     }
   ],
   "signals": [
-    {"symbol": "VWCE.DE", "action": "MANTER", "reason": "Núcleo do plano. Uma semana má na tecnologia americana não muda a tese de longo prazo e o débito mensal compra mais barato."},
-    {"symbol": "VAGF.DE", "action": "MANTER", "reason": "Amortecedor da carteira; beneficiou da descida dos juros na sexta. Petróleo mais barato reduz o risco de novas subidas de juros."},
-    {"symbol": "XEON.DE", "action": "MANTER", "reason": "BCE manteve os juros; continua adequado para fundo de emergência e dinheiro de curto prazo."},
-    {"symbol": "VUAA.L", "action": "REVER", "reason": "Bom ETF do S&P 500, mas repete a parte americana do VWCE. Não é preciso no plano base; se o tens, vê se não estás a duplicar exposição."},
-    {"symbol": "IWDA.AS", "action": "REVER", "reason": "Alternativa ao VWCE (só países desenvolvidos). Ter os dois acrescenta pouca diversificação; escolhe um."},
-    {"symbol": "SXR8.DE", "action": "MANTER", "reason": "S&P 500 negociado em euros; só faz sentido como reforço pequeno dos EUA, e está mais exposto à tecnologia que está a cair."},
-    {"symbol": "CSPX.L", "action": "REVER", "reason": "Mesmo índice que o SXR8 e o VUAA; basta um. Para quem investe em euros, o SXR8 na Xetra é normalmente mais prático."},
-    {"symbol": "AAPL", "action": "REVER", "reason": "Apresenta resultados hoje depois do fecho e a ação pode mexer muito. Se a tens, confirma que não pesa demasiado e não decidas à pressa."},
-    {"symbol": "MSFT", "action": "MANTER", "reason": "Sofre com as dúvidas gerais sobre os gastos em IA. Uma só ação é bem mais arriscada do que o ETF, onde já está incluída."},
-    {"symbol": "NVDA", "action": "REVER", "reason": "Os chips afundaram cerca de 7% na sexta e a Nvidia apresenta resultados ainda este mês. Se a tens, mantém-na pequena face ao total."}
+    {
+      "symbol": "VWCE.DE",
+      "action": "MANTER",
+      "reason": "Núcleo do plano; a rotação entre setores de ontem é exatamente o que a diversificação global absorve."
+    },
+    {
+      "symbol": "VAGF.DE",
+      "action": "MANTER",
+      "reason": "As yields desceram e o petróleo caiu, o que alivia a inflação; continua a ser o amortecedor da carteira."
+    },
+    {
+      "symbol": "XEON.DE",
+      "action": "MANTER",
+      "reason": "Lugar certo para o fundo de emergência numa semana de eleições e dados importantes."
+    },
+    {
+      "symbol": "VUAA.L",
+      "action": "REVER",
+      "reason": "Só ações dos EUA e muito peso em tecnologia, que está a ser vendida; sobrepõe-se ao VWCE e está cotado em dólares."
+    },
+    {
+      "symbol": "IWDA.AS",
+      "action": "REVER",
+      "reason": "Bom ETF de países desenvolvidos, mas repete quase tudo o que o VWCE já tem; não é preciso ter os dois."
+    },
+    {
+      "symbol": "SXR8.DE",
+      "action": "MANTER",
+      "reason": "Para quem já o tem, é uma forma barata de ter o S&P 500 em euros; não é necessário para quem tem VWCE."
+    },
+    {
+      "symbol": "CSPX.L",
+      "action": "REVER",
+      "reason": "Igual ao SXR8 mas cotado em dólares em Londres; para quem investe em euros, a versão alemã é mais simples."
+    },
+    {
+      "symbol": "AAPL",
+      "action": "REVER",
+      "reason": "Resultados recorde, mas previsão de margens mais baixas pesa nas ações; ações individuais concentram risco."
+    },
+    {
+      "symbol": "MSFT",
+      "action": "MANTER",
+      "reason": "Empresa muito diversificada (cloud, software); a pressão sobre a tecnologia afeta-a, mas sem notícias novas negativas."
+    },
+    {
+      "symbol": "NVDA",
+      "action": "REVER",
+      "reason": "Voltou a cair e pesou no S&P 500; muito sensível às dúvidas sobre o retorno dos gastos em IA, por isso só faz sentido numa fatia pequena."
+    }
   ],
   "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
-  "lessonTitle": "Porque é que as obrigações sobem quando as ações caem",
-  "lessonBody": "A 'yield' (rendimento) de uma obrigação é o juro anual que ela paga face ao seu preço; quando o preço sobe, a yield desce, e vice-versa. Na sexta, com as ações a cair, muitos investidores procuraram segurança em obrigações do Tesouro americano e alemãs, a procura fez subir os preços e as yields desceram. É por isso que um plano tem uma parte em obrigações (VAGF): costumam aguentar melhor, ou até subir, nos dias maus das ações. Não é garantido — em 2022 caíram as duas ao mesmo tempo, porque os juros subiram muito — mas na maioria das crises funcionam como amortecedor.",
-  "beginnerNote": "Hoje não há nada a fazer: mantém o débito mensal como está. A semana vai ser barulhenta (Apple, eleições nos EUA, emprego), e reagir a cada notícia custa normalmente mais do que ajuda, porque arriscas vender barato e falhar a recuperação."
+  "lessonTitle": "O que é uma rotação de setores?",
+  "lessonBody": "Uma rotação de setores acontece quando os investidores vendem ações de um tipo de empresa e compram de outro, sem que o dinheiro saia da bolsa. Ontem, por exemplo, venderam tecnologia e compraram companhias aéreas e retalho, que beneficiam do petróleo mais barato. Por isso o Nasdaq (cheio de tecnológicas) caiu 1,1%, enquanto o Dow Jones subiu 0,4% no mesmo dia. Um ETF global como o VWCE tem todos os setores, o que faz com que estas trocas se compensem em parte e a tua carteira oscile menos do que um índice só de tecnologia.",
+  "beginnerNote": "Mantém o plano mensal tal como está: o dia de ontem foi uma troca entre setores e não uma mudança na economia, e as eleições de hoje podem trazer oscilações que a longo prazo pouco contam. Investir sempre o mesmo valor todos os meses faz com que compres mais barato quando os preços descem."
 }

@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-04",
+  "generatedBy": "Claude · análise diária",
+  "marketSummary": "Terça-feira foi um dia misto. Em Wall Street, as ações de chips recuperaram e levaram o Nasdaq a subir 0,8% e o S&P 500 0,4%, mas a Apple caiu cerca de 2% por prever margens de lucro mais baixas e puxou o Dow Jones para baixo. Na Europa o Stoxx 600 recuou 0,6% e o PSI 0,3%, com dúvidas sobre um acordo de paz entre os EUA e o Irão e com os investidores a apostar numa nova subida de juros do BCE em dezembro, o que fez subir as yields alemãs. Durante a noite, os primeiros resultados das eleições intercalares nos EUA apontaram para vitórias democratas e os futuros (contratos que antecipam a abertura da bolsa) caíram cerca de 1% no S&P 500 e 2% no Nasdaq, com o dólar a enfraquecer. Hoje pode ser um dia de quedas, sobretudo na tecnologia americana.",
+  "mood": "risk-off",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "change": "+0,36%"
+    },
+    {
+      "name": "Nasdaq",
+      "change": "+0,83% (futuros ≈-2% durante a noite)"
+    },
+    {
+      "name": "Stoxx 600",
+      "change": "-0,58% (645,66)"
+    },
+    {
+      "name": "PSI",
+      "change": "-0,31% (9.223,89)"
+    },
+    {
+      "name": "Yields 10 anos (EUA / Alemanha)",
+      "change": "≈4,91%, a subir para ≈4,95% durante a noite / a subir para ≈3,33%"
+    },
+    {
+      "name": "EUR/USD",
+      "change": "≈1,12 (dólar a cair ≈0,5% durante a noite)"
+    },
+    {
+      "name": "Petróleo Brent",
+      "change": "-1,25% (≈103,5 $)"
+    },
+    {
+      "name": "Ouro / Bitcoin",
+      "change": "-0,18% (≈3.939 $/onça) / ≈-1% (≈76.500 $)"
+    }
+  ],
+  "tips": [
+    {
+      "title": "Dia de eleições: o VWCE não precisa de saber quem ganha",
+      "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
+      "body": "Os futuros americanos caíram com os primeiros resultados das eleições, mas a história mostra que os mercados se adaptam a qualquer governo ao fim de alguns meses. O VWCE tem milhares de empresas de dezenas de países, por isso não depende de um único resultado político. Comprar todos os meses, também nos dias maus, faz com que compres mais unidades quando o preço está mais baixo.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "70-80% do investimento mensal (o núcleo do plano)",
+      "potential": "cenário base histórico de 6-8%/ano em média, com anos negativos pelo meio; sem garantias"
+    },
+    {
+      "title": "Obrigações: juros a subir são pior hoje, melhor amanhã",
+      "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
+      "body": "As yields (o juro que os Estados pagam quando pedem dinheiro emprestado) subiram na Alemanha e nos EUA, e isso faz baixar um pouco o preço das obrigações que já existem. A parte boa: as novas compras mensais passam a render juros mais altos. A cobertura em EUR (hedged) protege-te da queda do dólar que se viu esta noite.",
+      "horizon": "médio",
+      "risk": "baixo",
+      "suggestedAmount": "15-25% do investimento mensal",
+      "potential": "cenário base de 3-4%/ano, ligado aos juros atuais; sem garantias"
+    },
+    {
+      "title": "Monetário beneficia se o BCE subir juros",
+      "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
+      "body": "Os mercados já contam com uma subida de juros do BCE em dezembro, e o presidente do banco central alemão disse que é provável. O XEON acompanha a taxa de juro diária do euro, por isso rende mais quando o BCE sobe juros. É o sítio certo para o fundo de emergência (3-6 meses de despesas) numa semana agitada.",
+      "horizon": "curto",
+      "risk": "baixo",
+      "suggestedAmount": "o necessário para o fundo de emergência; depois 0-10% do mensal",
+      "potential": "próximo da taxa diária do BCE, sem grandes oscilações"
+    },
+    {
+      "title": "Ideia opcional: menos dependência da tecnologia americana",
+      "instrument": "SMEA · iShares Core MSCI Europe UCITS ETF (Acc)",
+      "body": "Grande parte da queda dos futuros desta noite foi na tecnologia americana, que é muito sensível à política e às dúvidas sobre os gastos em inteligência artificial. Um pequeno reforço em ações europeias reduz essa concentração. Risco: a Europa também caiu ontem e é sensível ao petróleo e aos juros do BCE; o VWCE já tem cerca de 15% de Europa.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "no máximo 5-10% do investimento mensal",
+      "potential": "semelhante às ações globais a longo prazo; sem garantias"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stocks wilt, dollar slides as early midterm results point to blue sweep",
+      "source": "Reuters / Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-dip-investors-010842458.html",
+      "summary": "Os primeiros resultados das eleições intercalares favorecem os democratas; os futuros do S&P 500 e do Nasdaq caíram e o dólar enfraqueceu.",
+      "relevance": "Pode haver quedas hoje, sobretudo nas tecnológicas dos EUA (cerca de 60% do VWCE é EUA). Para quem investe todos os meses, é ruído político de curto prazo."
+    },
+    {
+      "title": "The Stock Market Today, November 3, 2026, Ended Mixed as Chip Stocks Lifted the Nasdaq and Apple Weighed on the Dow",
+      "source": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026",
+      "summary": "Os chips (AMD, Nvidia, Broadcom, Micron) recuperaram e o Nasdaq subiu 0,8%; a Apple caiu por prever margens mais baixas no Natal.",
+      "relevance": "Mostra como um ETF global equilibra setores: uns sobem, outros descem no mesmo dia."
+    },
+    {
+      "title": "European stocks slip as Middle East uncertainty makes for caution",
+      "source": "The Irish Times / Reuters",
+      "url": "https://www.irishtimes.com/business/2026/11/03/european-stocks-slip-as-middle-east-uncertainty-makes-for-caution/",
+      "summary": "O Stoxx 600 caiu 0,58% com dúvidas sobre a paz entre EUA e Irão e mais apostas numa subida de juros do BCE.",
+      "relevance": "A guerra no Médio Oriente continua a mexer no petróleo e na inflação; é um risco de fundo, não um motivo para mudar o plano."
+    },
+    {
+      "title": "Europa fecha no vermelho. Petróleo prolonga queda com negociações entre EUA e Irão em dia de eleições",
+      "source": "Jornal de Negócios",
+      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-perde-terreno-com-pressao-da-ia-e-eleicoes-intercalares-nos-eua",
+      "summary": "O PSI recuou 0,31%, as yields subiram em toda a zona euro (Portugal a 10 anos em 3,76%) e a Euribor voltou a subir.",
+      "relevance": "Juros mais altos encarecem o crédito à habitação, mas fazem render mais o XEON e as novas compras de obrigações."
+    },
+    {
+      "title": "ECB likely to raise rates in December, says Nagel",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/economy-news/ecb-likely-to-raise-rates-in-december-says-nagel-4996194",
+      "summary": "O presidente do Bundesbank disse que é provável o BCE subir juros em dezembro por causa da inflação ligada ao petróleo.",
+      "relevance": "Uma subida de juros pode pesar nas ações a curto prazo, mas o plano já tem obrigações e monetário para equilibrar."
+    },
+    {
+      "title": "S&P 500, Nasdaq Futures Rise With Tech Earnings and Midterm Vote in Focus",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results",
+      "summary": "Antes dos resultados eleitorais, os futuros chegaram a subir com bons resultados de tecnológicas como a AMD.",
+      "relevance": "O humor do mercado mudou em poucas horas; é por isso que tentar acertar no momento de comprar raramente funciona."
+    },
+    {
+      "title": "Current price of Bitcoin for November 3, 2026",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-bitcoin-11-03-2026/",
+      "summary": "A bitcoin rondava os 77.000 dólares, cerca de 1% abaixo do dia anterior.",
+      "relevance": "As criptomoedas não fazem parte do plano base; são muito voláteis e, se existirem, devem ser uma fatia mínima."
+    }
+  ],
+  "signals": [
+    {
+      "symbol": "VWCE.DE",
+      "action": "MANTER",
+      "reason": "Núcleo do plano; resultados eleitorais e quedas de um dia são exatamente o ruído que a diversificação global absorve."
+    },
+    {
+      "symbol": "VAGF.DE",
+      "action": "MANTER",
+      "reason": "Yields a subir baixam um pouco o preço, mas aumentam o rendimento das compras futuras; continua a ser o amortecedor."
+    },
+    {
+      "symbol": "XEON.DE",
+      "action": "MANTER",
+      "reason": "Beneficia de uma eventual subida de juros do BCE em dezembro; ideal para o fundo de emergência."
+    },
+    {
+      "symbol": "VUAA.L",
+      "action": "REVER",
+      "reason": "Só EUA e muito peso em tecnologia, a zona mais afetada pelos futuros desta noite; sobrepõe-se ao VWCE e está cotado em dólares."
+    },
+    {
+      "symbol": "IWDA.AS",
+      "action": "REVER",
+      "reason": "Bom ETF de países desenvolvidos, mas repete quase tudo o que o VWCE já tem; não é preciso ter os dois."
+    },
+    {
+      "symbol": "SXR8.DE",
+      "action": "MANTER",
+      "reason": "Para quem já o tem, é uma forma barata de ter o S&P 500 em euros; não é necessário para quem tem VWCE."
+    },
+    {
+      "symbol": "CSPX.L",
+      "action": "REVER",
+      "reason": "Igual ao SXR8 mas cotado em dólares; com o dólar a cair, quem investe em euros simplifica com a versão alemã."
+    },
+    {
+      "symbol": "AAPL",
+      "action": "REVER",
+      "reason": "Caiu cerca de 2% por prever margens mais baixas (custo dos chips de memória); ações individuais concentram risco."
+    },
+    {
+      "symbol": "MSFT",
+      "action": "MANTER",
+      "reason": "Negócio diversificado (cloud, software) e sem notícias negativas próprias; pode cair com o resto da tecnologia hoje."
+    },
+    {
+      "symbol": "NVDA",
+      "action": "REVER",
+      "reason": "Recuperou ontem com os chips, mas é das mais sensíveis ao risco político e às dúvidas sobre gastos em IA; só numa fatia pequena."
+    }
+  ],
+  "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
+  "lessonTitle": "O que são futuros e porque mexem antes da bolsa abrir?",
+  "lessonBody": "Os futuros são contratos negociados quase 24 horas por dia que apostam no valor de um índice, como o S&P 500, numa data futura. Por isso, quando há notícias à noite (como os resultados eleitorais de hoje), os futuros reagem primeiro e dão uma pista de como a bolsa vai abrir. Mas são só uma pista: o humor pode mudar várias vezes até ao fecho, como se viu ontem, quando os futuros passaram de subida a queda em poucas horas. Para quem investe todos os meses num ETF, os futuros são curiosidade, não um sinal para comprar ou vender.",
+  "beginnerNote": "Mantém o plano mensal e não vendas por causa das eleições: os mercados costumam reagir no dia e adaptar-se depois. Se a bolsa cair hoje, a tua próxima compra automática simplesmente compra mais unidades pelo mesmo dinheiro."
+}

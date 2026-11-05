@@ -1,156 +1,156 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "generatedBy": "Claude · análise diária",
-  "marketSummary": "Terça-feira foi um dia misto. Em Wall Street, as ações de chips recuperaram e levaram o Nasdaq a subir 0,8% e o S&P 500 0,4%, mas a Apple caiu cerca de 2% por prever margens de lucro mais baixas e puxou o Dow Jones para baixo. Na Europa o Stoxx 600 recuou 0,6% e o PSI 0,3%, com dúvidas sobre um acordo de paz entre os EUA e o Irão e com os investidores a apostar numa nova subida de juros do BCE em dezembro, o que fez subir as yields alemãs. Durante a noite, os primeiros resultados das eleições intercalares nos EUA apontaram para vitórias democratas e os futuros (contratos que antecipam a abertura da bolsa) caíram cerca de 1% no S&P 500 e 2% no Nasdaq, com o dólar a enfraquecer. Hoje pode ser um dia de quedas, sobretudo na tecnologia americana.",
-  "mood": "risk-off",
+  "marketSummary": "Quarta-feira foi um dia de forte subida. Os democratas ganharam o controlo do Congresso nas eleições intercalares dos EUA e os investidores leram isso como menos risco de mudanças políticas bruscas: o S&P 500 subiu 1,6%, o Dow Jones 3% (a maior subida pós-eleições intercalares em décadas) e, na Europa, o Stoxx 600 e o PSI ganharam 1,8% cada. O petróleo afundou mais de 8% (Brent abaixo de 95 dólares) com a expectativa de menos tensão com o Irão, o que ajudou a baixar os juros das obrigações. O dólar caiu, o euro subiu para perto de 1,124 dólares e o ouro disparou cerca de 3% para acima de 4.000 dólares por onça. Esta manhã o tom é mais cauteloso: a Qualcomm caiu mais de 9% depois do fecho por resultados fracos e as ações de chips na Ásia estão a descer.",
+  "mood": "risk-on",
   "indices": [
     {
       "name": "S&P 500",
-      "change": "+0,36%"
+      "change": "+1,58%"
     },
     {
       "name": "Nasdaq",
-      "change": "+0,83% (futuros ≈-2% durante a noite)"
+      "change": "+1,44%"
     },
     {
       "name": "Stoxx 600",
-      "change": "-0,58% (645,66)"
+      "change": "+1,82%"
     },
     {
       "name": "PSI",
-      "change": "-0,31% (9.223,89)"
+      "change": "+1,82%"
     },
     {
-      "name": "Yields 10 anos (EUA / Alemanha)",
-      "change": "≈4,91%, a subir para ≈4,95% durante a noite / a subir para ≈3,33%"
+      "name": "Treasury 10 anos (yield)",
+      "change": "-0,05 p.p. (4,90%)"
+    },
+    {
+      "name": "Bund 10 anos (yield)",
+      "change": "-0,06 p.p. (3,27%)"
     },
     {
       "name": "EUR/USD",
-      "change": "≈1,12 (dólar a cair ≈0,5% durante a noite)"
+      "change": "+0,38%"
     },
     {
       "name": "Petróleo Brent",
-      "change": "-1,25% (≈103,5 $)"
-    },
-    {
-      "name": "Ouro / Bitcoin",
-      "change": "-0,18% (≈3.939 $/onça) / ≈-1% (≈76.500 $)"
+      "change": "-8,44%"
     }
   ],
   "tips": [
     {
-      "title": "Dia de eleições: o VWCE não precisa de saber quem ganha",
+      "title": "Dias de euforia também são ruído: o VWCE continua a ser o centro",
       "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
-      "body": "Os futuros americanos caíram com os primeiros resultados das eleições, mas a história mostra que os mercados se adaptam a qualquer governo ao fim de alguns meses. O VWCE tem milhares de empresas de dezenas de países, por isso não depende de um único resultado político. Comprar todos os meses, também nos dias maus, faz com que compres mais unidades quando o preço está mais baixo.",
+      "body": "Ontem o plano 'esperar e não reagir' foi recompensado: quem estava nervoso com as eleições e vendeu perdeu uma subida de quase 2% num só dia. O VWCE tem cerca de 3.700 empresas de todo o mundo, por isso ganha com dias como ontem e amortece dias maus sem precisares de adivinhar nada. A compra mensal automática continua igual, nem mais nem menos.",
       "horizon": "longo",
       "risk": "médio",
-      "suggestedAmount": "70-80% do investimento mensal (o núcleo do plano)",
-      "potential": "cenário base histórico de 6-8%/ano em média, com anos negativos pelo meio; sem garantias"
+      "suggestedAmount": "70-80% do investimento mensal (plano base)",
+      "potential": "6-8%/ano cenário base a longo prazo, com anos negativos pelo meio"
     },
     {
-      "title": "Obrigações: juros a subir são pior hoje, melhor amanhã",
+      "title": "Obrigações: juros a descer fazem subir o preço",
       "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
-      "body": "As yields (o juro que os Estados pagam quando pedem dinheiro emprestado) subiram na Alemanha e nos EUA, e isso faz baixar um pouco o preço das obrigações que já existem. A parte boa: as novas compras mensais passam a render juros mais altos. A cobertura em EUR (hedged) protege-te da queda do dólar que se viu esta noite.",
+      "body": "Com a queda do petróleo, os juros das obrigações alemãs e americanas desceram e o preço das obrigações que já existem subiu um pouco. É isto que faz do VAGF o 'amortecedor' da carteira: costuma mexer pouco e, muitas vezes, no sentido contrário às ações em dias de medo. Como tem cobertura cambial em euros, a queda do dólar quase não o afeta.",
       "horizon": "médio",
       "risk": "baixo",
-      "suggestedAmount": "15-25% do investimento mensal",
-      "potential": "cenário base de 3-4%/ano, ligado aos juros atuais; sem garantias"
+      "suggestedAmount": "15-25% do investimento mensal (plano base)",
+      "potential": "3-4%/ano cenário base"
     },
     {
-      "title": "Monetário beneficia se o BCE subir juros",
+      "title": "Monetário para o dinheiro que não pode oscilar",
       "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
-      "body": "Os mercados já contam com uma subida de juros do BCE em dezembro, e o presidente do banco central alemão disse que é provável. O XEON acompanha a taxa de juro diária do euro, por isso rende mais quando o BCE sobe juros. É o sítio certo para o fundo de emergência (3-6 meses de despesas) numa semana agitada.",
+      "body": "O XEON acompanha a taxa de juro diária do BCE e quase não varia de preço, por isso serve para o fundo de emergência ou para dinheiro que vais precisar em menos de 2 anos. Não é para crescer muito, é para não perder valor. Se o BCE subir juros em dezembro, como alguns investidores esperam, o rendimento sobe automaticamente.",
       "horizon": "curto",
       "risk": "baixo",
-      "suggestedAmount": "o necessário para o fundo de emergência; depois 0-10% do mensal",
-      "potential": "próximo da taxa diária do BCE, sem grandes oscilações"
+      "suggestedAmount": "0-10% do investimento mensal, só até completar o fundo de emergência",
+      "potential": "perto da taxa do BCE, cerca de 2-3%/ano"
     },
     {
-      "title": "Ideia opcional: menos dependência da tecnologia americana",
-      "instrument": "SMEA · iShares Core MSCI Europe UCITS ETF (Acc)",
-      "body": "Grande parte da queda dos futuros desta noite foi na tecnologia americana, que é muito sensível à política e às dúvidas sobre os gastos em inteligência artificial. Um pequeno reforço em ações europeias reduz essa concentração. Risco: a Europa também caiu ontem e é sensível ao petróleo e aos juros do BCE; o VWCE já tem cerca de 15% de Europa.",
+      "title": "Ideia opcional: uma pequena fatia em ouro, só como seguro",
+      "instrument": "SGLN · iShares Physical Gold ETC",
+      "body": "O ouro subiu cerca de 3% ontem e está acima de 4.000 dólares por onça, porque os investidores o compram quando o dólar cai ou há incerteza. Não paga juros nem dividendos e pode cair muito depois de subidas fortes, por isso entrar agora por entusiasmo é arriscado. Se quiseres, é uma fatia pequena e fixa, comprada aos poucos, e nunca em vez do plano base.",
       "horizon": "longo",
-      "risk": "médio",
-      "suggestedAmount": "no máximo 5-10% do investimento mensal",
-      "potential": "semelhante às ações globais a longo prazo; sem garantias"
+      "risk": "alto",
+      "suggestedAmount": "no máximo 5% do investimento mensal",
+      "potential": "muito incerto; sem rendimento próprio, depende só do preço"
     }
   ],
   "news": [
     {
-      "title": "Stocks wilt, dollar slides as early midterm results point to blue sweep",
-      "source": "Reuters / Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-dip-investors-010842458.html",
-      "summary": "Os primeiros resultados das eleições intercalares favorecem os democratas; os futuros do S&P 500 e do Nasdaq caíram e o dólar enfraqueceu.",
-      "relevance": "Pode haver quedas hoje, sobretudo nas tecnológicas dos EUA (cerca de 60% do VWCE é EUA). Para quem investe todos os meses, é ruído político de curto prazo."
+      "title": "Stocks rise, oil collapses after Dems sweep midterm elections",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026",
+      "summary": "O Dow subiu 3,03%, o S&P 500 1,58% e o Nasdaq 1,44% depois de os democratas ganharem o Congresso; os analistas veem menos risco de mudanças políticas bruscas.",
+      "relevance": "Cerca de 60% do VWCE são ações americanas, por isso dias como este fazem subir o teu ETF; mas não precisavas de ter adivinhado o resultado para beneficiar."
     },
     {
-      "title": "The Stock Market Today, November 3, 2026, Ended Mixed as Chip Stocks Lifted the Nasdaq and Apple Weighed on the Dow",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026",
-      "summary": "Os chips (AMD, Nvidia, Broadcom, Micron) recuperaram e o Nasdaq subiu 0,8%; a Apple caiu por prever margens mais baixas no Natal.",
-      "relevance": "Mostra como um ETF global equilibra setores: uns sobem, outros descem no mesmo dia."
+      "title": "Bolsas europeias disparam após vitória democrata nas midterms. PSI fecha a subir 1,82%",
+      "source": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/bolsas-europeias-disparam-apos-vitoria-democrata-nas-midterms-psi-fecha-a-subir-182/",
+      "summary": "Stoxx 600 e PSI subiram 1,82%, com o BCP e a Jerónimo Martins a ganhar perto de 4%; a Galp caiu com o petróleo e os CTT afundaram 11%.",
+      "relevance": "Mostra porque ter muitos setores ajuda: a energia caiu, mas bancos e consumo compensaram. Num ETF global isso acontece sozinho."
     },
     {
-      "title": "European stocks slip as Middle East uncertainty makes for caution",
-      "source": "The Irish Times / Reuters",
-      "url": "https://www.irishtimes.com/business/2026/11/03/european-stocks-slip-as-middle-east-uncertainty-makes-for-caution/",
-      "summary": "O Stoxx 600 caiu 0,58% com dúvidas sobre a paz entre EUA e Irão e mais apostas numa subida de juros do BCE.",
-      "relevance": "A guerra no Médio Oriente continua a mexer no petróleo e na inflação; é um risco de fundo, não um motivo para mudar o plano."
+      "title": "US midterms: What Trump's defeat means for Europe and global markets",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets",
+      "summary": "Os analistas avisam que as tarifas continuam a ser um risco para a Europa, porque o presidente pode impô-las sem o Congresso; as ações de defesa europeias caíram.",
+      "relevance": "A política vai continuar a gerar sustos; a resposta para quem investe todos os meses é a mesma: diversificar e não mudar o plano por manchetes."
     },
     {
-      "title": "Europa fecha no vermelho. Petróleo prolonga queda com negociações entre EUA e Irão em dia de eleições",
-      "source": "Jornal de Negócios",
-      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-perde-terreno-com-pressao-da-ia-e-eleicoes-intercalares-nos-eua",
-      "summary": "O PSI recuou 0,31%, as yields subiram em toda a zona euro (Portugal a 10 anos em 3,76%) e a Euribor voltou a subir.",
-      "relevance": "Juros mais altos encarecem o crédito à habitação, mas fazem render mais o XEON e as novas compras de obrigações."
+      "title": "Petróleo fecha em queda de 8% com possível impacto da eleição dos EUA no conflito com Irã",
+      "source": "Jornal do Comércio",
+      "url": "https://www.jornaldocomercio.com/economia/2026/11/1269316-petroleo-fecha-em-queda-de-8-com-possivel-impacto-da-eleicao-dos-eua-no-conflito-com-ira.html",
+      "summary": "Os investidores apostam que o resultado eleitoral reduz o risco de escalada com o Irão, e o crude americano caiu para cerca de 88 dólares.",
+      "relevance": "Petróleo mais barato ajuda a travar a inflação, o que alivia os juros e é, em geral, bom para ações e obrigações a médio prazo."
     },
     {
-      "title": "ECB likely to raise rates in December, says Nagel",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/economy-news/ecb-likely-to-raise-rates-in-december-says-nagel-4996194",
-      "summary": "O presidente do Bundesbank disse que é provável o BCE subir juros em dezembro por causa da inflação ligada ao petróleo.",
-      "relevance": "Uma subida de juros pode pesar nas ações a curto prazo, mas o plano já tem obrigações e monetário para equilibrar."
-    },
-    {
-      "title": "S&P 500, Nasdaq Futures Rise With Tech Earnings and Midterm Vote in Focus",
+      "title": "Gold Holds Above $4,000 as Dollar, Yields Fall on Midterm Result",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results",
-      "summary": "Antes dos resultados eleitorais, os futuros chegaram a subir com bons resultados de tecnológicas como a AMD.",
-      "relevance": "O humor do mercado mudou em poucas horas; é por isso que tentar acertar no momento de comprar raramente funciona."
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result",
+      "summary": "O ouro voltou a ficar acima de 4.000 dólares por onça, apoiado pela queda do dólar e dos juros americanos.",
+      "relevance": "Um dólar mais fraco faz os ativos americanos valerem um pouco menos em euros; por isso o VWCE em euros subiu menos do que o S&P 500 em dólares."
     },
     {
-      "title": "Current price of Bitcoin for November 3, 2026",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-bitcoin-11-03-2026/",
-      "summary": "A bitcoin rondava os 77.000 dólares, cerca de 1% abaixo do dia anterior.",
-      "relevance": "As criptomoedas não fazem parte do plano base; são muito voláteis e, se existirem, devem ser uma fatia mínima."
+      "title": "Asian chip stocks slide as disappointing Qualcomm, Arm earnings weigh",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asian-chip-stocks-slide-as-disappointing-qualcomm-arm-earnings-weigh-5002173",
+      "summary": "A Qualcomm caiu mais de 9% depois do fecho e a Arm cerca de 3%; na Ásia, SK Hynix, Samsung e Advantest desceram entre 5% e 11%.",
+      "relevance": "Lembra que a tecnologia pesa muito nos índices; hoje pode haver alguma devolução dos ganhos de ontem, e isso também é normal."
+    },
+    {
+      "title": "The Dow Soared After Democrats Won Congress and Oil Fell",
+      "source": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
+      "summary": "A CVS anunciou que se vai dividir em duas empresas e caiu 12,5%; a Trump Media perdeu 24,5% com o resultado eleitoral.",
+      "relevance": "Ações individuais podem cair 10-25% num dia por uma notícia; num ETF com milhares de empresas, cada uma pesa tão pouco que quase não se sente."
     }
   ],
   "signals": [
     {
       "symbol": "VWCE.DE",
       "action": "MANTER",
-      "reason": "Núcleo do plano; resultados eleitorais e quedas de um dia são exatamente o ruído que a diversificação global absorve."
+      "reason": "Núcleo do plano; ontem mostrou porque não se vende antes de eventos: a subida apareceu sem aviso."
     },
     {
       "symbol": "VAGF.DE",
       "action": "MANTER",
-      "reason": "Yields a subir baixam um pouco o preço, mas aumentam o rendimento das compras futuras; continua a ser o amortecedor."
+      "reason": "Juros a descer valorizaram as obrigações; continua a ser o amortecedor da carteira, com o risco do dólar coberto."
     },
     {
       "symbol": "XEON.DE",
       "action": "MANTER",
-      "reason": "Beneficia de uma eventual subida de juros do BCE em dezembro; ideal para o fundo de emergência."
+      "reason": "Ideal para o fundo de emergência; o rendimento acompanha a taxa do BCE."
     },
     {
       "symbol": "VUAA.L",
       "action": "REVER",
-      "reason": "Só EUA e muito peso em tecnologia, a zona mais afetada pelos futuros desta noite; sobrepõe-se ao VWCE e está cotado em dólares."
+      "reason": "Só EUA e cotado em dólares, num momento de dólar a cair; repete grande parte do que o VWCE já tem."
     },
     {
       "symbol": "IWDA.AS",
       "action": "REVER",
-      "reason": "Bom ETF de países desenvolvidos, mas repete quase tudo o que o VWCE já tem; não é preciso ter os dois."
+      "reason": "Bom ETF de países desenvolvidos, mas sobrepõe-se quase totalmente ao VWCE; não é preciso ter os dois."
     },
     {
       "symbol": "SXR8.DE",
@@ -160,26 +160,26 @@
     {
       "symbol": "CSPX.L",
       "action": "REVER",
-      "reason": "Igual ao SXR8 mas cotado em dólares; com o dólar a cair, quem investe em euros simplifica com a versão alemã."
+      "reason": "Igual ao SXR8 mas cotado em dólares; quem investe em euros simplifica com a versão alemã."
     },
     {
       "symbol": "AAPL",
-      "action": "REVER",
-      "reason": "Caiu cerca de 2% por prever margens mais baixas (custo dos chips de memória); ações individuais concentram risco."
+      "action": "MANTER",
+      "reason": "Recuperou com a tecnologia no dia das eleições, mas as dúvidas sobre margens continuam; ação individual, só em fatia pequena."
     },
     {
       "symbol": "MSFT",
       "action": "MANTER",
-      "reason": "Negócio diversificado (cloud, software) e sem notícias negativas próprias; pode cair com o resto da tecnologia hoje."
+      "reason": "Negócio diversificado (cloud, software) e sem notícias negativas próprias; beneficia de menos risco político sobre a IA."
     },
     {
       "symbol": "NVDA",
       "action": "REVER",
-      "reason": "Recuperou ontem com os chips, mas é das mais sensíveis ao risco político e às dúvidas sobre gastos em IA; só numa fatia pequena."
+      "reason": "Os resultados fracos da Qualcomm e da Arm estão a pesar nos chips esta manhã; muito sensível às dúvidas sobre o retorno dos gastos em IA."
     }
   ],
   "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
-  "lessonTitle": "O que são futuros e porque mexem antes da bolsa abrir?",
-  "lessonBody": "Os futuros são contratos negociados quase 24 horas por dia que apostam no valor de um índice, como o S&P 500, numa data futura. Por isso, quando há notícias à noite (como os resultados eleitorais de hoje), os futuros reagem primeiro e dão uma pista de como a bolsa vai abrir. Mas são só uma pista: o humor pode mudar várias vezes até ao fecho, como se viu ontem, quando os futuros passaram de subida a queda em poucas horas. Para quem investe todos os meses num ETF, os futuros são curiosidade, não um sinal para comprar ou vender.",
-  "beginnerNote": "Mantém o plano mensal e não vendas por causa das eleições: os mercados costumam reagir no dia e adaptar-se depois. Se a bolsa cair hoje, a tua próxima compra automática simplesmente compra mais unidades pelo mesmo dinheiro."
+  "lessonTitle": "Porque é que um dólar mais fraco faz o teu ETF subir menos?",
+  "lessonBody": "O VWCE está cotado em euros, mas cerca de 60% das empresas lá dentro são americanas e valem em dólares. Quando o dólar cai face ao euro, como ontem (+0,38% para o euro), esses dólares valem menos euros quando são convertidos. Por isso, num dia em que o S&P 500 sobe 1,6% em dólares, a parte americana do teu ETF sobe um pouco menos em euros. A longo prazo este efeito cambial tende a equilibrar-se para cima e para baixo, e é por isso que não vale a pena tentar prevê-lo.",
+  "beginnerNote": "Mantém o plano mensal tal como está e não compres mais só porque o mercado subiu muito ontem. Euforia e medo são os dois momentos em que é mais fácil errar, e o investimento automático existe precisamente para não depender deles."
 }

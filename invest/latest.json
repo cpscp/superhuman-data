@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "generatedBy": "Claude · análise diária",
-  "marketSummary": "Depois do tombo de quinta-feira, Wall Street acalmou na sexta: o S&P 500 subiu 0,3% e o Nasdaq 1,1%, com as tecnológicas e os chips a recuperar parte das perdas (a AMD ganhou cerca de 11%). Ainda assim, o S&P 500 fechou a semana com uma perda perto de 2,7%, porque os investidores continuam a temer que a vitória democrata no Congresso traga regras mais apertadas para os centros de dados de inteligência artificial. A Europa abriu ainda sob o efeito da queda forte na Ásia (Nikkei e Kospi perto de -6%) e o Stoxx 600 recuou 1%, embora continue a ganhar mais este ano do que a bolsa americana. O relatório de emprego dos EUA saiu muito acima do esperado (165 mil empregos criados e desemprego a descer para 4,1%), o que fez subir o dólar e os juros americanos, porque aumenta a probabilidade de a Reserva Federal subir as taxas em dezembro. O petróleo Brent desceu 0,5% para cerca de 98 dólares e o ouro recuou 0,8%.",
+  "marketSummary": "Hoje é domingo e as bolsas estão fechadas, por isso os números são os do fecho de sexta-feira. Foi uma semana dura: o S&P 500 perdeu cerca de 2,7%, a pior semana desde abril de 2025, por receio de que a nova maioria democrata no Congresso trave os investimentos em centros de dados de inteligência artificial. Na sexta houve alívio nos EUA (Nasdaq +1,1%), mas a Europa ainda caiu cerca de 1% e o PSI ficou quase igual (-0,07%), com a Galp a descer 3%. Os dados de emprego muito fortes nos EUA (165 mil empregos, contra cerca de 60 mil esperados) fizeram subir o dólar e os juros, porque aumentam a probabilidade de a Reserva Federal subir as taxas em dezembro. Esta semana o grande momento é terça-feira, com os números da inflação americana de outubro.",
   "mood": "neutro",
   "indices": [
     {
@@ -14,15 +14,19 @@
     },
     {
       "name": "Stoxx 600",
-      "change": "-1,00%"
+      "change": "-1,0% (aprox.)"
     },
     {
       "name": "PSI",
-      "change": "-0,07%"
+      "change": "-0,07% (9.476,73)"
     },
     {
       "name": "Treasury 10 anos (yield)",
       "change": "+0,02 p.p. (4,86%)"
+    },
+    {
+      "name": "Bund 10 anos (yield)",
+      "change": "+0,01 p.p. (3,25%)"
     },
     {
       "name": "EUR/USD",
@@ -31,155 +35,158 @@
     {
       "name": "Petróleo Brent",
       "change": "-0,51% (~97,8 USD)"
-    },
-    {
-      "name": "Ouro",
-      "change": "-0,79% (~4.081 USD)"
     }
   ],
   "tips": [
     {
-      "title": "O teu motor principal continua a ser o mesmo",
+      "title": "Semana de nervos? O plano mensal é o teu travão",
       "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
-      "body": "Esta semana mostrou porque é que um ETF global é bom para quem começa: as tecnológicas americanas caíram muito, mas o VWCE tem milhares de empresas de dezenas de países, por isso a queda dilui-se. Continuar a comprar todos os meses quando os preços estão mais baixos significa que o teu dinheiro compra mais unidades do fundo. Não é altura de parar, nem de acelerar à pressa.",
+      "body": "O VWCE junta milhares de empresas de todo o mundo num só produto, por isso uma semana má nas tecnológicas pesa, mas não decide o teu futuro. Quando os preços descem, o mesmo valor mensal compra mais unidades do ETF, o que ajuda a longo prazo. Mantém a compra automática como está.",
       "horizon": "longo",
       "risk": "médio",
-      "suggestedAmount": "a maior fatia do plano base (ex.: 70-80% do investimento mensal)",
-      "potential": "historicamente 5-8%/ano no longo prazo (cenário base, sem garantia; pode ter anos negativos)"
+      "suggestedAmount": "70-80% do investimento mensal (núcleo do plano)",
+      "potential": "6-8%/ano em média num cenário base de muitos anos, com anos negativos pelo meio"
     },
     {
-      "title": "Obrigações: o amortecedor da carteira",
+      "title": "Obrigações com juros mais altos amortecem melhor",
       "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF (EUR Hedged, Acc)",
-      "body": "Obrigações são empréstimos a governos e empresas que pagam juros. Na quinta-feira, quando as ações caíram, os investidores procuraram obrigações como refúgio, e é exatamente esse papel de amortecedor que o VAGF tem na tua carteira. Como tem cobertura cambial em euros, as oscilações do dólar (como a desta sexta) quase não o afetam.",
+      "body": "As obrigações são empréstimos a governos e empresas que pagam juros. Com as yields (o juro anual que uma obrigação paga a quem a compra hoje) perto de 3,25% na Alemanha e 4,86% nos EUA, este ETF rende mais do que há uns anos e costuma oscilar bem menos do que as ações. A cobertura em EUR (hedged) protege-te das variações do dólar.",
       "horizon": "médio",
       "risk": "baixo",
-      "suggestedAmount": "cerca de 15-25% do investimento mensal, conforme o plano base",
-      "potential": "3-4%/ano cenário base (sobe e desce menos do que as ações)"
+      "suggestedAmount": "10-20% do investimento mensal",
+      "potential": "3-4%/ano cenário base"
     },
     {
-      "title": "Dinheiro de reserva a render sem sustos",
+      "title": "Reserva de emergência a render",
       "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF",
-      "body": "O XEON acompanha a taxa de juro diária do euro, por isso quase não oscila. É o sítio certo para o fundo de emergência ou para dinheiro que vais precisar em menos de 2-3 anos. Com a inflação na zona euro a subir para 4% em outubro, o BCE admite subir juros, o que tende a melhorar o rendimento deste tipo de fundo.",
+      "body": "O XEON acompanha a taxa de juro diária do BCE e quase não oscila, por isso serve para dinheiro de que podes precisar em breve. Com a inflação na zona euro em 4% e o BCE a admitir subir juros, esta taxa tende a manter-se interessante. Não é para crescer muito, é para estar seguro e disponível.",
       "horizon": "curto",
       "risk": "baixo",
-      "suggestedAmount": "o necessário para 3-6 meses de despesas; depois 0-10% do mensal",
-      "potential": "próximo da taxa de juro do BCE (rendimento baixo mas estável)"
+      "suggestedAmount": "o valor da tua reserva de emergência (3-6 meses de despesas), fora do plano de ações",
+      "potential": "próximo da taxa do BCE, sem garantia"
     },
     {
-      "title": "Ideia complementar: um pouco mais de Europa",
-      "instrument": "EXSA · iShares STOXX Europe 600 UCITS ETF (DE)",
-      "body": "Este ano o Stoxx 600 está a ganhar mais de 10%, à frente dos cerca de 7% do S&P 500, e a bolsa europeia tem menos peso em tecnologia, por isso sofreu menos com a queda da IA. O VWCE já inclui a Europa, mas numa fatia pequena face aos EUA; um reforço pequeno equilibra a carteira. Atenção: o EXSA distribui dividendos (não é de acumulação), concentra-se numa só região e pode passar anos a render menos do que o mundo.",
+      "title": "Ideia complementar: um pouco de ouro como seguro",
+      "instrument": "4GLD · Xetra-Gold (ETC de ouro físico)",
+      "body": "O ouro não paga juros nem dividendos, mas por vezes aguenta melhor quando ações e obrigações caem ao mesmo tempo, por exemplo com inflação alta. É volátil (caiu 0,8% só na sexta) e pode passar anos sem subir. Se quiseres experimentar, fica-te por uma fatia pequena e encara-o como seguro, não como motor.",
       "horizon": "longo",
       "risk": "médio",
-      "suggestedAmount": "no máximo 5-10% do investimento mensal, retirado da parte de ações",
-      "potential": "5-8%/ano cenário base, com oscilações semelhantes às do VWCE"
+      "suggestedAmount": "no máximo 5% do investimento mensal",
+      "potential": "muito incerto; sem rendimento próprio, depende só do preço"
     }
   ],
   "news": [
     {
-      "title": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
-      "summary": "As tecnológicas recuperaram parte das perdas na sexta, mas o S&P 500 teve a pior semana desde junho e o setor tecnológico perdeu cerca de 7% na semana.",
-      "relevance": "Quedas fortes seguidas de recuperações parciais são normais; quem compra todos os meses aproveita preços mais baixos sem ter de adivinhar o fundo."
+      "title": "Stock Market Today (Nov. 6, 2026): Nasdaq, S&P 500 rise after midterms AI rout",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026",
+      "summary": "As tecnológicas recuperaram parte das perdas na sexta, mas o S&P 500 fechou a pior semana desde abril de 2025.",
+      "relevance": "O VWCE tem muito peso em tecnológicas americanas; semanas assim são normais e não pedem mudanças ao plano."
     },
     {
-      "title": "Employment Situation Summary - October 2026",
-      "source": "U.S. Bureau of Labor Statistics",
-      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "summary": "A economia americana criou 165 mil empregos em outubro, muito acima do esperado, e o desemprego desceu para 4,1%.",
-      "relevance": "Uma economia forte é boa para os lucros das empresas a longo prazo, mesmo que no curto prazo faça os mercados temer juros mais altos."
+      "title": "Stock market next week: Outlook for Nov. 9-13, 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
+      "summary": "A semana traz a inflação de outubro nos EUA, vários discursos da Fed e mais resultados de empresas.",
+      "relevance": "Pode haver mais oscilações; quem compra todos os meses não precisa de adivinhar o resultado."
     },
     {
-      "title": "Global stock rout deepens as AI data centre fears fuel worst US chip sell-off since 2020",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/06/global-stock-rout-deepens-as-ai-data-centre-fears-fuel-worst-us-chip-sell-off-since-2020",
-      "summary": "O índice de chips americano caiu 12,2% na quinta-feira e a onda chegou à Ásia, com o Kospi a cair 8,8% antes de a negociação ser suspensa.",
-      "relevance": "Mostra o risco de concentrar dinheiro num só setor; um ETF global espalha esse risco por muitas indústrias e países."
+      "title": "Economic Week Ahead: November 9-13",
+      "source": "Yardeni QuickTakes",
+      "url": "https://www.yardeniquicktakes.com/economic-week-ahead-november-9-13/",
+      "summary": "A inflação americana sai na terça (estimativa: 3,7% ao ano) e o mercado dá cerca de 78% de probabilidade a uma subida de juros da Fed em dezembro.",
+      "relevance": "Juros mais altos tendem a pesar nas ações e a dar mais rendimento às obrigações e ao monetário do teu plano."
     },
     {
-      "title": "O dia em que a inteligência artificial fez tremer as bolsas",
-      "source": "ECO",
-      "url": "https://eco.sapo.pt/2026/11/06/o-dia-em-que-a-inteligencia-artificial-fez-tremer-as-bolsas/",
-      "summary": "Mais de 2 biliões de dólares desapareceram em cerca de 50 minutos em Wall Street, depois de os democratas conquistarem as duas câmaras do Congresso.",
-      "relevance": "Dias destes assustam, mas fazem parte de investir em ações; o importante é não vender em pânico no pior momento."
-    },
-    {
-      "title": "Europe stocks drop on tech drag; STOXX 600 overtakes S&P 500 in YTD gains",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/europe-stocks-drop-on-tech-drag--stoxx-600-overtakes-sp-500-in-ytd-gains-5006627",
-      "summary": "As bolsas europeias caíram arrastadas pela tecnologia, mas o Stoxx 600 já ganha mais do que o S&P 500 desde o início do ano.",
-      "relevance": "A liderança entre regiões muda com o tempo; por isso um ETF que investe no mundo inteiro evita ter de escolher a região vencedora."
+      "title": "Stoxx 600 Erases Its Weekly Gain as Tech Rout Hits Europe, but Index Still Leads the S&P 500 This Year",
+      "source": "The Private Banker",
+      "url": "https://leprivatebanker.com/2026/11/06/stoxx-600-erases-its-weekly-gain-as-tech-rout-hits-europe-but-index-still-leads-the-sp-500-this-year/",
+      "summary": "A bolsa europeia caiu cerca de 1% na sexta, mas sobe mais de 10% este ano, à frente dos EUA (pouco mais de 7%).",
+      "relevance": "Mostra porque vale a pena um ETF global: quando uma região tropeça, outra pode compensar."
     },
     {
       "title": "Bolsa de Lisboa fecha a perder 0,07% em linha com restante Europa",
-      "source": "Notícias ao Minuto / Lusa",
-      "url": "https://www.noticiasaominuto.com/economia/3080011/bolsa-de-lisboa-fecha-a-perder-0-07-em-linha-com-restante-europa",
-      "summary": "O PSI fechou quase estável nos 9.476,73 pontos, com a Galp a liderar as descidas (-3,15%) e o DAX alemão a cair 1,92%.",
-      "relevance": "A bolsa portuguesa tem pouca tecnologia e resistiu bem, mas é um mercado pequeno; para quem começa, o mundo inteiro continua a ser a base mais segura."
+      "source": "Executive Digest",
+      "url": "https://executivedigest.sapo.pt/bolsa-de-lisboa-fecha-a-perder-007-em-linha-com-restante-europa/",
+      "summary": "O PSI fechou nos 9.476,73 pontos, com a Galp a liderar as perdas (-3,15%).",
+      "relevance": "Portugal pesa muito pouco num ETF mundial; o PSI diz pouco sobre a tua carteira."
     },
     {
-      "title": "Gigantes de inteligência artificial preparam entrada em Wall Street a valer 12 vezes o PIB português",
-      "source": "Jornal Económico",
-      "url": "https://jornaleconomico.sapo.pt/noticias/gigantes-de-inteligencia-artificial-preparam-entrada-em-wall-street-a-valer-12-vezes-o-pib-portugues/",
-      "summary": "SpaceX, Anthropic e OpenAI preparam entradas em bolsa avaliadas em conjunto em cerca de 3,6 biliões de dólares.",
-      "relevance": "Entradas em bolsa muito mediáticas tentam muitos principiantes; se estas empresas crescerem, acabam por entrar nos ETF globais, sem precisares de apostar nelas diretamente."
+      "title": "Crypto Market Today (Nov 7, 2026): BTC Holds $75K After a Brutal Week",
+      "source": "SecureShift",
+      "url": "https://secureshift.io/blog/crypto-market-today-november-7-2026-weekly-recap",
+      "summary": "A Bitcoin ronda os 75.800 dólares, perto do mínimo desde agosto, com saídas de cerca de 870 milhões de dólares dos ETF de Bitcoin nos EUA.",
+      "relevance": "As criptomoedas sofrem primeiro quando os juros sobem; não fazem parte do plano base e não são precisas para investir bem."
+    },
+    {
+      "title": "Germany 10-Year Bond Yield",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/germany/government-bond-yield",
+      "summary": "A yield do Bund a 10 anos está perto de 3,25%, mínimos desde o fim de agosto, com a inflação da zona euro em 4% em outubro.",
+      "relevance": "É uma referência para os juros na Europa e para o rendimento das obrigações do VAGF."
+    },
+    {
+      "title": "Bruxelas prepara lei para punir lojas que recusem pagamento em notas e moedas",
+      "source": "ECO",
+      "url": "https://eco.sapo.pt/2026/11/07/bruxelas-prepara-lei-para-punir-lojas-que-recusem-pagamento-em-notas-e-moedas/",
+      "summary": "A Comissão Europeia quer garantir que o dinheiro físico continua a ser aceite nas lojas.",
+      "relevance": "Sem impacto direto nos ETF; é uma notícia de dia a dia para quem vive em Portugal."
     }
   ],
   "signals": [
     {
       "symbol": "VWCE.DE",
       "action": "MANTER",
-      "reason": "Base da carteira; a queda da semana não muda o plano de longo prazo e as compras mensais aproveitam preços mais baixos."
+      "reason": "Núcleo do plano; uma semana má nas tecnológicas não muda a tese de longo prazo. Continua a compra mensal."
     },
     {
       "symbol": "VAGF.DE",
       "action": "MANTER",
-      "reason": "Cumpriu o papel de amortecedor na queda de quinta-feira; com cobertura em euros, a descida do EUR/USD quase não o afeta."
+      "reason": "Yields mais altas dão mais rendimento futuro e equilibram a carteira quando as ações tremem."
     },
     {
       "symbol": "XEON.DE",
       "action": "MANTER",
-      "reason": "Ideal para a reserva de emergência; possíveis subidas de juros do BCE tendem a melhorar o rendimento."
+      "reason": "Ideal para a reserva de emergência; acompanha a taxa do BCE com risco muito baixo."
     },
     {
       "symbol": "VUAA.L",
       "action": "MANTER",
-      "reason": "S&P 500 recuperou na sexta mas teve uma semana fraca; se já tens VWCE, não precisas de reforçar os EUA."
+      "reason": "S&P 500 em dólares; já tens os EUA dentro do VWCE, por isso não é preciso reforçar."
     },
     {
       "symbol": "IWDA.AS",
       "action": "MANTER",
-      "reason": "Alternativa ao VWCE (só países desenvolvidos); não faz sentido trocar de um para o outro por causa do ruído da semana."
+      "reason": "Alternativa global semelhante ao VWCE (sem emergentes); não faz sentido ter os dois em força."
     },
     {
       "symbol": "SXR8.DE",
       "action": "MANTER",
-      "reason": "ETF do S&P 500 cotado em euros; o dólar mais forte na sexta ajudou ligeiramente o valor em euros."
+      "reason": "Exposição ao S&P 500 em euros; aumentaria o peso nos EUA, que já é grande no plano base."
     },
     {
       "symbol": "CSPX.L",
       "action": "MANTER",
-      "reason": "Mesmo índice do SXR8; manter se já tens, sem duplicar exposição aos EUA."
+      "reason": "Igual ao SXR8 noutra bolsa; evita duplicar ETF que fazem o mesmo."
     },
     {
       "symbol": "AAPL",
       "action": "MANTER",
-      "reason": "Ação individual com peso grande nos índices; para principiantes, a exposição via ETF chega."
+      "reason": "Já está dentro do VWCE; comprar à parte concentra risco numa só empresa."
     },
     {
       "symbol": "MSFT",
       "action": "REVER",
-      "reason": "Muito exposta aos gastos em IA e centros de dados, o centro dos receios regulatórios desta semana; confirma que não pesa demasiado na tua carteira."
+      "reason": "Muito exposta ao tema dos centros de dados de IA, que está sob pressão política; se tens à parte, confirma que o peso é pequeno."
     },
     {
       "symbol": "NVDA",
       "action": "REVER",
-      "reason": "Caiu cerca de 9% na quinta e recuperou parte na sexta; volatilidade muito alta, por isso só deve ser uma fatia pequena, se alguma."
+      "reason": "Chips foram os mais castigados na semana; ação muito volátil, só faz sentido como fatia mínima, se fizer."
     }
   ],
   "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
-  "lessonTitle": "O que é uma correção?",
-  "lessonBody": "Chama-se correção quando um índice cai 10% ou mais desde o seu máximo recente; é o que voltou a acontecer ao Nasdaq esta semana. Já um mercado em baixa (bear market) é uma queda de 20% ou mais, como a do Nikkei japonês nesta sexta-feira. Correções acontecem, em média, de poucos em poucos anos e fazem parte normal das bolsas, sem impedir que as ações subam no longo prazo. Para quem investe todos os meses, uma correção é como uma época de saldos: o mesmo dinheiro compra mais unidades do ETF.",
-  "beginnerNote": "Mantém o plano mensal tal como está e não vendas nada por causa desta semana. Ninguém consegue prever se a recuperação de sexta continua, mas quem compra todos os meses não precisa de adivinhar: a disciplina é o que dá resultado ao longo dos anos."
+  "lessonTitle": "O que é a inflação (CPI) e porque mexe com as bolsas?",
+  "lessonBody": "A inflação é a subida geral dos preços: se é de 3,7% ao ano, o que custava 100 euros passa a custar cerca de 104. O CPI é o índice que a mede nos EUA, olhando para um cabaz de compras típico, e sai esta terça-feira. Se vier acima do esperado, a Reserva Federal tende a subir os juros para arrefecer a economia, e juros mais altos costumam fazer descer as ações no curto prazo. A longo prazo, as empresas conseguem muitas vezes subir os seus preços, por isso as ações são das melhores formas de proteger o dinheiro da inflação.",
+  "beginnerNote": "Mantém o plano mensal tal como está e não mexas por causa da semana má nem do CPI de terça: ninguém acerta consistentemente nestes movimentos e comprar com preços mais baixos até te favorece a longo prazo."
 }

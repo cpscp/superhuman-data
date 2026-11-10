@@ -1,146 +1,161 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "generatedBy": "Claude · análise diária",
-  "marketSummary": "As bolsas europeias e americanas ainda não abriram, por isso os números são os do fecho de sexta-feira (e, no caso da Bitcoin, das últimas 24 horas). Depois de uma semana de fortes quedas nas tecnológicas, por receio de que a nova maioria democrata no Congresso aperte as regras para a inteligência artificial, a Ásia recuperou esta madrugada (Nikkei japonês +3,5%) e os futuros do S&P 500 sobem cerca de 0,6%. A Nvidia está sob pressão (cerca de -3,5% fora de horas) por ter aberto uma investigação a uma alegada tentativa de espionagem chinesa ao seu presidente executivo. O dólar está forte porque os bons dados de emprego tornam provável uma subida de juros nos EUA em dezembro, e amanhã sai a inflação americana de outubro, o dado mais importante da semana.",
-  "mood": "neutro",
+  "marketSummary": "Segunda-feira foi um dia de alívio forte: o S&P 500 subiu 2,35%, o melhor dia desde abril, e a Europa também fechou em alta (Stoxx 600 +1,26%, PSI +0,82%). O motor foi o petróleo, que caiu mais de 4% depois de Donald Trump dizer que novos ataques ao Irão são «altamente improváveis» enquanto decorrem conversações; petróleo mais barato significa menos pressão sobre a inflação. As empresas de chips recuperaram com força, mas a Nvidia caiu 4,3% por causa da investigação interna ao seu presidente executivo. Esta madrugada a Ásia continuou a subir, e hoje às 13h30 de Lisboa sai a inflação americana de outubro, o dado que pode decidir se a Reserva Federal (o banco central dos EUA) sobe os juros em dezembro (os mercados dão cerca de 84% de probabilidade).",
+  "mood": "risk-on",
   "indices": [
     {
       "name": "S&P 500",
-      "change": "+0,31% (7.376,86)"
+      "change": "+2,35% (7.549,94)"
     },
     {
       "name": "Nasdaq",
-      "change": "+1,09% (24.579,42)"
+      "change": "+2,74% (25.253,14)"
     },
     {
       "name": "Stoxx 600",
-      "change": "-1,0% (aprox.)"
+      "change": "+1,26%"
     },
     {
       "name": "PSI",
-      "change": "-0,07% (9.476,73)"
+      "change": "+0,82% (9.554,88)"
     },
     {
       "name": "Treasury 10 anos (yield)",
-      "change": "+0,02 p.p. (4,86%; 4,88% no domingo à noite)"
+      "change": "+0,02 p.p. (4,88%)"
+    },
+    {
+      "name": "Bund 10 anos (yield)",
+      "change": "+0,01 p.p. (3,26%)"
     },
     {
       "name": "EUR/USD",
-      "change": "-0,82% (1,114)"
+      "change": "+0,48% (1,1197)"
     },
     {
-      "name": "Ouro (futuros dez.)",
-      "change": "-0,94% (recupera para ~4.020 USD esta manhã)"
+      "name": "Petróleo Brent",
+      "change": "-4,2% a -5,5% conforme a hora de fecho (cerca de 92-94 USD)"
+    },
+    {
+      "name": "Ouro",
+      "change": "+1,9% (4.140 USD)"
     },
     {
       "name": "Bitcoin",
-      "change": "-1,7% em 24h (~74.400 USD)"
+      "change": "+0,2% (74.876 USD)"
     }
   ],
   "tips": [
     {
-      "title": "Recuperação ou nova queda? Não precisas de saber",
+      "title": "Dias de festa também são ruído",
       "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
-      "body": "A semana passada foi má e hoje parece começar melhor, mas ninguém sabe o que vem a seguir, sobretudo com a inflação americana a sair amanhã. O VWCE reparte o teu dinheiro por milhares de empresas de dezenas de países, por isso o problema de uma só empresa, como a Nvidia, pesa pouco. Mantém a compra automática: é ela que decide por ti nos dias de ruído.",
+      "body": "Na semana passada as bolsas caíram, ontem subiram mais de 2%. Quem investe todos os meses no VWCE não precisa de acertar em nenhum destes movimentos: compra sempre, a preços altos e baixos, e no fim fica com um preço médio. Hoje a inflação americana pode mexer muito com o mercado, para cima ou para baixo; o teu plano continua igual.",
       "horizon": "longo",
       "risk": "médio",
       "suggestedAmount": "70-80% do investimento mensal (núcleo do plano)",
       "potential": "6-8%/ano em média num cenário base de muitos anos, com anos negativos pelo meio"
     },
     {
-      "title": "Obrigações: a parte calma da carteira",
+      "title": "Obrigações: porque os juros altos não são só más notícias",
       "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF (EUR Hedged, Acc)",
-      "body": "Este ETF empresta dinheiro a governos e empresas de todo o mundo e recebe juros por isso. Com o juro da dívida alemã a 10 anos perto de 3,25% e o americano perto de 4,9%, as obrigações pagam mais do que há poucos anos. A cobertura cambial (hedged, ou seja, protegida contra as variações do dólar) faz com que o dólar forte destes dias quase não o afete.",
+      "body": "Com a inflação alta, os bancos centrais podem subir juros, e isso faz o preço das obrigações já existentes descer um pouco no curto prazo. Mas as obrigações novas que o ETF vai comprando passam a pagar mais, o que melhora o rendimento futuro. A cobertura em euros (hedged) protege-te das oscilações do dólar.",
       "horizon": "médio",
       "risk": "baixo",
       "suggestedAmount": "10-20% do investimento mensal",
       "potential": "3-4%/ano cenário base"
     },
     {
-      "title": "Dinheiro de curto prazo sem sustos",
+      "title": "Reserva de emergência que acompanha os juros",
       "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF",
-      "body": "O XEON acompanha a taxa de juro diária do Banco Central Europeu e quase não oscila, por isso serve para a reserva de emergência ou dinheiro de que precisas nos próximos meses. Não é para fazer crescer o património, é para o proteger e ter disponível.",
+      "body": "Este ETF rende perto da taxa de juro diária do BCE. Se o BCE subir juros por causa da inflação na zona euro, o XEON passa a render mais quase automaticamente. Serve para dinheiro de que podes precisar em breve, não para crescer a longo prazo.",
       "horizon": "curto",
       "risk": "baixo",
       "suggestedAmount": "o valor da tua reserva de emergência (3-6 meses de despesas), fora do plano de ações",
       "potential": "próximo da taxa do BCE, sem garantia"
     },
     {
-      "title": "Ideia complementar: ouro como seguro, em dose pequena",
-      "instrument": "4GLD · Xetra-Gold (ETC de ouro físico)",
-      "body": "O ouro não paga juros nem dividendos, mas costuma aguentar-se quando há tensões geopolíticas, como o conflito entre os EUA e o Irão. Esta manhã voltou a subir para cerca de 4.020 dólares por onça, depois de cair quase 1% na sexta. É volátil e pode passar anos parado, por isso só como fatia pequena.",
+      "title": "Ideia complementar: um pouco mais de Europa",
+      "instrument": "MEUD · Amundi Stoxx Europe 600 UCITS ETF (Acc)",
+      "body": "Este ano o Stoxx 600 (as 600 maiores empresas europeias) já está a ganhar mais do que o S&P 500 americano, e a Europa depende menos das grandes tecnológicas que andam voláteis. Atenção: o VWCE já tem empresas europeias, por isso isto só aumenta um pouco o peso da Europa. Não persigas o que subiu; se o fizeres, é uma fatia pequena e para muitos anos.",
       "horizon": "longo",
       "risk": "médio",
-      "suggestedAmount": "no máximo 5% do investimento mensal",
-      "potential": "muito incerto; sem rendimento próprio, depende só do preço"
+      "suggestedAmount": "no máximo 5-10% do investimento mensal",
+      "potential": "5-8%/ano cenário base, com anos negativos pelo meio"
     }
   ],
   "news": [
     {
-      "title": "Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets",
-      "source": "Reuters (via Business Recorder)",
-      "url": "https://www.brecorder.com/news/40448089/asian-stocks-bounce-as-ai-mideast-jitters-recede-dollar-firm-on-fed-bets",
-      "summary": "A bolsa japonesa subiu 3,5% e os futuros do S&P 500 ganham 0,6%, depois de uma semana de vendas nas tecnológicas ligadas à IA.",
-      "relevance": "Quedas e recuperações rápidas são normais; quem investe todos os meses beneficia das duas sem ter de acertar no momento."
+      "title": "Stock Market Today (Nov. 9, 2026): Nvidia bucks tech stock comeback on controversy; Nasdaq, S&P 500 rise",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-145714241.html",
+      "summary": "Wall Street teve o melhor dia desde abril, com a queda do petróleo e a recuperação dos chips; a Nvidia foi exceção e caiu.",
+      "relevance": "Os EUA pesam cerca de 60% num ETF global, por isso o VWCE recuperou parte da queda da semana passada sem precisares de fazer nada."
     },
     {
-      "title": "Nvidia investiga se Jensen Huang foi alvo de espionagem",
-      "source": "ECO",
-      "url": "https://eco.sapo.pt/2026/11/08/nvidia-investiga-se-jensen-huang-foi-alvo-de-espionagem/",
-      "summary": "A administração da Nvidia abriu uma investigação independente a uma alegada operação de espionagem chinesa dirigida ao seu presidente executivo.",
-      "relevance": "A Nvidia é uma das maiores empresas do VWCE, mas pesa poucos por cento; é um bom exemplo de porque diversificar protege."
+      "title": "Europa encerra em forte alta impulsionada por bancos e alívio no petróleo. PSI sobe com BCP na liderança",
+      "source": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/europa-encerra-em-forte-alta-impulsionada-por-bancos-e-alivio-no-petroleo-psi-sobe-com-bcp-na-lideranca/",
+      "summary": "As bolsas europeias subiram com a banca e a queda do petróleo; em Lisboa o BCP ganhou 3,6% e o PSI 0,82%.",
+      "relevance": "Petróleo mais barato ajuda a travar a inflação na Europa, o que é bom tanto para ações como para obrigações a prazo."
     },
     {
-      "title": "How Are Dow, S&P 500, Nasdaq Futures Trading After Last Week's AI Bloodbath?",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-rebound-after-sharp-ai-selloff-last-week-nvda-amd-vir-sndk-in-focus/cNGADuWR9eT",
-      "summary": "Os futuros americanos sobem entre 0,6% e 0,7%, com o petróleo Brent perto de 98 dólares e as negociações EUA-Irão ainda em aberto.",
-      "relevance": "O petróleo caro alimenta a inflação e os juros, que pesam nas ações; um plano mensal suaviza esse efeito ao longo do tempo."
+      "title": "Asian stocks climb as oil prices slide ahead of US CPI",
+      "source": "Reuters (via AsiaOne)",
+      "url": "https://www.asiaone.com/money/asian-stocks-climb-oil-prices-slide-ahead-us-cpi",
+      "summary": "A Ásia subiu esta madrugada (Coreia +4%, Japão +2,5%) e o Brent caiu para o nível mais baixo desde setembro, à espera da inflação americana.",
+      "relevance": "O dia de hoje depende da inflação dos EUA; seja qual for o número, um plano mensal não precisa de mudar."
     },
     {
-      "title": "Bitcoin price drops toward $74K as crypto liquidations top $1 billion",
-      "source": "crypto.news",
-      "url": "https://crypto.news/bitcoin-price-below-75000-etf-outflows-liquidations/",
-      "summary": "A Bitcoin desce para perto de 74.400 dólares, com saídas de 1,28 mil milhões dos ETF de Bitcoin americanos na semana passada.",
-      "relevance": "As criptomoedas são muito mais voláteis do que um ETF global e não fazem falta para investir bem a longo prazo."
-    },
-    {
-      "title": "Gold Price Jumps on Soft Dollar, Holds Above $4,020 Monday",
-      "source": "JournalArta",
-      "url": "https://journalarta.com/en/2026/11/09/gold-price-jumps-soft-dollar-above-4020-monday/",
-      "summary": "O ouro recupera esta manhã, ajudado pela ideia de que o conflito com o Irão pode terminar mais cedo, mas a provável subida de juros da Fed limita os ganhos.",
-      "relevance": "O ouro pode ser um pequeno complemento, mas não substitui o núcleo do plano em ações e obrigações."
-    },
-    {
-      "title": "Stoxx 600 Erases Its Weekly Gain as Tech Rout Hits Europe, but Index Still Leads the S&P 500 This Year",
-      "source": "The Private Banker",
-      "url": "https://leprivatebanker.com/2026/11/06/stoxx-600-erases-its-weekly-gain-as-tech-rout-hits-europe-but-index-still-leads-the-sp-500-this-year/",
-      "summary": "A bolsa europeia caiu cerca de 1% na sexta, mas sobe mais de 10% este ano, à frente do S&P 500 (pouco mais de 7%).",
-      "relevance": "Mostra o valor de um ETF global: quando uma região tropeça, outra pode compensar."
-    },
-    {
-      "title": "Stock market next week: Outlook for Nov. 9-13, 2026",
+      "title": "Treasury yields rise as investors await October CPI and producer prices",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
-      "summary": "A semana traz a inflação de outubro nos EUA, discursos da Reserva Federal e mais resultados de empresas.",
-      "relevance": "Pode haver oscilações fortes nos próximos dias; não é motivo para mudar a compra mensal."
+      "url": "https://www.cnbc.com/2026/11/09/us-treasurys-bonds-yields.html",
+      "summary": "Os juros da dívida americana subiram ligeiramente à espera dos dados de inflação, com o mercado a apostar numa subida de juros em dezembro.",
+      "relevance": "Juros mais altos baixam um pouco o preço das obrigações no curto prazo, mas aumentam o que o VAGF e o XEON rendem daqui para a frente."
+    },
+    {
+      "title": "Eurozone inflation hits 4%: Which countries saw prices jump the most?",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/04/eurozone-inflation-hits-4-which-countries-saw-prices-jump-the-most",
+      "summary": "A inflação na zona euro chegou a 4% em outubro, o dobro da meta de 2% do BCE, o que aumenta a probabilidade de uma subida de juros.",
+      "relevance": "Inflação alta desgasta o dinheiro parado; investir regularmente em ativos que crescem a longo prazo é uma forma de te protegeres."
+    },
+    {
+      "title": "Espionagem chinesa, infidelidade e ligação próxima a Trump: o que se sabe sobre o caso do CEO da Nvidia",
+      "source": "ECO",
+      "url": "https://eco.sapo.pt/2026/11/09/espionagem-chinesa-infidelidade-e-ligacao-proxima-a-trump-o-que-se-sabe-sobre-o-caso-do-ceo-da-nvidia/",
+      "summary": "O ECO resume o caso que levou a administração da Nvidia a abrir uma investigação sobre alegações envolvendo o seu presidente executivo.",
+      "relevance": "Mostra o risco de apostar numa só empresa: a Nvidia caiu 4% num dia em que o mercado subiu 2%; num ETF global o efeito dilui-se."
+    },
+    {
+      "title": "Euribor desce a três, a seis e a 12 meses",
+      "source": "ECO",
+      "url": "https://eco.sapo.pt/2026/11/09/euribor-desce-a-tres-a-seis-e-a-12-meses-14/",
+      "summary": "As taxas Euribor, usadas nos créditos à habitação em Portugal, recuaram nos três prazos principais.",
+      "relevance": "Se tens crédito à habitação, a prestação depende destas taxas; manter a reserva de emergência (ex.: XEON) ajuda a absorver subidas futuras."
+    },
+    {
+      "title": "Eurogrupo faz hoje balanço sobre candidatos à sucessão de Lagarde no BCE",
+      "source": "ECO",
+      "url": "https://eco.sapo.pt/2026/11/09/eurogrupo-faz-hoje-balanco-sobre-candidatos-a-sucessao-de-lagarde-no-bce/",
+      "summary": "Os ministros das Finanças da zona euro discutiram os candidatos a próximo presidente do Banco Central Europeu.",
+      "relevance": "Quem lidera o BCE influencia os juros na Europa durante anos, mas é um tema de longo prazo que não exige mudanças no teu plano."
     }
   ],
   "signals": [
     {
       "symbol": "VWCE.DE",
       "action": "MANTER",
-      "reason": "Núcleo do plano; a recuperação de hoje e a queda da semana passada são ruído face a um horizonte de décadas."
+      "reason": "Núcleo do plano; a subida forte de ontem, tal como a queda da semana passada, não muda nada num horizonte de décadas."
     },
     {
       "symbol": "VAGF.DE",
       "action": "MANTER",
-      "reason": "Juros altos dão mais rendimento futuro e a cobertura em euros neutraliza o dólar forte."
+      "reason": "Possível subida de juros pode baixar o preço no curto prazo, mas aumenta o rendimento futuro; a cobertura em euros elimina o risco do dólar."
     },
     {
       "symbol": "XEON.DE",
       "action": "MANTER",
-      "reason": "Ideal para a reserva de emergência; acompanha a taxa do BCE com risco muito baixo."
+      "reason": "Ideal para a reserva de emergência; se o BCE subir juros, passa a render mais."
     },
     {
       "symbol": "VUAA.L",
@@ -169,17 +184,17 @@
     },
     {
       "symbol": "MSFT",
-      "action": "REVER",
-      "reason": "Muito ligada aos centros de dados de IA, que estão sob pressão política; se tens à parte, confirma que o peso é pequeno."
+      "action": "MANTER",
+      "reason": "Recuperou com as tecnológicas, mas continua ligada ao ciclo dos investimentos em IA; se tens à parte, mantém o peso pequeno."
     },
     {
       "symbol": "NVDA",
       "action": "REVER",
-      "reason": "À volatilidade dos chips junta-se agora a incerteza sobre a investigação ao presidente executivo; só como fatia mínima, se fizer."
+      "reason": "Caiu 4,3% num dia de forte subida por causa da investigação ao presidente executivo; a incerteza é específica da empresa, por isso só como fatia mínima."
     }
   ],
   "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
-  "lessonTitle": "Risco de uma empresa vs. risco do mercado",
-  "lessonBody": "Há dois tipos de risco: o de uma empresa concreta (por exemplo, um problema na liderança da Nvidia) e o do mercado inteiro (por exemplo, juros a subir no mundo todo). O primeiro chama-se risco específico e quase desaparece quando tens milhares de empresas, porque os azares de uma são compensados pelas outras. O segundo, o risco de mercado, não se elimina, mas é por o aceitares durante muitos anos que as ações tendem a render mais do que um depósito. É por isso que um ETF global como o VWCE é uma boa base: livra-te do risco específico e deixa-te só o risco que costuma ser recompensado.",
-  "beginnerNote": "Hoje não há nada a fazer: mantém a compra mensal automática, mesmo com a inflação americana a sair amanhã. Tentar fugir antes de uma má notícia e voltar depois quase sempre sai mais caro do que simplesmente ficar."
+  "lessonTitle": "O que é a inflação (CPI) e porque mexe com os mercados",
+  "lessonBody": "A inflação é a subida geral dos preços; o CPI é o índice que a mede nos EUA todos os meses. Quando a inflação está alta, os bancos centrais sobem os juros para arrefecer a economia, e isso costuma pesar nas ações (as empresas pagam mais por empréstimos) e nas obrigações já emitidas (que ficam menos atrativas face às novas). Por isso, um número acima do esperado pode fazer cair os mercados num só dia, e um abaixo do esperado pode fazê-los subir. Hoje os analistas esperam uma subida de 0,3% nos preços em outubro; o mercado reage à diferença entre o esperado e o real, não ao número em si.",
+  "beginnerNote": "Hoje não faças nada de diferente: mantém o investimento mensal tal como está. O dado da inflação pode provocar um dia agitado, mas um plano automático foi feito precisamente para não teres de adivinhar estes movimentos."
 }

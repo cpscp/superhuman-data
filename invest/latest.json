@@ -25,24 +25,16 @@
       "change": "+0,02 p.p. (4,88%)"
     },
     {
-      "name": "Bund 10 anos (yield)",
-      "change": "+0,01 p.p. (3,26%)"
-    },
-    {
       "name": "EUR/USD",
       "change": "+0,48% (1,1197)"
     },
     {
       "name": "Petróleo Brent",
-      "change": "-4,2% a -5,5% conforme a hora de fecho (cerca de 92-94 USD)"
+      "change": "-4,22% (94,17 USD)"
     },
     {
       "name": "Ouro",
       "change": "+1,9% (4.140 USD)"
-    },
-    {
-      "name": "Bitcoin",
-      "change": "+0,2% (74.876 USD)"
     }
   ],
   "tips": [

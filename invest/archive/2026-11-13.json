@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-13",
+  "generatedBy": "Claude · análise diária",
+  "marketSummary": "Quinta-feira foi um dia de sustos que acabou em pequenas perdas: o presidente executivo da Nvidia, Jensen Huang, demitiu-se de surpresa e a ação chegou a cair 14% antes de fechar em -4,3%, enquanto as rivais AMD e Broadcom subiram mais de 5%. Em Wall Street, o S&P 500 caiu 0,35% e o Nasdaq 0,39%, pressionados também pela subida dos juros da dívida americana a 10 anos, que voltaram a ficar acima de 5%, porque o mercado já dá como quase certa uma subida de juros da Reserva Federal (o banco central dos EUA) em dezembro. Na Europa o dia foi mais calmo: o Stoxx 600 subiu 0,14% e fechou em novo recorde, e o PSI ganhou 0,07%. O petróleo Brent subiu 3,3% depois de Trump dizer que os EUA 'não precisam de um acordo com o Irão', o ouro caiu cerca de 3% (para perto de 3 880 USD) e o Bitcoin recuou para perto de 71 500 USD.",
+  "mood": "neutro",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "change": "-0,35%"
+    },
+    {
+      "name": "Nasdaq",
+      "change": "-0,39%"
+    },
+    {
+      "name": "Stoxx 600",
+      "change": "+0,14% (recorde)"
+    },
+    {
+      "name": "PSI",
+      "change": "+0,07%"
+    },
+    {
+      "name": "Treasury 10 anos (juro)",
+      "change": "+0,1 p.p. (≈5,0-5,1%)"
+    },
+    {
+      "name": "EUR/USD",
+      "change": "≈0% (1,109, mínimo de 18 meses)"
+    },
+    {
+      "name": "Petróleo Brent",
+      "change": "+3,3%"
+    },
+    {
+      "name": "Ouro",
+      "change": "-3,0%"
+    }
+  ],
+  "tips": [
+    {
+      "title": "Mantém o débito mensal no VWCE",
+      "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
+      "body": "A saída do CEO da Nvidia é exatamente o tipo de notícia que assusta mas que um ETF global absorve: a Nvidia é só uma das cerca de 3 900 empresas do VWCE, e no mesmo dia as rivais AMD e Broadcom subiram. Ao investir todos os meses, compras mais unidades quando o preço desce e menos quando sobe, sem teres de adivinhar nada.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "70-80% do investimento mensal (núcleo do plano)",
+      "potential": "historicamente 6-8%/ano em períodos longos (sem garantias, com anos negativos pelo meio)"
+    },
+    {
+      "title": "Juros altos tornam as obrigações mais interessantes",
+      "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
+      "body": "Com o juro alemão a 10 anos perto de 3,3% e o americano acima de 5%, as obrigações compradas hoje pagam mais do que há alguns anos. O preço do VAGF desce um pouco quando os juros sobem, mas o rendimento futuro aumenta. A cobertura em EUR ('hedged') protege-te das oscilações do dólar, que está no máximo de 18 meses face ao euro.",
+      "horizon": "médio",
+      "risk": "baixo",
+      "suggestedAmount": "15-20% do investimento mensal",
+      "potential": "cerca de 3-4%/ano cenário base, próximo do juro atual das obrigações"
+    },
+    {
+      "title": "Dinheiro de curto prazo no monetário",
+      "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
+      "body": "O XEON acompanha a taxa de juro do BCE dia a dia e quase não oscila. Como a inflação na zona euro chegou a 4% em outubro e o BCE deverá subir juros em dezembro, o rendimento do XEON tende a acompanhar essa subida. Serve para o fundo de emergência ou dinheiro que vais precisar nos próximos 1-2 anos, não para crescer a longo prazo.",
+      "horizon": "curto",
+      "risk": "baixo",
+      "suggestedAmount": "5-10% do investimento mensal, ou o valor do teu fundo de emergência",
+      "potential": "perto da taxa do BCE, cerca de 2-3%/ano"
+    },
+    {
+      "title": "Não 'aproveites' a queda da Nvidia por impulso",
+      "instrument": "NVDA · NVIDIA Corp.",
+      "body": "Comprar uma ação isolada depois de uma notícia tão grande é apostar, não investir: ainda não se sabe quem será o próximo CEO e os resultados saem a 17 de novembro, o que pode trazer mais oscilações fortes. Lembra-te que já tens Nvidia dentro do VWCE. Se mesmo assim quiseres uma ação individual, limita-a a uma fatia pequena que aceites ver cair 30% ou mais.",
+      "horizon": "longo",
+      "risk": "alto",
+      "suggestedAmount": "0-5% do investimento mensal, no máximo",
+      "potential": "muito incerto; pode subir ou cair fortemente"
+    }
+  ],
+  "news": [
+    {
+      "title": "Nvidia afunda em bolsa com saída de Jensen Huang da liderança",
+      "source": "Euronews",
+      "url": "https://pt.euronews.com/2026/11/12/nvidia-afunda-em-bolsa-com-saida-de-jensen-huang-da-lideranca",
+      "summary": "O cofundador e CEO da Nvidia demitiu-se com efeito imediato; a diretora financeira Colette Kress assume interinamente e a ação chegou a cair mais de 13%.",
+      "relevance": "A Nvidia é uma das maiores empresas dos ETF globais, por isso o VWCE sente, mas com peso pequeno; é um bom exemplo de porque diversificar protege de surpresas numa única empresa."
+    },
+    {
+      "title": "Nvidia CEO's stunning exit sends Wall Street lower as rivals surge",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/",
+      "summary": "S&P 500 -0,36% e Nasdaq -0,39%; Nvidia -4,34%, enquanto AMD (+5,86%) e Broadcom (+5,54%) subiram.",
+      "relevance": "Quando uma empresa perde, concorrentes muitas vezes ganham; num ETF global tens as duas, e o efeito líquido no teu investimento foi pequeno."
+    },
+    {
+      "title": "Treasury selloff accelerates, European bonds follow suit",
+      "source": "MarketScreener / Dow Jones",
+      "url": "https://www.marketscreener.com/news/treasury-selloff-accelerates-european-bonds-follow-suit-2nd-update-ce785ed8de8bf32c",
+      "summary": "O juro a 10 anos dos EUA passou os 5%, com o mercado a dar 88% de probabilidade a uma subida de 0,25 p.p. pela Fed em dezembro; o Bund subiu para cerca de 3,33%.",
+      "relevance": "Juros mais altos pressionam um pouco o preço do VAGF hoje, mas aumentam o que ele vai render nos próximos anos."
+    },
+    {
+      "title": "Stoxx 600 atinge novo recorde. Europa sobrevive a 'sell-off' tecnológico provocado pela Nvidia",
+      "source": "Jornal de Negócios",
+      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/crise-na-lideranca-da-nvidia-atira-asia-para-o-vermelho-europa-deve-escapar-a-pessimismo",
+      "summary": "O Stoxx 600 fechou em 664,01 pontos, novo máximo, e o euro tocou 1,11 dólares, mínimo de cerca de 18 meses.",
+      "relevance": "Enquanto os EUA tropeçavam, a Europa subia: um ETF mundial junta as duas regiões e suaviza estes movimentos opostos."
+    },
+    {
+      "title": "PSI fecha em ligeira alta numa Europa verde ainda a digerir a saída do CEO da Nvidia",
+      "source": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/psi-fecha-em-ligeira-alta-numa-europa-verde-ainda-a-digerir-a-saida-do-ceo-da-nvidia/",
+      "summary": "O PSI subiu 0,07% para 9 601 pontos, com Sonae, Galp e NOS a liderar; EDP Renováveis e Altri caíram.",
+      "relevance": "A bolsa portuguesa pesa muito pouco num ETF global; não é preciso acompanhá-la para seguir o teu plano."
+    },
+    {
+      "title": "Gold prices open back under $4,000 as rate hikes crystallize",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-november-12-2026-prices-open-back-under-4000-as-rate-hikes-crystallize-121913089.html",
+      "summary": "O ouro voltou a abaixo de 4 000 USD com o dólar forte e cerca de 90% de probabilidade de subida de juros da Fed a 8-9 de dezembro.",
+      "relevance": "Ativos sem juro, como o ouro, perdem atratividade quando os juros sobem; mais uma razão para não perseguir o que está 'na moda'."
+    },
+    {
+      "title": "Inflação em máximos de 2023 aumenta probabilidade de nova subida de juros em dezembro",
+      "source": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/je-diario-bce-inflacao-em-maximos-de-2023-aumenta-probabilidade-de-nova-subida-de-juros-em-dezembro/",
+      "summary": "A inflação da zona euro subiu para 4% em outubro, puxada pela energia, o que reforça a hipótese de o BCE subir juros em dezembro.",
+      "relevance": "Subidas de juros do BCE aumentam o rendimento do XEON e de depósitos, e explicam porque as obrigações rendem hoje mais do que há alguns anos."
+    }
+  ],
+  "signals": [
+    {
+      "symbol": "VWCE.DE",
+      "action": "MANTER",
+      "reason": "Núcleo do plano; a turbulência na Nvidia teve impacto pequeno num ETF com milhares de empresas. Continua o débito mensal."
+    },
+    {
+      "symbol": "VAGF.DE",
+      "action": "MANTER",
+      "reason": "A subida dos juros pesa ligeiramente no preço, mas aumenta o rendimento futuro; mantém a percentagem definida."
+    },
+    {
+      "symbol": "XEON.DE",
+      "action": "MANTER",
+      "reason": "Rende perto da taxa do BCE, que deverá subir em dezembro; adequado para dinheiro de curto prazo e fundo de emergência."
+    },
+    {
+      "symbol": "VUAA.L",
+      "action": "REVER",
+      "reason": "ETF do S&P 500: os EUA já são cerca de 60% do VWCE. Se o tens, confirma que não estás a duplicar exposição sem querer."
+    },
+    {
+      "symbol": "IWDA.AS",
+      "action": "REVER",
+      "reason": "Muito semelhante ao VWCE (sem emergentes); ter os dois raramente acrescenta diversificação. Escolhe um como núcleo."
+    },
+    {
+      "symbol": "SXR8.DE",
+      "action": "REVER",
+      "reason": "Outro ETF do S&P 500; mesma sobreposição com o VWCE. Mantém só se for uma escolha consciente de reforçar os EUA."
+    },
+    {
+      "symbol": "CSPX.L",
+      "action": "REVER",
+      "reason": "Igual ao SXR8 noutra bolsa e em dólares; para quem investe em euros, o SXR8.DE evita a conversão cambial."
+    },
+    {
+      "symbol": "AAPL",
+      "action": "MANTER",
+      "reason": "Sem notícias relevantes hoje; já está no VWCE. Ação individual só como pequena fatia satélite."
+    },
+    {
+      "symbol": "MSFT",
+      "action": "MANTER",
+      "reason": "Uma falha no Outlook/Teams/Microsoft 365 é ruído de curto prazo; não muda o negócio de longo prazo."
+    },
+    {
+      "symbol": "NVDA",
+      "action": "REVER",
+      "reason": "Saída súbita do CEO e resultados a 17 de novembro trazem muita incerteza; não reforces por impulso e confirma que o peso na carteira é pequeno."
+    }
+  ],
+  "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
+  "lessonTitle": "O que são as 'yields' e porque mexem com tudo",
+  "lessonBody": "A 'yield' (rendimento) de uma obrigação é o juro anual que recebes se a comprares hoje e a guardares até ao fim; quando ouves 'o juro a 10 anos dos EUA passou 5%', é isso. Quando os bancos centrais sobem juros para travar a inflação, as obrigações novas passam a pagar mais, e as antigas (que pagam menos) descem de preço para ficarem competitivas. Isto também pesa nas ações e no ouro: se um título 'seguro' já rende 5%, alguns investidores trocam risco por segurança. Para ti, a boa notícia é que, a longo prazo, juros mais altos significam que a parte de obrigações (VAGF) e de monetário (XEON) do teu plano vai render mais.",
+  "beginnerNote": "Hoje não há nada a fazer: mantém o investimento mensal automático. A demissão do CEO da Nvidia e a subida dos juros são notícias fortes, mas o teu ETF global quase não se mexeu, e reagir a manchetes costuma custar mais do que ignorá-las."
+}

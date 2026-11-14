@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-14",
+  "generatedBy": "Claude · análise diária",
+  "marketSummary": "Na sexta-feira (13/11), Wall Street fechou em ligeira queda: as tecnológicas caíram depois da saída inesperada de Jensen Huang da liderança da Nvidia, e o Nasdaq perdeu 0,9%. Mesmo assim, o S&P 500 terminou a semana com uma subida de 2,5%. Na Europa, o Stoxx 600 fechou praticamente estável mas num novo máximo histórico, ajudado por seguradoras e petrolíferas, e a bolsa de Lisboa (PSI) subiu 1,06%. Os juros das obrigações continuaram a subir (a 10 anos, perto de 5,17% nos EUA e 3,39% na Alemanha), porque os mercados contam com uma subida de juros da Reserva Federal em dezembro, já que a inflação nos EUA continua alta. O dólar está forte, o ouro teve uma semana fraca (perto dos 3.890 $/onça), o Brent ficou estável nos 95,84 $ e a Bitcoin caiu abaixo dos 70.000 $.",
+  "mood": "neutro",
+  "indices": [
+    {"name": "S&P 500", "change": "-0,4%"},
+    {"name": "Nasdaq", "change": "-0,9%"},
+    {"name": "Stoxx 600", "change": "≈0,0% (máximo histórico)"},
+    {"name": "PSI", "change": "+1,06%"},
+    {"name": "Treasury EUA 10 anos (yield)", "change": "≈5,17% (a subir)"},
+    {"name": "Bund alemão 10 anos (yield)", "change": "≈3,39% (+0,05 p.p.)"},
+    {"name": "EUR/USD", "change": "≈1,105 (mínimo desde abril de 2025)"},
+    {"name": "Bitcoin", "change": "≈-3,8% (abaixo de 70.000 $)"}
+  ],
+  "tips": [
+    {
+      "title": "Mantém o plano base mensal sem mexer",
+      "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
+      "body": "O VWCE compra de uma vez milhares de empresas do mundo inteiro, por isso a queda de uma empresa (mesmo a Nvidia) pesa pouco. Esta semana viu-se isso: as tecnológicas americanas caíram, mas a Europa bateu recordes, e um ETF global apanha os dois lados. Investir o mesmo valor todos os meses faz com que compres mais unidades quando os preços estão mais baixos.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "parte principal do plano (ex.: 70-80% do investimento mensal)",
+      "potential": "historicamente 6-8%/ano em média em períodos longos, com anos negativos pelo meio; não é garantido"
+    },
+    {
+      "title": "Juros mais altos tornam as obrigações mais interessantes",
+      "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
+      "body": "Quando os juros (yields) sobem, o preço das obrigações já existentes desce no curto prazo, mas as obrigações novas que o ETF vai comprando pagam mais. Para quem investe todos os meses durante anos, isto significa comprar rendimento futuro mais alto. A cobertura em euros (hedged) evita que a força do dólar mexa no teu resultado.",
+      "horizon": "longo",
+      "risk": "baixo",
+      "suggestedAmount": "ex.: 15-25% do investimento mensal",
+      "potential": "cenário base próximo das yields atuais (≈3-4%/ano), com oscilações se os juros continuarem a subir"
+    },
+    {
+      "title": "Fundo de emergência e dinheiro de curto prazo",
+      "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
+      "body": "O XEON acompanha a taxa de juro diária do euro, que tem subido com o BCE mais restritivo. Serve para dinheiro de que podes precisar em 1-2 anos ou para a reserva de emergência, não para crescer a longo prazo. O valor quase não oscila, mas o rendimento acompanha a taxa do BCE e pode descer se os juros caírem.",
+      "horizon": "curto",
+      "risk": "baixo",
+      "suggestedAmount": "ex.: 5-10% do investimento mensal até teres a reserva desejada",
+      "potential": "próximo da taxa de juro diária do BCE; sem perspetiva de crescimento acima disso"
+    },
+    {
+      "title": "Ideia complementar: um pouco mais de Europa",
+      "instrument": "MEUD · Amundi Stoxx Europe 600 UCITS ETF (Acc)",
+      "body": "A Europa tem muito menos peso em tecnológicas (cerca de 9% contra mais de 35% nos EUA), por isso tem resistido melhor às quedas ligadas à inteligência artificial, e os lucros das empresas europeias estão a crescer. É uma ideia opcional para equilibrar o peso grande dos EUA no VWCE. Risco: a Europa é mais sensível ao preço do petróleo e já está em máximos, por isso pode corrigir (cair 10% ou mais) a qualquer momento.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "no máximo 5-10% do investimento mensal, retirado da parte de ações",
+      "potential": "cenário base semelhante às ações globais (≈5-8%/ano), sem garantias"
+    }
+  ],
+  "news": [
+    {
+      "title": "Nasdaq e S&P 500 fecham em baixa com a saída de Jensen Huang da Nvidia",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026",
+      "summary": "O CEO da Nvidia demitiu-se após 33 anos; a CFO Colette Kress assume interinamente. A inflação dos preços no produtor nos EUA chegou a 6,5% ao ano e os mercados contam com uma subida de juros da Fed em dezembro.",
+      "relevance": "A Nvidia é uma das maiores empresas do VWCE, mas pesa pouco num ETF com milhares de empresas; quedas destas são normais e não justificam mudar o plano."
+    },
+    {
+      "title": "Como a dor das tecnológicas dos EUA é ganho para as bolsas europeias",
+      "source": "Reuters (via MarketScreener)",
+      "url": "https://www.marketscreener.com/news/how-us-tech-pain-is-european-stock-markets-gain-ce785ed9de89f120",
+      "summary": "O Stoxx 600 atingiu um recorde e teve a melhor semana desde junho, enquanto investidores saem das apostas em IA. Os lucros europeus estão a crescer cerca de 25% no trimestre, liderados pela energia.",
+      "relevance": "Mostra o valor da diversificação: um ETF global tem EUA e Europa, e quando uma região cai a outra pode amortecer."
+    },
+    {
+      "title": "PSI encerra semana em alta, impulsionado pela Jerónimo Martins e REN",
+      "source": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/psi-encerra-semana-em-alta-impulsionado-pela-jeronimo-martins-e-ren/",
+      "summary": "A bolsa de Lisboa subiu 1,06% para 9.697,64 pontos, com REN (+2,33%) e Jerónimo Martins (+2,26%) a liderar; só o BCP caiu.",
+      "relevance": "Portugal é uma fração mínima de um ETF global; é bom acompanhar, mas não deve pesar nas decisões do plano."
+    },
+    {
+      "title": "Yield do Treasury a 10 anos sobe para 5,17% após dados de preços no produtor",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+      "summary": "Os juros da dívida americana subiram para máximos de vários anos, com os investidores a contar com mais subidas de juros da Fed para travar a inflação.",
+      "relevance": "Juros mais altos podem pressionar ações e o preço das obrigações no curto prazo, mas aumentam o rendimento futuro do VAGF e do XEON."
+    },
+    {
+      "title": "Dólar atinge máximo de 19 meses; euro no nível mais baixo desde abril de 2025",
+      "source": "Business Recorder (Reuters)",
+      "url": "https://www.brecorder.com/news/40448673/dollar-reaches-19-month-high",
+      "summary": "O euro caiu para cerca de 1,106 dólares, com o mercado a dar mais de 90% de probabilidade a uma subida de juros da Fed em dezembro.",
+      "relevance": "Com o dólar forte, as ações americanas valem mais em euros, o que ajuda o VWCE; o VAGF tem cobertura cambial e não é afetado."
+    },
+    {
+      "title": "Petróleo oscila com tensões no Irão; Brent fecha nos 95,84 dólares",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article",
+      "summary": "O Brent ficou praticamente estável e caiu pela segunda semana, com a Agência Internacional de Energia a prever excesso de oferta, apesar dos ataques a navios no Golfo.",
+      "relevance": "O petróleo alto alimenta a inflação e os juros; é um risco a acompanhar, mas um plano mensal diversificado já está preparado para estas oscilações."
+    },
+    {
+      "title": "Ouro estabiliza perto dos 3.890 dólares mas apostas na subida de juros pesam",
+      "source": "USAGOLD",
+      "url": "https://www.usagold.com/daily-precious-metals-market-report-november-13-2026/",
+      "summary": "O ouro recuperou ligeiramente na sexta-feira, mas caminha para uma semana negativa porque juros mais altos tornam menos atrativo um ativo que não paga rendimento.",
+      "relevance": "O ouro não faz parte do plano base; esta semana mostra que nem os ativos 'refúgio' sobem sempre."
+    }
+  ],
+  "signals": [
+    {"symbol": "VWCE.DE", "action": "MANTER", "reason": "Base do plano; diversificação global amortece a queda das tecnológicas. Continua a investir todos os meses."},
+    {"symbol": "VAGF.DE", "action": "MANTER", "reason": "Yields mais altas pressionam o preço agora, mas aumentam o rendimento futuro; a cobertura em euros protege do dólar."},
+    {"symbol": "XEON.DE", "action": "MANTER", "reason": "Rende perto da taxa diária do BCE, que tem subido; ideal para reserva de emergência e dinheiro de curto prazo."},
+    {"symbol": "VUAA.L", "action": "MANTER", "reason": "S&P 500 teve a primeira semana positiva desde outubro, mas está muito concentrado em tecnologia; não acumular por cima do VWCE."},
+    {"symbol": "IWDA.AS", "action": "MANTER", "reason": "Alternativa ao VWCE (sem mercados emergentes); se já o tens, mantém, mas não é preciso ter os dois."},
+    {"symbol": "SXR8.DE", "action": "MANTER", "reason": "Equivalente ao VUAA (S&P 500); sobrepõe-se ao VWCE e aumenta o peso dos EUA e das tecnológicas."},
+    {"symbol": "CSPX.L", "action": "MANTER", "reason": "Mesmo índice que VUAA/SXR8, cotado em dólares; para um investidor em euros, preferir as versões cotadas em euros."},
+    {"symbol": "AAPL", "action": "MANTER", "reason": "Ação individual com risco maior do que um ETF; já está dentro do VWCE, não há motivo para reforçar por notícias de hoje."},
+    {"symbol": "MSFT", "action": "MANTER", "reason": "Sofreu uma falha no Microsoft 365 e a pressão sobre as tecnológicas; nada que mude a tese de longo prazo, mas não reforçar por impulso."},
+    {"symbol": "NVDA", "action": "REVER", "reason": "Saída do CEO e maior escrutínio às exportações de chips aumentam a incerteza; quem tem a ação diretamente deve rever se o peso na carteira é demasiado alto."}
+  ],
+  "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
+  "lessonTitle": "Porque é que juros altos fazem cair o preço das obrigações",
+  "lessonBody": "A yield (rendimento) de uma obrigação é o juro anual que ela paga em percentagem do preço. Esta semana, a yield do Treasury a 10 anos subiu para cerca de 5,17% porque se espera que a Fed suba juros. Se as obrigações novas passam a pagar mais, as antigas, que pagam menos, só se vendem se ficarem mais baratas, por isso o preço delas cai. É por isso que o VAGF pode descer quando os juros sobem, mas, como o ETF vai trocando obrigações antigas por novas, a longo prazo passa a render mais.",
+  "beginnerNote": "Hoje não há nada a fazer: mantém o investimento mensal automático. A saída do CEO da Nvidia e a subida dos juros são notícias importantes, mas o teu plano global já está diversificado precisamente para que um acontecimento destes não estrague anos de investimento."
+}

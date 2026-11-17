@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-17",
+  "generatedBy": "Claude · análise diária",
+  "marketSummary": "Segunda-feira foi um dia mau para as tecnológicas americanas: o S&P 500 caiu 1,9% e o Nasdaq 2,5%, com as empresas de chips a perder mais de 5% em conjunto. A Nvidia recuou mais de 4% antes de apresentar resultados esta semana (os primeiros desde a saída do CEO), e novas restrições dos EUA à exportação de chips de IA pesaram em empresas como a AMD. A Europa aguentou-se melhor (Stoxx 600 -0,3%) e o PSI até subiu 0,1%, puxado pela Mota-Engil. Por trás de tudo está a expectativa de que a Reserva Federal (o banco central dos EUA) volte a subir juros em dezembro, o que fortaleceu o dólar e pôs o euro abaixo de 1,10 dólares, mínimo de 19 meses. O petróleo Brent caiu cerca de 3% com sinais de que o fluxo pelo Estreito de Ormuz está a recuperar.",
+  "mood": "risk-off",
+  "indices": [
+    {"name": "S&P 500", "change": "-1,9%"},
+    {"name": "Nasdaq Composite", "change": "-2,5%"},
+    {"name": "Stoxx 600", "change": "-0,3%"},
+    {"name": "PSI", "change": "+0,1%"},
+    {"name": "Treasury 10 anos (yield ~5,12%)", "change": "-0,03 p.p."},
+    {"name": "EUR/USD (1,1007)", "change": "-0,15%"},
+    {"name": "Petróleo Brent (~92,8 $)", "change": "-3,2%"},
+    {"name": "Ouro (~3.849 $/onça)", "change": "-0,8%"}
+  ],
+  "tips": [
+    {
+      "title": "Dia de queda? O investimento mensal no VWCE continua igual",
+      "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
+      "body": "O VWCE tem milhares de empresas de todo o mundo, por isso uma queda forte dos chips americanos pesa, mas não decide o teu futuro. Quando o mercado desce, o mesmo valor mensal compra mais unidades do ETF. Além disso, como o euro caiu face ao dólar, a parte americana do VWCE vale um pouco mais em euros, o que amorteceu parte da queda para quem investe em euros.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "70-80% do investimento mensal (plano base)",
+      "potential": "5-8%/ano em média a longo prazo, cenário base, com anos negativos pelo meio"
+    },
+    {
+      "title": "Obrigações: o amortecedor da carteira",
+      "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
+      "body": "Com a dívida americana a 10 anos perto de 5,1% e o Bund alemão a cerca de 3,4%, as obrigações novas pagam juros mais altos do que há uns anos, o que melhora o rendimento futuro deste ETF. Se os bancos centrais subirem mais os juros, o preço pode descer um pouco no curto prazo. A cobertura em EUR (hedged) significa que a subida ou descida do dólar praticamente não mexe no teu valor.",
+      "horizon": "médio",
+      "risk": "baixo",
+      "suggestedAmount": "15-20% do investimento mensal (plano base)",
+      "potential": "3-4%/ano cenário base"
+    },
+    {
+      "title": "Reserva de emergência que beneficia de juros a subir",
+      "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
+      "body": "O XEON acompanha a taxa de juro de um dia na zona euro e quase não oscila. Se o BCE subir juros em dezembro, como o mercado espera, o rendimento do XEON sobe também. É onde deve ficar o dinheiro de que podes precisar em breve, para nunca teres de vender ações num dia como ontem.",
+      "horizon": "curto",
+      "risk": "baixo",
+      "suggestedAmount": "0-10% do investimento mensal, até teres 3-6 meses de despesas de reserva",
+      "potential": "próximo da taxa de depósitos do BCE (o mercado espera 2,75% após dezembro), sem ganhos de bolsa"
+    },
+    {
+      "title": "Ideia complementar: uma pequena fatia de ouro",
+      "instrument": "SGLD · Invesco Physical Gold ETC",
+      "body": "O ouro está perto do nível mais baixo do último ano, pressionado pelo dólar forte e pelos juros altos. Historicamente costuma comportar-se de forma diferente das ações, por isso uma fatia pequena pode diversificar. Atenção: é um ETC (um título garantido por ouro físico, não um ETF), não paga juros nem dividendos e o preço pode cair bastante durante anos.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "até 5% do investimento mensal (opcional)",
+      "potential": "sem rendimento próprio; depende só do preço do ouro, muito variável"
+    }
+  ],
+  "news": [
+    {
+      "title": "Venda de tecnológicas agrava-se e Nasdaq cai 2,5%",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-222502139.html",
+      "summary": "Nvidia, AMD e Intel caíram com força devido às novas restrições à exportação de chips de IA e à incerteza na liderança da Nvidia antes dos resultados.",
+      "relevance": "As grandes tecnológicas americanas pesam bastante nos ETF globais, por isso estes dias notam-se no VWCE, mas a diversificação reduz o impacto."
+    },
+    {
+      "title": "Bolsas caem antes dos resultados da Nvidia e da entrada em bolsa da Anthropic; petróleo desce",
+      "source": "Reuters",
+      "url": "https://lufkindailynews.com/news_reuters/business/stocks-fall-ahead-of-nvidia-earnings-and-anthropic-ipo-oil-drops/article_f0fd148f-9631-585f-88b5-6d95f7a56e3f.html",
+      "summary": "O mercado aposta numa subida de juros da Fed em dezembro e a Anthropic deve fixar o preço da sua IPO na quarta-feira, com estreia no Nasdaq na quinta.",
+      "relevance": "Semana cheia de eventos que podem mexer muito com as tecnológicas; para quem investe todos os meses, é ruído de curto prazo."
+    },
+    {
+      "title": "Fed dá força ao dólar e põe euro em mínimos de 19 meses",
+      "source": "ECO",
+      "url": "https://eco.sapo.pt/2026/11/16/ativo-do-dia-fed-da-forca-ao-dolar-e-poe-euro-em-minimos-de-19-meses/",
+      "summary": "O euro caiu até 1,1005 dólares porque o mercado espera mais subidas de juros nos EUA do que na zona euro.",
+      "relevance": "Um dólar mais forte faz as ações americanas valerem mais em euros, o que suaviza as quedas do VWCE para quem investe a partir de Portugal."
+    },
+    {
+      "title": "PSI fecha em alta contra a tendência europeia; Mota-Engil dispara",
+      "source": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/psi-fecha-em-alta-contrariando-a-tendencia-europeia-mota-engil-dispara-com-recomendacao-do-jb-capital/",
+      "summary": "A bolsa de Lisboa subiu 0,13%, para 9.709,79 pontos, com a Mota-Engil a ganhar 6,46% após uma subida de preço-alvo; a EDP foi a que mais caiu.",
+      "relevance": "Portugal pesa muito pouco num ETF global; é um bom sinal local, mas não muda a tua carteira."
+    },
+    {
+      "title": "Presidente do Bundesbank diz que é \"muito provável\" que o BCE suba juros em dezembro",
+      "source": "Jornal de Negócios",
+      "url": "https://www.jornaldenegocios.pt/mercados/taxas-de-juro/detalhe/presidente-do-bundesbank-diz-que-e-muito-provavel-que-bce-suba-juros-em-dezembro",
+      "summary": "Joachim Nagel defende uma subida de 0,25 pontos percentuais porque a inflação na zona euro está elevada e a energia continua cara.",
+      "relevance": "Juros mais altos no BCE aumentam o rendimento do XEON e das obrigações novas, mas encarecem créditos como a prestação da casa."
+    },
+    {
+      "title": "Mercado cripto em \"medo extremo\" com bitcoin perto dos 64 mil dólares",
+      "source": "The Daily Coins",
+      "url": "https://thedailycoins.io/2026/11/crypto-market-today-2026-11-16/",
+      "summary": "A bitcoin caiu cerca de 1,7% em 24 horas e 14% numa semana; o índice de sentimento está em 10, \"medo extremo\".",
+      "relevance": "Mostra como as criptomoedas são voláteis; não fazem parte do plano base e não afetam os ETF globais."
+    }
+  ],
+  "signals": [
+    {"symbol": "VWCE.DE", "action": "MANTER", "reason": "Base do plano e muito diversificado; uma queda das tecnológicas é ruído para um horizonte longo."},
+    {"symbol": "VAGF.DE", "action": "MANTER", "reason": "Juros altos melhoram o rendimento futuro das obrigações e a cobertura em EUR protege do dólar."},
+    {"symbol": "XEON.DE", "action": "MANTER", "reason": "Reserva estável; o rendimento deve subir se o BCE aumentar juros em dezembro."},
+    {"symbol": "VUAA.L", "action": "MANTER", "reason": "O S&P 500 já está dentro do VWCE (cerca de 60% EUA); se já tens, mantém, mas não é preciso juntar ao plano."},
+    {"symbol": "IWDA.AS", "action": "MANTER", "reason": "Muito parecido com o VWCE (só países desenvolvidos); escolhe um dos dois para não duplicar."},
+    {"symbol": "SXR8.DE", "action": "MANTER", "reason": "Mais concentrado nos EUA e na tecnologia, por isso sofre mais em dias como ontem; não é necessário com o VWCE."},
+    {"symbol": "CSPX.L", "action": "MANTER", "reason": "Igual ao SXR8 (S&P 500), cotado em dólares em Londres; sobrepõe-se ao VWCE."},
+    {"symbol": "AAPL", "action": "MANTER", "reason": "Ação individual de grande qualidade, mas não escapa a quedas gerais do setor; deve ser só uma parte pequena da carteira."},
+    {"symbol": "MSFT", "action": "MANTER", "reason": "Grande tecnológica afetada pelo receio sobre a dívida e os gastos em IA; acompanhar sem urgência."},
+    {"symbol": "NVDA", "action": "REVER", "reason": "Caiu mais de 4% com novas restrições à exportação de chips e apresenta resultados esta semana, os primeiros sem o antigo CEO; espera-se forte oscilação."}
+  ],
+  "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
+  "lessonTitle": "Porque é que o dólar mexe com o teu ETF em euros?",
+  "lessonBody": "O VWCE é comprado em euros, mas cerca de 60% das empresas lá dentro são americanas e valem em dólares. Quando o dólar sobe face ao euro, como aconteceu ontem, essas ações passam a valer mais euros, mesmo que o preço em dólares não mude. Por isso, num dia em que Wall Street caiu quase 2%, a queda sentida por um investidor português foi um pouco menor. O contrário também acontece: um euro forte pode tirar algum ganho, e é por isso que nas obrigações (VAGF) se usa cobertura cambial (hedged), para que a parte segura da carteira não dependa da moeda.",
+  "beginnerNote": "Mantém o plano mensal e não vendas por causa de um dia mau nas tecnológicas: quedas de 2% acontecem várias vezes por ano, e continuar a investir todos os meses faz-te comprar mais barato quando o mercado desce."
+}

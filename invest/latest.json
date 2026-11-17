@@ -1,185 +1,114 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "generatedBy": "Claude · análise diária",
-  "marketSummary": "Os números são do fecho de sexta-feira (13/11), porque hoje as bolsas ainda não abriram. Em Wall Street, o S&P 500 caiu 0,4% e o Nasdaq 0,9%, com as empresas de chips a pesar depois da demissão do CEO da Nvidia, mas ainda assim a semana terminou em alta (S&P 500 +2,5%). Na Europa, o Stoxx 600 ficou praticamente igual perto de máximos históricos e o PSI subiu 1,1%, puxado pela Jerónimo Martins e pela REN. O grande tema continua a ser o juro da dívida americana a 10 anos acima de 5%, porque a inflação nos EUA continua alta e o mercado aposta que a Reserva Federal (o banco central americano) volte a subir juros em dezembro. Esta segunda-feira começa com futuros de Wall Street em queda e a Ásia tecnológica a cair forte, à espera dos resultados da Nvidia na terça-feira.",
+  "marketSummary": "Segunda-feira foi um dia mau para as tecnológicas americanas: o S&P 500 caiu 1,9% e o Nasdaq 2,5%, com as empresas de chips a perder mais de 5% em conjunto. A Nvidia recuou mais de 4% antes de apresentar resultados esta semana (os primeiros desde a saída do CEO), e novas restrições dos EUA à exportação de chips de IA pesaram em empresas como a AMD. A Europa aguentou-se melhor (Stoxx 600 -0,3%) e o PSI até subiu 0,1%, puxado pela Mota-Engil. Por trás de tudo está a expectativa de que a Reserva Federal (o banco central dos EUA) volte a subir juros em dezembro, o que fortaleceu o dólar e pôs o euro abaixo de 1,10 dólares, mínimo de 19 meses. O petróleo Brent caiu cerca de 3% com sinais de que o fluxo pelo Estreito de Ormuz está a recuperar.",
   "mood": "risk-off",
   "indices": [
-    {
-      "name": "S&P 500",
-      "change": "-0,4%"
-    },
-    {
-      "name": "Nasdaq Composite",
-      "change": "-0,9%"
-    },
-    {
-      "name": "Stoxx 600",
-      "change": "+0,02%"
-    },
-    {
-      "name": "PSI",
-      "change": "+1,1%"
-    },
-    {
-      "name": "Treasury 10 anos (yield 5,15%)",
-      "change": "+0,02 p.p."
-    },
-    {
-      "name": "EUR/USD (1,1019)",
-      "change": "-0,08%"
-    },
-    {
-      "name": "Ouro (~3.875 $/onça)",
-      "change": "-0,2%"
-    },
-    {
-      "name": "Bitcoin (~64.800 $, 24h)",
-      "change": "-3,4%"
-    }
+    {"name": "S&P 500", "change": "-1,9%"},
+    {"name": "Nasdaq Composite", "change": "-2,5%"},
+    {"name": "Stoxx 600", "change": "-0,3%"},
+    {"name": "PSI", "change": "+0,1%"},
+    {"name": "Treasury 10 anos (yield ~5,12%)", "change": "-0,03 p.p."},
+    {"name": "EUR/USD (1,1007)", "change": "-0,15%"},
+    {"name": "Petróleo Brent (~92,8 $)", "change": "-3,2%"},
+    {"name": "Ouro (~3.849 $/onça)", "change": "-0,8%"}
   ],
   "tips": [
     {
-      "title": "Mantém o investimento mensal no VWCE",
+      "title": "Dia de queda? O investimento mensal no VWCE continua igual",
       "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
-      "body": "O VWCE junta milhares de empresas do mundo inteiro num só ETF, por isso uma má semana da Nvidia ou dos chips pesa pouco no total. Quando as bolsas descem, o teu investimento mensal compra mais unidades pelo mesmo dinheiro. É a base do plano e não precisa de mexidas por causa das notícias de hoje.",
+      "body": "O VWCE tem milhares de empresas de todo o mundo, por isso uma queda forte dos chips americanos pesa, mas não decide o teu futuro. Quando o mercado desce, o mesmo valor mensal compra mais unidades do ETF. Além disso, como o euro caiu face ao dólar, a parte americana do VWCE vale um pouco mais em euros, o que amorteceu parte da queda para quem investe em euros.",
       "horizon": "longo",
       "risk": "médio",
       "suggestedAmount": "70-80% do investimento mensal (plano base)",
       "potential": "5-8%/ano em média a longo prazo, cenário base, com anos negativos pelo meio"
     },
     {
-      "title": "Obrigações com juros de entrada mais altos",
+      "title": "Obrigações: o amortecedor da carteira",
       "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
-      "body": "Com os juros da dívida a subir (Treasury a 10 anos acima de 5%, Bund alemão a 3,38%), as obrigações novas pagam mais, o que melhora o rendimento esperado deste ETF nos próximos anos. A curto prazo o preço pode descer quando os juros sobem, mas a cobertura em EUR evita que o dólar mexa com o teu valor. Serve para amortecer as quedas das ações.",
+      "body": "Com a dívida americana a 10 anos perto de 5,1% e o Bund alemão a cerca de 3,4%, as obrigações novas pagam juros mais altos do que há uns anos, o que melhora o rendimento futuro deste ETF. Se os bancos centrais subirem mais os juros, o preço pode descer um pouco no curto prazo. A cobertura em EUR (hedged) significa que a subida ou descida do dólar praticamente não mexe no teu valor.",
       "horizon": "médio",
       "risk": "baixo",
       "suggestedAmount": "15-20% do investimento mensal (plano base)",
       "potential": "3-4%/ano cenário base"
     },
     {
-      "title": "Fundo de emergência no monetário",
+      "title": "Reserva de emergência que beneficia de juros a subir",
       "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
-      "body": "O XEON acompanha a taxa de juro de um dia na zona euro, por isso quase não oscila. É o sítio certo para o dinheiro de que podes precisar nos próximos meses, para nunca teres de vender ações numa altura de queda. Não serve para fazer crescer muito o dinheiro a longo prazo.",
+      "body": "O XEON acompanha a taxa de juro de um dia na zona euro e quase não oscila. Se o BCE subir juros em dezembro, como o mercado espera, o rendimento do XEON sobe também. É onde deve ficar o dinheiro de que podes precisar em breve, para nunca teres de vender ações num dia como ontem.",
       "horizon": "curto",
       "risk": "baixo",
       "suggestedAmount": "0-10% do investimento mensal, até teres 3-6 meses de despesas de reserva",
-      "potential": "próximo da taxa de juro de curto prazo do BCE, sem ganhos de bolsa"
+      "potential": "próximo da taxa de depósitos do BCE (o mercado espera 2,75% após dezembro), sem ganhos de bolsa"
     },
     {
-      "title": "Ideia complementar: um pouco mais de Europa",
-      "instrument": "IMAE · iShares Core MSCI Europe UCITS ETF EUR (Acc)",
-      "body": "A Europa tem poucas empresas de inteligência artificial e por isso tem sofrido menos com as quedas das tecnológicas; o Stoxx 600 está perto de máximos. O VWCE já tem cerca de 15% em Europa, por isso isto é só um pequeno reforço opcional e não uma necessidade. Risco: se a economia europeia abrandar ou a inflação obrigar o BCE a subir juros, estas ações também caem.",
+      "title": "Ideia complementar: uma pequena fatia de ouro",
+      "instrument": "SGLD · Invesco Physical Gold ETC",
+      "body": "O ouro está perto do nível mais baixo do último ano, pressionado pelo dólar forte e pelos juros altos. Historicamente costuma comportar-se de forma diferente das ações, por isso uma fatia pequena pode diversificar. Atenção: é um ETC (um título garantido por ouro físico, não um ETF), não paga juros nem dividendos e o preço pode cair bastante durante anos.",
       "horizon": "longo",
       "risk": "médio",
       "suggestedAmount": "até 5% do investimento mensal (opcional)",
-      "potential": "5-7%/ano cenário base, sem garantia"
+      "potential": "sem rendimento próprio; depende só do preço do ouro, muito variável"
     }
   ],
   "news": [
     {
-      "title": "S&P 500 e Nasdaq caem com Nvidia e tecnológicas, mas fecham semana em alta",
+      "title": "Venda de tecnológicas agrava-se e Nasdaq cai 2,5%",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-tick-133734502.html",
-      "summary": "Jensen Huang demitiu-se da Nvidia, que perdeu cerca de 13% na semana; os chips caíram com força, enquanto a Apple fechou em máximos.",
-      "relevance": "As grandes tecnológicas pesam muito nos ETF globais, por isso dias assim veem-se no VWCE, mas a diversificação suaviza o impacto."
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-222502139.html",
+      "summary": "Nvidia, AMD e Intel caíram com força devido às novas restrições à exportação de chips de IA e à incerteza na liderança da Nvidia antes dos resultados.",
+      "relevance": "As grandes tecnológicas americanas pesam bastante nos ETF globais, por isso estes dias notam-se no VWCE, mas a diversificação reduz o impacto."
     },
     {
-      "title": "Morning Bid: venda de ações de IA regressa antes dos resultados da Nvidia",
-      "source": "Reuters (via Investing.com)",
-      "url": "https://www.investing.com/news/economy-news/morning-bid-ai-selloff-resumes-as-nvidia-earnings-loom-5028378",
-      "summary": "Futuros do Nasdaq em queda e Taiwan a cair mais de 4%; semana com resultados da Nvidia, atas da Fed e a entrada em bolsa da Anthropic.",
-      "relevance": "Espera-se uma semana agitada; para quem investe todos os meses, é ruído a curto prazo e não muda o plano."
+      "title": "Bolsas caem antes dos resultados da Nvidia e da entrada em bolsa da Anthropic; petróleo desce",
+      "source": "Reuters",
+      "url": "https://lufkindailynews.com/news_reuters/business/stocks-fall-ahead-of-nvidia-earnings-and-anthropic-ipo-oil-drops/article_f0fd148f-9631-585f-88b5-6d95f7a56e3f.html",
+      "summary": "O mercado aposta numa subida de juros da Fed em dezembro e a Anthropic deve fixar o preço da sua IPO na quarta-feira, com estreia no Nasdaq na quinta.",
+      "relevance": "Semana cheia de eventos que podem mexer muito com as tecnológicas; para quem investe todos os meses, é ruído de curto prazo."
     },
     {
-      "title": "Juro americano a 10 anos acima de 5% com inflação persistente",
-      "source": "The Rio Times",
-      "url": "https://www.riotimesonline.com/global-economy-briefing-november-16-2026/",
-      "summary": "Os preços nos EUA subiram 0,4% em outubro e o mercado inclina-se para uma subida de juros da Fed a 9 de dezembro.",
-      "relevance": "Juros altos pressionam as ações, mas tornam as obrigações (VAGF) mais atrativas para quem compra agora."
-    },
-    {
-      "title": "PSI encerra semana em alta, impulsionado pela Jerónimo Martins e REN",
-      "source": "Jornal Económico",
-      "url": "https://jornaleconomico.sapo.pt/noticias/psi-encerra-semana-em-alta-impulsionado-pela-jeronimo-martins-e-ren/",
-      "summary": "A bolsa de Lisboa subiu 1,06% na sexta-feira, para 9.697,64 pontos.",
-      "relevance": "Portugal pesa muito pouco num ETF global; é bom sinal para a economia local, mas não muda a tua carteira."
-    },
-    {
-      "title": "Inflação em Portugal confirma-se nos 3,8% em outubro, máximo desde 2023",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/portugal/inflation-cpi/news/600398",
-      "summary": "A energia subiu 17,4% e a inflação subjacente (sem energia e alimentos frescos) foi de 2,8%.",
-      "relevance": "Inflação alta corrói o dinheiro parado na conta à ordem; investir regularmente a longo prazo ajuda a proteger o poder de compra."
-    },
-    {
-      "title": "ECO da Semana: corrida ao BCE, inflação e Web Summit",
+      "title": "Fed dá força ao dólar e põe euro em mínimos de 19 meses",
       "source": "ECO",
-      "url": "https://eco.sapo.pt/2026/11/08/eco-da-semana-corrida-ao-bce-inflacao-e-web-summit/",
-      "summary": "Pablo Hernández de Cos e Klaas Knot são os candidatos a suceder a Christine Lagarde, que sai do BCE a 7 de fevereiro.",
-      "relevance": "Quem lidera o BCE influencia os juros na zona euro, que afetam o XEON e as obrigações, mas o efeito é lento."
+      "url": "https://eco.sapo.pt/2026/11/16/ativo-do-dia-fed-da-forca-ao-dolar-e-poe-euro-em-minimos-de-19-meses/",
+      "summary": "O euro caiu até 1,1005 dólares porque o mercado espera mais subidas de juros nos EUA do que na zona euro.",
+      "relevance": "Um dólar mais forte faz as ações americanas valerem mais em euros, o que suaviza as quedas do VWCE para quem investe a partir de Portugal."
     },
     {
-      "title": "Bitcoin: mínimo durante a noite e fecho semanal",
-      "source": "CryptoTicker",
-      "url": "https://cryptoticker.io/en/bitcoin-price-overnight-low-weekly-close-november-15-2026/",
-      "summary": "A bitcoin chegou a cair para cerca de 62 mil dólares no fim de semana, com mais de 2 mil milhões em posições alavancadas liquidadas.",
-      "relevance": "Mostra a volatilidade das criptomoedas; não fazem parte do plano base e não afetam os ETF globais."
+      "title": "PSI fecha em alta contra a tendência europeia; Mota-Engil dispara",
+      "source": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/psi-fecha-em-alta-contrariando-a-tendencia-europeia-mota-engil-dispara-com-recomendacao-do-jb-capital/",
+      "summary": "A bolsa de Lisboa subiu 0,13%, para 9.709,79 pontos, com a Mota-Engil a ganhar 6,46% após uma subida de preço-alvo; a EDP foi a que mais caiu.",
+      "relevance": "Portugal pesa muito pouco num ETF global; é um bom sinal local, mas não muda a tua carteira."
+    },
+    {
+      "title": "Presidente do Bundesbank diz que é \"muito provável\" que o BCE suba juros em dezembro",
+      "source": "Jornal de Negócios",
+      "url": "https://www.jornaldenegocios.pt/mercados/taxas-de-juro/detalhe/presidente-do-bundesbank-diz-que-e-muito-provavel-que-bce-suba-juros-em-dezembro",
+      "summary": "Joachim Nagel defende uma subida de 0,25 pontos percentuais porque a inflação na zona euro está elevada e a energia continua cara.",
+      "relevance": "Juros mais altos no BCE aumentam o rendimento do XEON e das obrigações novas, mas encarecem créditos como a prestação da casa."
+    },
+    {
+      "title": "Mercado cripto em \"medo extremo\" com bitcoin perto dos 64 mil dólares",
+      "source": "The Daily Coins",
+      "url": "https://thedailycoins.io/2026/11/crypto-market-today-2026-11-16/",
+      "summary": "A bitcoin caiu cerca de 1,7% em 24 horas e 14% numa semana; o índice de sentimento está em 10, \"medo extremo\".",
+      "relevance": "Mostra como as criptomoedas são voláteis; não fazem parte do plano base e não afetam os ETF globais."
     }
   ],
   "signals": [
-    {
-      "symbol": "VWCE.DE",
-      "action": "MANTER",
-      "reason": "Base do plano, muito diversificada; as quedas da tecnologia são ruído para um horizonte longo."
-    },
-    {
-      "symbol": "VAGF.DE",
-      "action": "MANTER",
-      "reason": "Juros mais altos aumentam o rendimento futuro das obrigações; continua a servir de amortecedor."
-    },
-    {
-      "symbol": "XEON.DE",
-      "action": "MANTER",
-      "reason": "Reserva de curto prazo estável; útil para não ter de vender ações em quedas."
-    },
-    {
-      "symbol": "VUAA.L",
-      "action": "MANTER",
-      "reason": "S&P 500 já está dentro do VWCE (cerca de 60% EUA); se já tens, mantém, mas não é preciso juntar ao plano."
-    },
-    {
-      "symbol": "IWDA.AS",
-      "action": "MANTER",
-      "reason": "Muito parecido com o VWCE (só países desenvolvidos); escolhe um dos dois para evitar duplicar."
-    },
-    {
-      "symbol": "SXR8.DE",
-      "action": "MANTER",
-      "reason": "Mais concentrado nos EUA e na tecnologia, por isso mais sensível a semanas como esta; não é necessário com o VWCE."
-    },
-    {
-      "symbol": "CSPX.L",
-      "action": "MANTER",
-      "reason": "Igual ao SXR8 (S&P 500), cotado em dólares em Londres; sobrepõe-se ao VWCE."
-    },
-    {
-      "symbol": "AAPL",
-      "action": "MANTER",
-      "reason": "Fechou sexta-feira em máximo histórico; ação individual, deve ser só uma parte pequena da carteira."
-    },
-    {
-      "symbol": "MSFT",
-      "action": "MANTER",
-      "reason": "Subiu ligeiramente enquanto tenta resolver uma falha global de serviços; acompanhar, sem urgência."
-    },
-    {
-      "symbol": "NVDA",
-      "action": "REVER",
-      "reason": "Saída do CEO e resultados na terça-feira, com o mercado a prever uma variação de cerca de 9%; risco elevado de oscilações."
-    }
+    {"symbol": "VWCE.DE", "action": "MANTER", "reason": "Base do plano e muito diversificado; uma queda das tecnológicas é ruído para um horizonte longo."},
+    {"symbol": "VAGF.DE", "action": "MANTER", "reason": "Juros altos melhoram o rendimento futuro das obrigações e a cobertura em EUR protege do dólar."},
+    {"symbol": "XEON.DE", "action": "MANTER", "reason": "Reserva estável; o rendimento deve subir se o BCE aumentar juros em dezembro."},
+    {"symbol": "VUAA.L", "action": "MANTER", "reason": "O S&P 500 já está dentro do VWCE (cerca de 60% EUA); se já tens, mantém, mas não é preciso juntar ao plano."},
+    {"symbol": "IWDA.AS", "action": "MANTER", "reason": "Muito parecido com o VWCE (só países desenvolvidos); escolhe um dos dois para não duplicar."},
+    {"symbol": "SXR8.DE", "action": "MANTER", "reason": "Mais concentrado nos EUA e na tecnologia, por isso sofre mais em dias como ontem; não é necessário com o VWCE."},
+    {"symbol": "CSPX.L", "action": "MANTER", "reason": "Igual ao SXR8 (S&P 500), cotado em dólares em Londres; sobrepõe-se ao VWCE."},
+    {"symbol": "AAPL", "action": "MANTER", "reason": "Ação individual de grande qualidade, mas não escapa a quedas gerais do setor; deve ser só uma parte pequena da carteira."},
+    {"symbol": "MSFT", "action": "MANTER", "reason": "Grande tecnológica afetada pelo receio sobre a dívida e os gastos em IA; acompanhar sem urgência."},
+    {"symbol": "NVDA", "action": "REVER", "reason": "Caiu mais de 4% com novas restrições à exportação de chips e apresenta resultados esta semana, os primeiros sem o antigo CEO; espera-se forte oscilação."}
   ],
   "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
-  "lessonTitle": "Porque é que os juros altos fazem cair as ações?",
-  "lessonBody": "A yield (rendimento) de uma obrigação é o juro anual que recebes por emprestar dinheiro a um país ou empresa. Quando a yield do Tesouro americano a 10 anos passa de 5%, muitos investidores preferem esse rendimento quase seguro em vez de arriscar em ações, e algum dinheiro sai da bolsa. As empresas de crescimento, como as tecnológicas, sofrem mais, porque grande parte dos seus lucros esperados está muito no futuro e vale menos hoje quando os juros são altos. Por outro lado, quem compra obrigações agora fica com um juro mais alto, e é por isso que ter ações e obrigações juntas equilibra a carteira.",
-  "beginnerNote": "Mantém o plano mensal tal como está e não reajas à semana da Nvidia nem aos juros: ninguém consegue prever o curto prazo, e investir todos os meses faz-te comprar mais barato quando o mercado desce."
+  "lessonTitle": "Porque é que o dólar mexe com o teu ETF em euros?",
+  "lessonBody": "O VWCE é comprado em euros, mas cerca de 60% das empresas lá dentro são americanas e valem em dólares. Quando o dólar sobe face ao euro, como aconteceu ontem, essas ações passam a valer mais euros, mesmo que o preço em dólares não mude. Por isso, num dia em que Wall Street caiu quase 2%, a queda sentida por um investidor português foi um pouco menor. O contrário também acontece: um euro forte pode tirar algum ganho, e é por isso que nas obrigações (VAGF) se usa cobertura cambial (hedged), para que a parte segura da carteira não dependa da moeda.",
+  "beginnerNote": "Mantém o plano mensal e não vendas por causa de um dia mau nas tecnológicas: quedas de 2% acontecem várias vezes por ano, e continuar a investir todos os meses faz-te comprar mais barato quando o mercado desce."
 }

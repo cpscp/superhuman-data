@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-18",
+  "generatedBy": "Claude · análise diária",
+  "marketSummary": "Terça-feira foi mais um dia de quedas: o S&P 500 desceu cerca de 1%, o Nasdaq 0,7% e a Europa sofreu mais, com o Stoxx 600 a perder 1,75% (o pior dia em oito meses) e o PSI 1,2%. Os investidores reduziram risco antes dos resultados da Nvidia, por medo de que o entusiasmo com a inteligência artificial (IA) tenha ido longe demais, e com novas restrições dos EUA à venda de chips de IA à China. Ao fim do dia a Nvidia apresentou contas acima do esperado (receitas de 115,8 mil milhões de dólares) e subiu cerca de 4-5% fora de horas, o que pode acalmar o mercado hoje. Os juros a 10 anos aliviaram ligeiramente (EUA 5,10%, Alemanha 3,37%), o euro ficou perto de 1,10 dólares e o petróleo Brent subiu para 93 dólares com tensões no Médio Oriente.",
+  "mood": "risk-off",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "change": "-1,0%"
+    },
+    {
+      "name": "Nasdaq Composite",
+      "change": "-0,7%"
+    },
+    {
+      "name": "Stoxx 600",
+      "change": "-1,75%"
+    },
+    {
+      "name": "PSI",
+      "change": "-1,2%"
+    },
+    {
+      "name": "Treasury 10 anos (yield 5,10%)",
+      "change": "-0,03 p.p."
+    },
+    {
+      "name": "Bund 10 anos (yield 3,37%)",
+      "change": "-0,02 p.p."
+    },
+    {
+      "name": "Petróleo Brent (~93,3 $)",
+      "change": "+0,9%"
+    },
+    {
+      "name": "Ouro (~3.849 $/onça)",
+      "change": "-0,2%"
+    }
+  ],
+  "tips": [
+    {
+      "title": "Semana nervosa? O plano mensal no VWCE não muda",
+      "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
+      "body": "O VWCE junta milhares de empresas de quase 50 países, por isso uma semana má para os chips e para a Europa pesa, mas não decide o resultado de 20 ou 30 anos. Quando os preços descem, o mesmo valor mensal compra mais unidades do ETF — é a vantagem de investir sempre no mesmo dia, sem tentar adivinhar o melhor momento.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "70-80% do investimento mensal (plano base)",
+      "potential": "5-8%/ano em média a longo prazo, cenário base, com anos negativos pelo meio"
+    },
+    {
+      "title": "Obrigações com juros altos: o amortecedor do plano",
+      "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
+      "body": "Com os juros dos EUA acima de 5% e os alemães perto de 3,4%, as obrigações (empréstimos a governos e empresas) pagam hoje mais do que há poucos anos. Em dias de pânico nas ações, como ontem, os juros até desceram um pouco, o que faz subir o preço das obrigações e ajuda a equilibrar a carteira. A cobertura em EUR (hedged) evita que as oscilações do dólar mexam neste pedaço.",
+      "horizon": "médio",
+      "risk": "baixo",
+      "suggestedAmount": "15-25% do investimento mensal (plano base)",
+      "potential": "3-4%/ano cenário base, com oscilações se os juros subirem mais"
+    },
+    {
+      "title": "Uma almofada em monetário antes de investir mais",
+      "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
+      "body": "O XEON acompanha a taxa de juro diária do BCE, por isso quase não oscila. Serve para guardar o fundo de emergência ou dinheiro que vais usar em menos de 2-3 anos, para que nunca sejas obrigado a vender ações numa semana de quedas como esta.",
+      "horizon": "curto",
+      "risk": "baixo",
+      "suggestedAmount": "0-10% do investimento mensal, até ter a almofada feita",
+      "potential": "próximo da taxa do BCE, cenário base; não serve para crescer a longo prazo"
+    },
+    {
+      "title": "Ideia complementar: só depois de o plano base estar em marcha",
+      "instrument": "SXR8 · iShares Core S&P 500 UCITS ETF (Acc)",
+      "body": "O S&P 500 está no nível mais baixo desde julho, o que pode tentar quem quer reforçar nos EUA. Mas atenção: o VWCE já tem cerca de 60% em empresas americanas, por isso juntar um ETF do S&P 500 aumenta a concentração no mesmo país e nas mesmas gigantes tecnológicas. Se o fizeres, que seja uma fatia pequena e regular, nunca uma aposta de uma vez.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "no máximo 5-10% do investimento mensal",
+      "potential": "6-9%/ano a longo prazo, cenário base, com quedas fortes possíveis pelo caminho"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock Market Today, Nov. 17: Stocks Slide on AI Chip and Tech Pressures, Salesforce Plummets 9%",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-17-224356767.html",
+      "summary": "Wall Street fechou em queda (S&P 500 -1%, Dow -1,6%) com receios sobre chips de IA, falhas informáticas que afetaram companhias aéreas e bancos, e uma queda de 9% da Salesforce.",
+      "relevance": "As maiores empresas americanas pesam muito no VWCE, por isso estes dias sentem-se na carteira; para quem investe todos os meses, significa comprar mais barato."
+    },
+    {
+      "title": "European stocks mark worst day in eight months on AI jitters, Deutsche Bank slides",
+      "source": "Reuters (via MarketScreener)",
+      "url": "https://www.marketscreener.com/news/european-stocks-mark-worst-day-in-eight-months-on-ai-jitters-deutsche-bank-slides-ce785edcdd8df723",
+      "summary": "O Stoxx 600 caiu 1,75%, o pior dia desde março, com as tecnológicas a perderem 3,9% (ASML -5,3%) e o Deutsche Bank a cair 6% após notícias sobre documentos divulgados.",
+      "relevance": "Mostra que as quedas na IA contagiam todas as regiões; diversificar por países ajuda, mas não elimina dias maus."
+    },
+    {
+      "title": "Bolsas europeias fecham em forte queda com nervosismo em torno da Nvidia e PSI não é excepção",
+      "source": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/bolsas-europeias-fecham-em-forte-queda-com-nervosismo-em-torno-da-nvidia-e-psi-nao-e-excepcao/",
+      "summary": "O PSI caiu 1,20% para 9.593,72 pontos, pressionado pela Jerónimo Martins (-3%) e pelo grupo EDP; a REN foi das poucas a subir.",
+      "relevance": "Portugal pesa muito pouco num ETF global, por isso o PSI quase não mexe no teu plano; é bom lembrar que investir globalmente não depende da bolsa de Lisboa."
+    },
+    {
+      "title": "Nvidia Earnings: Live Updates and Commentary November 2026",
+      "source": "Kiplinger",
+      "url": "https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026",
+      "summary": "A Nvidia faturou 115,8 mil milhões de dólares no trimestre, acima dos 108,8 mil milhões esperados, e prevê cerca de 130 mil milhões no próximo; as ações subiram mais de 4% fora de horas.",
+      "relevance": "A Nvidia é uma das maiores empresas do mundo e dos ETF globais; bons resultados reduzem o medo de uma bolha na IA, mas um ETF diversificado não depende de uma só empresa."
+    },
+    {
+      "title": "Fed December Hike Bets: Yields Above 5%, Data Week Ahead",
+      "source": "Admiral Markets",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/fed-december-rate-hike-treasury-yields-retail-sales",
+      "summary": "Os mercados dão cerca de 91% de probabilidade a uma subida de 0,25 p.p. dos juros da Reserva Federal a 8-9 de dezembro, com a yield a 10 anos acima de 5%.",
+      "relevance": "Juros mais altos travam as ações no curto prazo mas tornam as obrigações (VAGF) e o monetário (XEON) mais rentáveis — é por isso que o plano tem as três peças."
+    },
+    {
+      "title": "Anthropic sets terms for $61 billion IPO targeting a $1.2 trillion market cap",
+      "source": "Renaissance Capital",
+      "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap",
+      "summary": "A Anthropic prevê fixar o preço da sua entrada em bolsa (Nasdaq, ticker ANT) esta semana, procurando 61 mil milhões de dólares, numa das maiores estreias de sempre.",
+      "relevance": "Grandes estreias em bolsa geram muito ruído e expectativa; um ETF global só inclui uma empresa nova quando cumpre as regras do índice, sem precisares de fazer nada."
+    },
+    {
+      "title": "Bruxelas mais pessimista vê Portugal a crescer 1,9% em 2027 e a regressar aos défices",
+      "source": "ECO",
+      "url": "https://eco.sapo.pt/2026/11/17/bruxelas-mais-pessimista-ve-portugal-a-crescer-19-em-2027-e-a-regressar-aos-defices/",
+      "summary": "A Comissão Europeia prevê que a economia portuguesa cresça 2,3% em 2026 e 1,9% em 2027, com a inflação a descer de 3,2% para 3% e as contas públicas a voltarem a pequenos défices.",
+      "relevance": "Com a inflação em 3%, dinheiro parado na conta perde poder de compra todos os anos — mais uma razão para investir com regularidade a longo prazo."
+    }
+  ],
+  "signals": [
+    {
+      "symbol": "VWCE.DE",
+      "action": "MANTER",
+      "reason": "Base do plano e muito diversificado; uma semana má para a tecnologia é ruído para um horizonte longo."
+    },
+    {
+      "symbol": "VAGF.DE",
+      "action": "MANTER",
+      "reason": "Com juros altos, as obrigações rendem mais e ajudaram a amortecer o dia; a cobertura em EUR protege do dólar."
+    },
+    {
+      "symbol": "XEON.DE",
+      "action": "MANTER",
+      "reason": "Ideal para o fundo de emergência; rende perto da taxa do BCE com risco muito baixo."
+    },
+    {
+      "symbol": "VUAA.L",
+      "action": "MANTER",
+      "reason": "Bom ETF do S&P 500 para quem já o tem, mas duplica a parte americana do VWCE; não é necessário para um principiante."
+    },
+    {
+      "symbol": "IWDA.AS",
+      "action": "REVER",
+      "reason": "Muito parecido com o VWCE (sem emergentes); ter os dois é redundante — escolhe um como base."
+    },
+    {
+      "symbol": "SXR8.DE",
+      "action": "MANTER",
+      "reason": "S&P 500 no mínimo desde julho; só faz sentido como fatia pequena e regular, sem aumentar concentração."
+    },
+    {
+      "symbol": "CSPX.L",
+      "action": "MANTER",
+      "reason": "Equivalente ao SXR8 noutra bolsa e em dólares; prefere a cotação em euros para evitar custos de câmbio."
+    },
+    {
+      "symbol": "AAPL",
+      "action": "MANTER",
+      "reason": "Já está dentro do VWCE; comprar ações individuais aumenta o risco sem ser necessário no início."
+    },
+    {
+      "symbol": "MSFT",
+      "action": "MANTER",
+      "reason": "Empresa sólida e já presente nos ETF globais; a volatilidade da IA afeta-a, mas não muda a tese de longo prazo."
+    },
+    {
+      "symbol": "NVDA",
+      "action": "REVER",
+      "reason": "Resultados acima do esperado, mas a saída do CEO e a forte volatilidade (cerca de -35% desde o pico de outubro) tornam-na arriscada como ação individual."
+    }
+  ],
+  "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
+  "lessonTitle": "Porque é que o resultado de uma empresa mexe com o mundo inteiro?",
+  "lessonBody": "Ontem a Europa caiu antes mesmo de a Nvidia apresentar contas, só pelo receio do que viesse. Isto acontece porque hoje meia dúzia de gigantes tecnológicas valem uma fatia enorme dos índices — fala-se em concentração, quando poucas empresas pesam muito num índice. Quando uma delas espirra, fundos e investidores de todo o mundo ajustam as posições ao mesmo tempo. Um ETF global como o VWCE também tem essa concentração, mas dilui-a por milhares de outras empresas e países, por isso o impacto é menor do que comprar a ação sozinha.",
+  "beginnerNote": "Mantém o investimento mensal tal como está e não vendas por causa de um dia ou uma semana de quedas: o teu horizonte é de décadas e cada compra a preços mais baixos ajuda no longo prazo."
+}

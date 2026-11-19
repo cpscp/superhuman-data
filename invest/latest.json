@@ -1,146 +1,146 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "generatedBy": "Claude · análise diária",
-  "marketSummary": "Terça-feira foi mais um dia de quedas: o S&P 500 desceu cerca de 1%, o Nasdaq 0,7% e a Europa sofreu mais, com o Stoxx 600 a perder 1,75% (o pior dia em oito meses) e o PSI 1,2%. Os investidores reduziram risco antes dos resultados da Nvidia, por medo de que o entusiasmo com a inteligência artificial (IA) tenha ido longe demais, e com novas restrições dos EUA à venda de chips de IA à China. Ao fim do dia a Nvidia apresentou contas acima do esperado (receitas de 115,8 mil milhões de dólares) e subiu cerca de 4-5% fora de horas, o que pode acalmar o mercado hoje. Os juros a 10 anos aliviaram ligeiramente (EUA 5,10%, Alemanha 3,37%), o euro ficou perto de 1,10 dólares e o petróleo Brent subiu para 93 dólares com tensões no Médio Oriente.",
+  "marketSummary": "Quarta-feira foi um dia misto nos EUA e negativo na Europa: o S&P 500 desceu 0,2%, o Nasdaq subiu 0,4% com a recuperação de parte da tecnologia, mas o Stoxx 600 caiu 1% (terceira queda seguida) e o PSI quase 1%, com 14 das 16 cotadas no vermelho. Na Europa pesou sobretudo a queda das mineiras, depois de o cobre cair para mínimos de sete meses. À noite, as atas da Fed (o banco central dos EUA) mostraram que quase todos os responsáveis esperam subir os juros em dezembro, o que fortaleceu o dólar (o euro caiu para cerca de 1,097 dólares, mínimo desde abril de 2025) e fez cair o ouro mais de 3% e a Bitcoin para perto de 63 mil dólares. O petróleo Brent recuou 1,3% para cerca de 92 dólares, com mais stocks nos EUA, e hoje as atenções viram-se para a estreia em bolsa da Anthropic na Nasdaq.",
   "mood": "risk-off",
   "indices": [
     {
       "name": "S&P 500",
-      "change": "-1,0%"
+      "change": "-0,2%"
     },
     {
       "name": "Nasdaq Composite",
-      "change": "-0,7%"
+      "change": "+0,4%"
     },
     {
       "name": "Stoxx 600",
-      "change": "-1,75%"
+      "change": "-1,0%"
     },
     {
       "name": "PSI",
-      "change": "-1,2%"
+      "change": "-1,0%"
     },
     {
-      "name": "Treasury 10 anos (yield 5,10%)",
-      "change": "-0,03 p.p."
+      "name": "Treasury 10 anos (yield ~5,07%)",
+      "change": "-0,04 p.p."
     },
     {
       "name": "Bund 10 anos (yield 3,37%)",
-      "change": "-0,02 p.p."
+      "change": "-0,01 p.p."
     },
     {
-      "name": "Petróleo Brent (~93,3 $)",
-      "change": "+0,9%"
+      "name": "EUR/USD (~1,097)",
+      "change": "-0,3%"
     },
     {
-      "name": "Ouro (~3.849 $/onça)",
-      "change": "-0,2%"
+      "name": "Ouro (~3.723 $/onça)",
+      "change": "-3,3%"
     }
   ],
   "tips": [
     {
-      "title": "Semana nervosa? O plano mensal no VWCE não muda",
+      "title": "Dólar forte e Europa fraca? O VWCE continua a ser a base",
       "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
-      "body": "O VWCE junta milhares de empresas de quase 50 países, por isso uma semana má para os chips e para a Europa pesa, mas não decide o resultado de 20 ou 30 anos. Quando os preços descem, o mesmo valor mensal compra mais unidades do ETF — é a vantagem de investir sempre no mesmo dia, sem tentar adivinhar o melhor momento.",
+      "body": "O VWCE espalha o teu dinheiro por milhares de empresas de todo o mundo, por isso um mau dia das mineiras europeias quase não se nota. Curiosidade útil: como cerca de 60% do ETF está em empresas americanas, quando o dólar sobe face ao euro (como ontem) essa parte vale um pouco mais em euros, o que ajuda a compensar as quedas na Europa. Mantém o valor mensal e o dia de compra de sempre.",
       "horizon": "longo",
       "risk": "médio",
       "suggestedAmount": "70-80% do investimento mensal (plano base)",
       "potential": "5-8%/ano em média a longo prazo, cenário base, com anos negativos pelo meio"
     },
     {
-      "title": "Obrigações com juros altos: o amortecedor do plano",
+      "title": "Juros altos nas obrigações: o lado bom das más notícias",
       "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
-      "body": "Com os juros dos EUA acima de 5% e os alemães perto de 3,4%, as obrigações (empréstimos a governos e empresas) pagam hoje mais do que há poucos anos. Em dias de pânico nas ações, como ontem, os juros até desceram um pouco, o que faz subir o preço das obrigações e ajuda a equilibrar a carteira. A cobertura em EUR (hedged) evita que as oscilações do dólar mexam neste pedaço.",
+      "body": "Obrigações são empréstimos a governos e empresas que pagam juros. Com os EUA a falar em subir juros, as obrigações novas pagam mais, e quem investe todos os meses vai comprando a esses juros mais altos. O preço pode descer um pouco se os juros subirem mais, mas este pedaço do plano oscila muito menos do que as ações, e a cobertura em euros (hedged) protege-o das voltas do dólar.",
       "horizon": "médio",
       "risk": "baixo",
       "suggestedAmount": "15-25% do investimento mensal (plano base)",
       "potential": "3-4%/ano cenário base, com oscilações se os juros subirem mais"
     },
     {
-      "title": "Uma almofada em monetário antes de investir mais",
+      "title": "O monetário beneficia se o BCE subir juros",
       "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
-      "body": "O XEON acompanha a taxa de juro diária do BCE, por isso quase não oscila. Serve para guardar o fundo de emergência ou dinheiro que vais usar em menos de 2-3 anos, para que nunca sejas obrigado a vender ações numa semana de quedas como esta.",
+      "body": "O XEON acompanha a taxa de juro diária do BCE (hoje com a taxa de depósito em 2,5%), por isso quase não oscila. Segundo a Reuters, há responsáveis do BCE a admitir juros mais altos no próximo ano, e nesse caso o XEON passa a render mais automaticamente. É o sítio certo para o fundo de emergência e para dinheiro que vais precisar em menos de 2-3 anos.",
       "horizon": "curto",
       "risk": "baixo",
       "suggestedAmount": "0-10% do investimento mensal, até ter a almofada feita",
       "potential": "próximo da taxa do BCE, cenário base; não serve para crescer a longo prazo"
     },
     {
-      "title": "Ideia complementar: só depois de o plano base estar em marcha",
-      "instrument": "SXR8 · iShares Core S&P 500 UCITS ETF (Acc)",
-      "body": "O S&P 500 está no nível mais baixo desde julho, o que pode tentar quem quer reforçar nos EUA. Mas atenção: o VWCE já tem cerca de 60% em empresas americanas, por isso juntar um ETF do S&P 500 aumenta a concentração no mesmo país e nas mesmas gigantes tecnológicas. Se o fizeres, que seja uma fatia pequena e regular, nunca uma aposta de uma vez.",
+      "title": "Ideia complementar: um pouco de ouro como diversificador (opcional)",
+      "instrument": "8PSG · Invesco Physical Gold ETC (Xetra)",
+      "body": "O ouro caiu mais de 3% num só dia, o que mostra que também é volátil e não é um porto seguro garantido. Pode ajudar a diversificar porque nem sempre se move como as ações, mas não paga juros nem dividendos e, quando os juros sobem, tende a sofrer. Nota: é um ETC (título que guarda ouro físico), não um ETF UCITS; se o quiseres, que seja uma fatia mesmo pequena e só depois de o plano base estar em marcha.",
       "horizon": "longo",
-      "risk": "médio",
-      "suggestedAmount": "no máximo 5-10% do investimento mensal",
-      "potential": "6-9%/ano a longo prazo, cenário base, com quedas fortes possíveis pelo caminho"
+      "risk": "alto",
+      "suggestedAmount": "no máximo 0-5% do investimento mensal",
+      "potential": "acompanha o preço do ouro; sem rendimento e sem cenário base fiável — pode passar anos sem subir"
     }
   ],
   "news": [
     {
-      "title": "Stock Market Today, Nov. 17: Stocks Slide on AI Chip and Tech Pressures, Salesforce Plummets 9%",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-17-224356767.html",
-      "summary": "Wall Street fechou em queda (S&P 500 -1%, Dow -1,6%) com receios sobre chips de IA, falhas informáticas que afetaram companhias aéreas e bancos, e uma queda de 9% da Salesforce.",
-      "relevance": "As maiores empresas americanas pesam muito no VWCE, por isso estes dias sentem-se na carteira; para quem investe todos os meses, significa comprar mais barato."
+      "title": "Ouro afunda abaixo de 3.750 dólares com atas da Fed a apontar para subida de juros",
+      "source": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
+      "summary": "As atas da reunião de outubro mostram que quase todos os responsáveis da Fed esperam subir os juros em dezembro, e o mercado dá cerca de 95% de probabilidade a essa subida. O ouro caiu 3,3% e a prata quase 5%.",
+      "relevance": "Juros mais altos nos EUA pesam nas ações e no ouro, mas fazem as obrigações e o monetário render mais — é por isso que o plano tem as três peças."
     },
     {
-      "title": "European stocks mark worst day in eight months on AI jitters, Deutsche Bank slides",
-      "source": "Reuters (via MarketScreener)",
-      "url": "https://www.marketscreener.com/news/european-stocks-mark-worst-day-in-eight-months-on-ai-jitters-deutsche-bank-slides-ce785edcdd8df723",
-      "summary": "O Stoxx 600 caiu 1,75%, o pior dia desde março, com as tecnológicas a perderem 3,9% (ASML -5,3%) e o Deutsche Bank a cair 6% após notícias sobre documentos divulgados.",
-      "relevance": "Mostra que as quedas na IA contagiam todas as regiões; diversificar por países ajuda, mas não elimina dias maus."
-    },
-    {
-      "title": "Bolsas europeias fecham em forte queda com nervosismo em torno da Nvidia e PSI não é excepção",
-      "source": "Jornal Económico",
-      "url": "https://jornaleconomico.sapo.pt/noticias/bolsas-europeias-fecham-em-forte-queda-com-nervosismo-em-torno-da-nvidia-e-psi-nao-e-excepcao/",
-      "summary": "O PSI caiu 1,20% para 9.593,72 pontos, pressionado pela Jerónimo Martins (-3%) e pelo grupo EDP; a REN foi das poucas a subir.",
-      "relevance": "Portugal pesa muito pouco num ETF global, por isso o PSI quase não mexe no teu plano; é bom lembrar que investir globalmente não depende da bolsa de Lisboa."
-    },
-    {
-      "title": "Nvidia Earnings: Live Updates and Commentary November 2026",
-      "source": "Kiplinger",
-      "url": "https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026",
-      "summary": "A Nvidia faturou 115,8 mil milhões de dólares no trimestre, acima dos 108,8 mil milhões esperados, e prevê cerca de 130 mil milhões no próximo; as ações subiram mais de 4% fora de horas.",
-      "relevance": "A Nvidia é uma das maiores empresas do mundo e dos ETF globais; bons resultados reduzem o medo de uma bolha na IA, mas um ETF diversificado não depende de uma só empresa."
-    },
-    {
-      "title": "Fed December Hike Bets: Yields Above 5%, Data Week Ahead",
-      "source": "Admiral Markets",
-      "url": "https://admiralmarkets.com/analytics/traders-blog/fed-december-rate-hike-treasury-yields-retail-sales",
-      "summary": "Os mercados dão cerca de 91% de probabilidade a uma subida de 0,25 p.p. dos juros da Reserva Federal a 8-9 de dezembro, com a yield a 10 anos acima de 5%.",
-      "relevance": "Juros mais altos travam as ações no curto prazo mas tornam as obrigações (VAGF) e o monetário (XEON) mais rentáveis — é por isso que o plano tem as três peças."
-    },
-    {
-      "title": "Anthropic sets terms for $61 billion IPO targeting a $1.2 trillion market cap",
-      "source": "Renaissance Capital",
-      "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap",
-      "summary": "A Anthropic prevê fixar o preço da sua entrada em bolsa (Nasdaq, ticker ANT) esta semana, procurando 61 mil milhões de dólares, numa das maiores estreias de sempre.",
-      "relevance": "Grandes estreias em bolsa geram muito ruído e expectativa; um ETF global só inclui uma empresa nova quando cumpre as regras do índice, sem precisares de fazer nada."
-    },
-    {
-      "title": "Bruxelas mais pessimista vê Portugal a crescer 1,9% em 2027 e a regressar aos défices",
+      "title": "Nvidia duplica receitas, mas a questão da liderança continua a pesar",
       "source": "ECO",
-      "url": "https://eco.sapo.pt/2026/11/17/bruxelas-mais-pessimista-ve-portugal-a-crescer-19-em-2027-e-a-regressar-aos-defices/",
-      "summary": "A Comissão Europeia prevê que a economia portuguesa cresça 2,3% em 2026 e 1,9% em 2027, com a inflação a descer de 3,2% para 3% e as contas públicas a voltarem a pequenos défices.",
-      "relevance": "Com a inflação em 3%, dinheiro parado na conta perde poder de compra todos os anos — mais uma razão para investir com regularidade a longo prazo."
+      "url": "https://eco.sapo.pt/2026/11/17/administracao-da-nvidia-recusa-novamente-readmitir-jensen-huang-como-ceo/",
+      "summary": "A administração da Nvidia recusou readmitir Jensen Huang como CEO, apesar de resultados muito acima do esperado. A ação voltou a cair (-2,1%), a quinta sessão negativa seguida.",
+      "relevance": "Mesmo a maior empresa de chips pesa poucos por cento num ETF global; a diversificação do VWCE dilui este tipo de risco de uma só empresa."
+    },
+    {
+      "title": "Anthropic fixa preço da entrada em bolsa acima do previsto; estreia hoje na Nasdaq",
+      "source": "Yahoo Finance (citando Bloomberg)",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html",
+      "summary": "Segundo a Bloomberg, a Anthropic fixou o preço da oferta em 83 dólares por ação, acima do intervalo de 70-78 dólares, com estreia prevista para hoje sob o símbolo ANT.",
+      "relevance": "Uma entrada em bolsa (IPO) muito mediática costuma ter oscilações fortes nos primeiros dias; para quem investe todos os meses em ETF globais, não é preciso fazer nada."
+    },
+    {
+      "title": "Bolsas europeias caem com mineiras a afundar e cautela antes da estreia da Anthropic",
+      "source": "Reuters (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/european-shares-muted-tech-offsets-082501845.html",
+      "summary": "O cobre caiu para mínimos de sete meses e arrastou as mineiras; a tecnologia europeia, como a ASML, ainda ganhou com a Nvidia. O Stoxx 600 fechou a perder cerca de 1%, a terceira queda seguida.",
+      "relevance": "Dias maus num setor ou numa região são normais; num ETF global, a Europa é só uma parte da carteira."
+    },
+    {
+      "title": "BCE discute aumentar reservas mínimas dos bancos para 2%",
+      "source": "Jornal Económico (citando Reuters)",
+      "url": "https://jornaleconomico.sapo.pt/noticias/bce-discute-aumento-das-reservas-minimas-dos-bancos-para-2-para-reduzir-perdas-dos-bancos-centrais-diz-reuters/",
+      "summary": "O BCE pode obrigar os bancos a deixar mais dinheiro parado sem juros para reduzir perdas dos bancos centrais. A taxa de depósito está em 2,5% e há quem admita 3-3,25% no próximo ano.",
+      "relevance": "Se os juros do BCE subirem, o XEON e as obrigações rendem mais; as ações bancárias europeias podem ficar mais pressionadas no curto prazo."
+    },
+    {
+      "title": "Petróleo cai com aumento dos stocks nos EUA",
+      "source": "Rigzone (Bloomberg)",
+      "url": "https://www.rigzone.com/news/wire/oil_falls_3_despite_middle_east_attacks-18-nov-2026-185118-article/",
+      "summary": "O Brent fechou a 91,95 dólares (-1,3%) e o WTI a 83,26 dólares (-3,2%), com mais stocks de crude e gasolina nos EUA e um dólar mais forte.",
+      "relevance": "Petróleo mais barato ajuda a travar a inflação, o que a prazo é bom para as ações e para as obrigações."
+    },
+    {
+      "title": "Bruxelas prevê inflação a abrandar em Portugal e crescimento mais fraco em 2027",
+      "source": "Contas Poupança (revista de imprensa)",
+      "url": "https://contaspoupanca.pt/revista-de-imprensa/2026-11-18-revista-de-imprensa-de-18-de-novembro-inflacao-alimentos-e-comissoes-de-amortizacao-a66cfe7f",
+      "summary": "A Comissão Europeia prevê que a inflação em Portugal desça de 3,2% para 3% em 2027 e que o crescimento abrande para 1,9%, com o fim do PRR.",
+      "relevance": "Com inflação perto de 3%, dinheiro parado na conta perde valor todos os anos — é uma boa razão para investir com regularidade a longo prazo."
     }
   ],
   "signals": [
     {
       "symbol": "VWCE.DE",
       "action": "MANTER",
-      "reason": "Base do plano e muito diversificado; uma semana má para a tecnologia é ruído para um horizonte longo."
+      "reason": "Base do plano e muito diversificado; a fraqueza da Europa é compensada em parte pelo dólar mais forte na parte americana."
     },
     {
       "symbol": "VAGF.DE",
       "action": "MANTER",
-      "reason": "Com juros altos, as obrigações rendem mais e ajudaram a amortecer o dia; a cobertura em EUR protege do dólar."
+      "reason": "Juros altos tornam as obrigações mais rentáveis para quem compra todos os meses; a cobertura em EUR protege do dólar."
     },
     {
       "symbol": "XEON.DE",
       "action": "MANTER",
-      "reason": "Ideal para o fundo de emergência; rende perto da taxa do BCE com risco muito baixo."
+      "reason": "Ideal para o fundo de emergência; se o BCE subir juros, passa a render mais sem risco relevante."
     },
     {
       "symbol": "VUAA.L",
@@ -155,7 +155,7 @@
     {
       "symbol": "SXR8.DE",
       "action": "MANTER",
-      "reason": "S&P 500 no mínimo desde julho; só faz sentido como fatia pequena e regular, sem aumentar concentração."
+      "reason": "S&P 500 perto de mínimos de vários meses; só faz sentido como fatia pequena e regular, sem aumentar concentração."
     },
     {
       "symbol": "CSPX.L",
@@ -170,16 +170,16 @@
     {
       "symbol": "MSFT",
       "action": "MANTER",
-      "reason": "Empresa sólida e já presente nos ETF globais; a volatilidade da IA afeta-a, mas não muda a tese de longo prazo."
+      "reason": "Empresa sólida e já presente nos ETF globais; juros mais altos e a volatilidade da IA pesam, mas não mudam a tese de longo prazo."
     },
     {
       "symbol": "NVDA",
       "action": "REVER",
-      "reason": "Resultados acima do esperado, mas a saída do CEO e a forte volatilidade (cerca de -35% desde o pico de outubro) tornam-na arriscada como ação individual."
+      "reason": "Resultados fortíssimos, mas cinco sessões de queda e a incerteza na liderança tornam-na muito arriscada como ação individual."
     }
   ],
   "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
-  "lessonTitle": "Porque é que o resultado de uma empresa mexe com o mundo inteiro?",
-  "lessonBody": "Ontem a Europa caiu antes mesmo de a Nvidia apresentar contas, só pelo receio do que viesse. Isto acontece porque hoje meia dúzia de gigantes tecnológicas valem uma fatia enorme dos índices — fala-se em concentração, quando poucas empresas pesam muito num índice. Quando uma delas espirra, fundos e investidores de todo o mundo ajustam as posições ao mesmo tempo. Um ETF global como o VWCE também tem essa concentração, mas dilui-a por milhares de outras empresas e países, por isso o impacto é menor do que comprar a ação sozinha.",
-  "beginnerNote": "Mantém o investimento mensal tal como está e não vendas por causa de um dia ou uma semana de quedas: o teu horizonte é de décadas e cada compra a preços mais baixos ajuda no longo prazo."
+  "lessonTitle": "Porque é que subir juros mexe com tudo?",
+  "lessonBody": "A taxa de juro do banco central é o 'preço do dinheiro'. Quando sobe, guardar dinheiro sem risco (depósitos, monetário como o XEON, obrigações) passa a pagar mais, por isso alguns investidores trocam ações, ouro ou Bitcoin por essas alternativas — foi o que se viu ontem depois das atas da Fed. Também puxa pelo dólar, porque juros mais altos nos EUA atraem dinheiro para lá. Para quem investe a longo prazo, isto é um ciclo normal: os juros sobem e descem ao longo dos anos, e um plano com ações, obrigações e monetário está preparado para os dois cenários.",
+  "beginnerNote": "Hoje não precisas de fazer nada: mantém o investimento mensal no dia habitual. Notícias sobre juros, a Nvidia ou a estreia da Anthropic mexem com os preços durante dias, mas o teu plano foi feito para 20-30 anos, e reagir a cada notícia costuma sair mais caro do que ficar quieto."
 }

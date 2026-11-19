@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-19",
+  "generatedBy": "Claude · análise diária",
+  "marketSummary": "Quarta-feira foi um dia misto nos EUA e negativo na Europa: o S&P 500 desceu 0,2%, o Nasdaq subiu 0,4% com a recuperação de parte da tecnologia, mas o Stoxx 600 caiu 1% (terceira queda seguida) e o PSI quase 1%, com 14 das 16 cotadas no vermelho. Na Europa pesou sobretudo a queda das mineiras, depois de o cobre cair para mínimos de sete meses. À noite, as atas da Fed (o banco central dos EUA) mostraram que quase todos os responsáveis esperam subir os juros em dezembro, o que fortaleceu o dólar (o euro caiu para cerca de 1,097 dólares, mínimo desde abril de 2025) e fez cair o ouro mais de 3% e a Bitcoin para perto de 63 mil dólares. O petróleo Brent recuou 1,3% para cerca de 92 dólares, com mais stocks nos EUA, e hoje as atenções viram-se para a estreia em bolsa da Anthropic na Nasdaq.",
+  "mood": "risk-off",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "change": "-0,2%"
+    },
+    {
+      "name": "Nasdaq Composite",
+      "change": "+0,4%"
+    },
+    {
+      "name": "Stoxx 600",
+      "change": "-1,0%"
+    },
+    {
+      "name": "PSI",
+      "change": "-1,0%"
+    },
+    {
+      "name": "Treasury 10 anos (yield ~5,07%)",
+      "change": "-0,04 p.p."
+    },
+    {
+      "name": "Bund 10 anos (yield 3,37%)",
+      "change": "-0,01 p.p."
+    },
+    {
+      "name": "EUR/USD (~1,097)",
+      "change": "-0,3%"
+    },
+    {
+      "name": "Ouro (~3.723 $/onça)",
+      "change": "-3,3%"
+    }
+  ],
+  "tips": [
+    {
+      "title": "Dólar forte e Europa fraca? O VWCE continua a ser a base",
+      "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
+      "body": "O VWCE espalha o teu dinheiro por milhares de empresas de todo o mundo, por isso um mau dia das mineiras europeias quase não se nota. Curiosidade útil: como cerca de 60% do ETF está em empresas americanas, quando o dólar sobe face ao euro (como ontem) essa parte vale um pouco mais em euros, o que ajuda a compensar as quedas na Europa. Mantém o valor mensal e o dia de compra de sempre.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "70-80% do investimento mensal (plano base)",
+      "potential": "5-8%/ano em média a longo prazo, cenário base, com anos negativos pelo meio"
+    },
+    {
+      "title": "Juros altos nas obrigações: o lado bom das más notícias",
+      "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
+      "body": "Obrigações são empréstimos a governos e empresas que pagam juros. Com os EUA a falar em subir juros, as obrigações novas pagam mais, e quem investe todos os meses vai comprando a esses juros mais altos. O preço pode descer um pouco se os juros subirem mais, mas este pedaço do plano oscila muito menos do que as ações, e a cobertura em euros (hedged) protege-o das voltas do dólar.",
+      "horizon": "médio",
+      "risk": "baixo",
+      "suggestedAmount": "15-25% do investimento mensal (plano base)",
+      "potential": "3-4%/ano cenário base, com oscilações se os juros subirem mais"
+    },
+    {
+      "title": "O monetário beneficia se o BCE subir juros",
+      "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
+      "body": "O XEON acompanha a taxa de juro diária do BCE (hoje com a taxa de depósito em 2,5%), por isso quase não oscila. Segundo a Reuters, há responsáveis do BCE a admitir juros mais altos no próximo ano, e nesse caso o XEON passa a render mais automaticamente. É o sítio certo para o fundo de emergência e para dinheiro que vais precisar em menos de 2-3 anos.",
+      "horizon": "curto",
+      "risk": "baixo",
+      "suggestedAmount": "0-10% do investimento mensal, até ter a almofada feita",
+      "potential": "próximo da taxa do BCE, cenário base; não serve para crescer a longo prazo"
+    },
+    {
+      "title": "Ideia complementar: um pouco de ouro como diversificador (opcional)",
+      "instrument": "8PSG · Invesco Physical Gold ETC (Xetra)",
+      "body": "O ouro caiu mais de 3% num só dia, o que mostra que também é volátil e não é um porto seguro garantido. Pode ajudar a diversificar porque nem sempre se move como as ações, mas não paga juros nem dividendos e, quando os juros sobem, tende a sofrer. Nota: é um ETC (título que guarda ouro físico), não um ETF UCITS; se o quiseres, que seja uma fatia mesmo pequena e só depois de o plano base estar em marcha.",
+      "horizon": "longo",
+      "risk": "alto",
+      "suggestedAmount": "no máximo 0-5% do investimento mensal",
+      "potential": "acompanha o preço do ouro; sem rendimento e sem cenário base fiável — pode passar anos sem subir"
+    }
+  ],
+  "news": [
+    {
+      "title": "Ouro afunda abaixo de 3.750 dólares com atas da Fed a apontar para subida de juros",
+      "source": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
+      "summary": "As atas da reunião de outubro mostram que quase todos os responsáveis da Fed esperam subir os juros em dezembro, e o mercado dá cerca de 95% de probabilidade a essa subida. O ouro caiu 3,3% e a prata quase 5%.",
+      "relevance": "Juros mais altos nos EUA pesam nas ações e no ouro, mas fazem as obrigações e o monetário render mais — é por isso que o plano tem as três peças."
+    },
+    {
+      "title": "Nvidia duplica receitas, mas a questão da liderança continua a pesar",
+      "source": "ECO",
+      "url": "https://eco.sapo.pt/2026/11/17/administracao-da-nvidia-recusa-novamente-readmitir-jensen-huang-como-ceo/",
+      "summary": "A administração da Nvidia recusou readmitir Jensen Huang como CEO, apesar de resultados muito acima do esperado. A ação voltou a cair (-2,1%), a quinta sessão negativa seguida.",
+      "relevance": "Mesmo a maior empresa de chips pesa poucos por cento num ETF global; a diversificação do VWCE dilui este tipo de risco de uma só empresa."
+    },
+    {
+      "title": "Anthropic fixa preço da entrada em bolsa acima do previsto; estreia hoje na Nasdaq",
+      "source": "Yahoo Finance (citando Bloomberg)",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html",
+      "summary": "Segundo a Bloomberg, a Anthropic fixou o preço da oferta em 83 dólares por ação, acima do intervalo de 70-78 dólares, com estreia prevista para hoje sob o símbolo ANT.",
+      "relevance": "Uma entrada em bolsa (IPO) muito mediática costuma ter oscilações fortes nos primeiros dias; para quem investe todos os meses em ETF globais, não é preciso fazer nada."
+    },
+    {
+      "title": "Bolsas europeias caem com mineiras a afundar e cautela antes da estreia da Anthropic",
+      "source": "Reuters (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/european-shares-muted-tech-offsets-082501845.html",
+      "summary": "O cobre caiu para mínimos de sete meses e arrastou as mineiras; a tecnologia europeia, como a ASML, ainda ganhou com a Nvidia. O Stoxx 600 fechou a perder cerca de 1%, a terceira queda seguida.",
+      "relevance": "Dias maus num setor ou numa região são normais; num ETF global, a Europa é só uma parte da carteira."
+    },
+    {
+      "title": "BCE discute aumentar reservas mínimas dos bancos para 2%",
+      "source": "Jornal Económico (citando Reuters)",
+      "url": "https://jornaleconomico.sapo.pt/noticias/bce-discute-aumento-das-reservas-minimas-dos-bancos-para-2-para-reduzir-perdas-dos-bancos-centrais-diz-reuters/",
+      "summary": "O BCE pode obrigar os bancos a deixar mais dinheiro parado sem juros para reduzir perdas dos bancos centrais. A taxa de depósito está em 2,5% e há quem admita 3-3,25% no próximo ano.",
+      "relevance": "Se os juros do BCE subirem, o XEON e as obrigações rendem mais; as ações bancárias europeias podem ficar mais pressionadas no curto prazo."
+    },
+    {
+      "title": "Petróleo cai com aumento dos stocks nos EUA",
+      "source": "Rigzone (Bloomberg)",
+      "url": "https://www.rigzone.com/news/wire/oil_falls_3_despite_middle_east_attacks-18-nov-2026-185118-article/",
+      "summary": "O Brent fechou a 91,95 dólares (-1,3%) e o WTI a 83,26 dólares (-3,2%), com mais stocks de crude e gasolina nos EUA e um dólar mais forte.",
+      "relevance": "Petróleo mais barato ajuda a travar a inflação, o que a prazo é bom para as ações e para as obrigações."
+    },
+    {
+      "title": "Bruxelas prevê inflação a abrandar em Portugal e crescimento mais fraco em 2027",
+      "source": "Contas Poupança (revista de imprensa)",
+      "url": "https://contaspoupanca.pt/revista-de-imprensa/2026-11-18-revista-de-imprensa-de-18-de-novembro-inflacao-alimentos-e-comissoes-de-amortizacao-a66cfe7f",
+      "summary": "A Comissão Europeia prevê que a inflação em Portugal desça de 3,2% para 3% em 2027 e que o crescimento abrande para 1,9%, com o fim do PRR.",
+      "relevance": "Com inflação perto de 3%, dinheiro parado na conta perde valor todos os anos — é uma boa razão para investir com regularidade a longo prazo."
+    }
+  ],
+  "signals": [
+    {
+      "symbol": "VWCE.DE",
+      "action": "MANTER",
+      "reason": "Base do plano e muito diversificado; a fraqueza da Europa é compensada em parte pelo dólar mais forte na parte americana."
+    },
+    {
+      "symbol": "VAGF.DE",
+      "action": "MANTER",
+      "reason": "Juros altos tornam as obrigações mais rentáveis para quem compra todos os meses; a cobertura em EUR protege do dólar."
+    },
+    {
+      "symbol": "XEON.DE",
+      "action": "MANTER",
+      "reason": "Ideal para o fundo de emergência; se o BCE subir juros, passa a render mais sem risco relevante."
+    },
+    {
+      "symbol": "VUAA.L",
+      "action": "MANTER",
+      "reason": "Bom ETF do S&P 500 para quem já o tem, mas duplica a parte americana do VWCE; não é necessário para um principiante."
+    },
+    {
+      "symbol": "IWDA.AS",
+      "action": "REVER",
+      "reason": "Muito parecido com o VWCE (sem emergentes); ter os dois é redundante — escolhe um como base."
+    },
+    {
+      "symbol": "SXR8.DE",
+      "action": "MANTER",
+      "reason": "S&P 500 perto de mínimos de vários meses; só faz sentido como fatia pequena e regular, sem aumentar concentração."
+    },
+    {
+      "symbol": "CSPX.L",
+      "action": "MANTER",
+      "reason": "Equivalente ao SXR8 noutra bolsa e em dólares; prefere a cotação em euros para evitar custos de câmbio."
+    },
+    {
+      "symbol": "AAPL",
+      "action": "MANTER",
+      "reason": "Já está dentro do VWCE; comprar ações individuais aumenta o risco sem ser necessário no início."
+    },
+    {
+      "symbol": "MSFT",
+      "action": "MANTER",
+      "reason": "Empresa sólida e já presente nos ETF globais; juros mais altos e a volatilidade da IA pesam, mas não mudam a tese de longo prazo."
+    },
+    {
+      "symbol": "NVDA",
+      "action": "REVER",
+      "reason": "Resultados fortíssimos, mas cinco sessões de queda e a incerteza na liderança tornam-na muito arriscada como ação individual."
+    }
+  ],
+  "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
+  "lessonTitle": "Porque é que subir juros mexe com tudo?",
+  "lessonBody": "A taxa de juro do banco central é o 'preço do dinheiro'. Quando sobe, guardar dinheiro sem risco (depósitos, monetário como o XEON, obrigações) passa a pagar mais, por isso alguns investidores trocam ações, ouro ou Bitcoin por essas alternativas — foi o que se viu ontem depois das atas da Fed. Também puxa pelo dólar, porque juros mais altos nos EUA atraem dinheiro para lá. Para quem investe a longo prazo, isto é um ciclo normal: os juros sobem e descem ao longo dos anos, e um plano com ações, obrigações e monetário está preparado para os dois cenários.",
+  "beginnerNote": "Hoje não precisas de fazer nada: mantém o investimento mensal no dia habitual. Notícias sobre juros, a Nvidia ou a estreia da Anthropic mexem com os preços durante dias, mas o teu plano foi feito para 20-30 anos, e reagir a cada notícia costuma sair mais caro do que ficar quieto."
+}

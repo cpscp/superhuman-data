@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-20",
+  "generatedBy": "Claude · análise diária",
+  "marketSummary": "Quinta-feira foi um dia de quedas fortes: o S&P 500 caiu 2,02% (sexta sessão seguida no vermelho, a maior série desde 2024) e o Nasdaq 2,25%, com os 11 setores do S&P em queda. A Europa também recuou: Stoxx 600 -0,88% e PSI -0,94%, com 15 das 16 cotadas de Lisboa a descer. O principal motivo é a expectativa de que a Fed (o banco central dos EUA) suba os juros em dezembro, agora vista como quase certa pelos mercados, o que pesa sobre as ações e fortaleceu o dólar (EUR/USD perto de 1,098). A tecnologia virou de ganhos para perdas ao longo do dia (Nvidia -3,3%, AMD -7,7%), mesmo com a estreia da Anthropic em bolsa, a maior entrada em bolsa de sempre, a fechar com ganho de 17%. O ouro e o Bitcoin também caíram e o petróleo ficou quase estável (Brent perto de 92 dólares).",
+  "mood": "risk-off",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "change": "-2,02%"
+    },
+    {
+      "name": "Nasdaq Composite",
+      "change": "-2,25%"
+    },
+    {
+      "name": "Stoxx 600",
+      "change": "-0,88%"
+    },
+    {
+      "name": "PSI",
+      "change": "-0,94%"
+    },
+    {
+      "name": "Treasury 10 anos (yield)",
+      "change": "5,04% (-0,03 p.p.)"
+    },
+    {
+      "name": "Bund 10 anos (yield)",
+      "change": "3,40% (a subir)"
+    },
+    {
+      "name": "Ouro",
+      "change": "-1,4% a -3,0% (fontes divergem)"
+    },
+    {
+      "name": "Bitcoin",
+      "change": "-0,9% a -2,4% (≈61.500 USD)"
+    }
+  ],
+  "tips": [
+    {
+      "title": "Mantém o investimento mensal no VWCE",
+      "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
+      "body": "Seis dias seguidos de quedas parecem assustadores, mas quem compra todos os meses passa a comprar mais unidades pelo mesmo dinheiro quando os preços descem. O VWCE junta milhares de empresas do mundo inteiro, por isso não dependes de nenhuma delas em particular. Em horizontes de 10 anos ou mais, estas fases costumam ser apenas pequenos desvios no gráfico.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "70-80% do investimento mensal (o núcleo do plano)",
+      "potential": "historicamente 6-8%/ano em média, com anos negativos pelo caminho"
+    },
+    {
+      "title": "As obrigações voltam a pagar juros interessantes",
+      "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF (EUR Hedged, Acc)",
+      "body": "Obrigações são empréstimos a governos e empresas que pagam juros. Com as yields (o juro que se recebe) do Bund alemão perto de 3,4%, quem compra obrigações agora fica com um rendimento mais alto. O VAGF tem cobertura cambial (protege-te das oscilações do dólar) e amortece as quedas das ações na carteira.",
+      "horizon": "médio",
+      "risk": "baixo",
+      "suggestedAmount": "15-25% do investimento mensal",
+      "potential": "3-4%/ano cenário base, conforme os juros atuais"
+    },
+    {
+      "title": "Fundo de emergência e almofada no monetário",
+      "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF",
+      "body": "O XEON acompanha a taxa de juro do BCE de um dia para o outro, por isso quase não oscila. Serve para o dinheiro que podes precisar a curto prazo ou para ter liquidez sem stress num mês agitado como este. Não é para crescer muito, é para estar seguro e render alguma coisa.",
+      "horizon": "curto",
+      "risk": "baixo",
+      "suggestedAmount": "o necessário para 3-6 meses de despesas, fora do plano de ações",
+      "potential": "próximo da taxa do BCE (cerca de 2%/ano)"
+    },
+    {
+      "title": "Ideia complementar: uma pequena fatia de tecnologia, só se aguentares sustos",
+      "instrument": "EQQQ · Invesco EQQQ Nasdaq-100 UCITS ETF",
+      "body": "As tecnológicas caíram mais do que o mercado (Nasdaq -2,25% num só dia) e são as mais sensíveis à subida de juros. Uma pequena posição pode aproveitar a recuperação a longo prazo, mas o VWCE já tem bastante tecnologia, por isso isto aumenta a concentração. Só faz sentido em montantes pequenos e sem pressa.",
+      "horizon": "longo",
+      "risk": "alto",
+      "suggestedAmount": "no máximo 5% do investimento mensal",
+      "potential": "mais alto que o mercado em bons anos, mas com quedas de 30% ou mais possíveis"
+    }
+  ],
+  "news": [
+    {
+      "title": "S&P 500 cai pela sexta sessão seguida; Nasdaq perde 2,25%",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-googles-stake/",
+      "summary": "As bolsas americanas fecharam com quedas de cerca de 2%, com a Alphabet a cair 3,5% e todas as grandes tecnológicas em baixa.",
+      "relevance": "Os EUA pesam cerca de 60% do VWCE, por isso a carteira desceu; para quem investe todos os meses, as compras deste mês saem mais baratas."
+    },
+    {
+      "title": "Nvidia cai apesar de resultados recorde, com dúvidas sobre a sucessão do CEO",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-nvidia-slides-as-investors-weigh-ceo-transition-fallout-despite-strong-q3-results/",
+      "summary": "A Nvidia recuou 3,3% apesar de receitas trimestrais recorde, num dia em que os investidores também pesaram a saída de Jensen Huang.",
+      "relevance": "Mostra o risco de apostar numa só empresa: no VWCE a Nvidia é só uma parte, e o impacto dilui-se."
+    },
+    {
+      "title": "Fecho de quinta: Fed quase certa a subir juros em dezembro",
+      "source": "CappNotes",
+      "url": "https://cappnotes.substack.com/p/closing-look-thursday-november-19",
+      "summary": "Os mercados de futuros atribuem mais de 90% de probabilidade a uma subida de 0,25 p.p. na reunião da Fed de 9 de dezembro; o VIX (o 'índice do medo') subiu para cerca de 28.",
+      "relevance": "Juros mais altos costumam pressionar ações no curto prazo, mas melhoram o rendimento das obrigações (VAGF) e do monetário (XEON)."
+    },
+    {
+      "title": "Estreia da Anthropic é a maior entrada em bolsa de sempre",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+      "summary": "A Anthropic estreou no Nasdaq com uma valorização forte no primeiro dia, numa operação com procura muito acima da oferta.",
+      "relevance": "Ações recém-entradas em bolsa são muito voláteis; os ETF globais só as incluem mais tarde, o que evita comprar no pico do entusiasmo."
+    },
+    {
+      "title": "PSI fecha em baixa em linha com a Europa em dia de IPO da Anthropic e reunião em Shenzhen",
+      "source": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/psi-fecha-em-baixa-em-linha-com-europa-em-dia-de-ipo-da-anthropic-e-reuniao-historica-em-shenzhen/",
+      "summary": "O PSI caiu 0,94% e o Stoxx 600 0,88%; a yield da dívida portuguesa a 10 anos subiu para 3,85% e o Brent ficou perto de 92 dólares.",
+      "relevance": "A bolsa portuguesa é uma fração mínima do VWCE; o que mexe a tua carteira é o mercado global, não o PSI."
+    },
+    {
+      "title": "Bolsa de Lisboa fecha em baixa e apenas Ibersol fica no 'verde'",
+      "source": "Executive Digest / Lusa",
+      "url": "https://executivedigest.sapo.pt/bolsa-de-lisboa-fecha-em-baixa-e-apenas-ibersol-fica-no-verde/",
+      "summary": "Quinze das dezasseis cotadas do PSI desceram, com a Mota-Engil a liderar as perdas (-2,16%).",
+      "relevance": "Quedas generalizadas num dia são normais; a diversificação global protege-te de depender de um só país."
+    },
+    {
+      "title": "Ações europeias na série de quedas mais longa desde agosto",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/european-stocks-rebound-as-anthropic-ipo-revives-the-ai-trade",
+      "summary": "As bolsas europeias somaram mais uma sessão negativa, apesar de um início positivo puxado pelo entusiasmo com a inteligência artificial.",
+      "relevance": "A Europa é cerca de 15% do VWCE; correções de vários dias fazem parte do ciclo normal dos mercados."
+    }
+  ],
+  "signals": [
+    {
+      "symbol": "VWCE.DE",
+      "action": "MANTER",
+      "reason": "Núcleo do plano; quedas de curto prazo são oportunidades de compra para quem investe todos os meses."
+    },
+    {
+      "symbol": "VAGF.DE",
+      "action": "MANTER",
+      "reason": "Yields mais altas melhoram o rendimento futuro das obrigações e dão estabilidade à carteira."
+    },
+    {
+      "symbol": "XEON.DE",
+      "action": "MANTER",
+      "reason": "Bom sítio para o fundo de emergência; beneficia de juros mais altos sem oscilar."
+    },
+    {
+      "symbol": "VUAA.L",
+      "action": "MANTER",
+      "reason": "S&P 500 em correção ligada à Fed; para longo prazo, não há razão para mudar, mas já está muito presente no VWCE."
+    },
+    {
+      "symbol": "IWDA.AS",
+      "action": "MANTER",
+      "reason": "Alternativa ao VWCE só de países desenvolvidos; não faz sentido ter os dois em simultâneo."
+    },
+    {
+      "symbol": "SXR8.DE",
+      "action": "MANTER",
+      "reason": "Mesmo índice do VUAA/CSPX; evita duplicar ETF que replicam o S&P 500."
+    },
+    {
+      "symbol": "CSPX.L",
+      "action": "MANTER",
+      "reason": "Igual ao SXR8 noutra bolsa; quem já tem, mantém; quem começa, o VWCE chega."
+    },
+    {
+      "symbol": "AAPL",
+      "action": "REVER",
+      "reason": "Todas as grandes tecnológicas caíram; ações individuais devem ser uma fatia pequena e opcional para um principiante."
+    },
+    {
+      "symbol": "MSFT",
+      "action": "REVER",
+      "reason": "Empresa sólida mas sensível à subida de juros; já está no VWCE, por isso comprar à parte aumenta a concentração."
+    },
+    {
+      "symbol": "NVDA",
+      "action": "REVER",
+      "reason": "Caiu 3,3% com dúvidas sobre a sucessão do CEO apesar de resultados recorde; volatilidade alta, só para montantes pequenos."
+    }
+  ],
+  "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
+  "lessonTitle": "O que é uma correção (e porque não deves fugir dela)",
+  "lessonBody": "Uma correção é uma queda de 10% ou mais desde o máximo recente; quedas menores, como as dos últimos dias, são ainda mais frequentes. Acontecem quase todos os anos, muitas vezes por medo de juros mais altos, como agora com a Fed. Quem vende durante a queda transforma uma perda temporária numa perda real e costuma perder os dias de recuperação, que muitas vezes chegam de repente. Quem investe todos os meses beneficia do chamado 'custo médio': compra mais unidades quando está barato e menos quando está caro. A longo prazo, as bolsas mundiais sempre recuperaram destas fases.",
+  "beginnerNote": "Hoje não faças nada de diferente: mantém o investimento mensal automático e não vendas por causa das quedas. O motivo das descidas (juros a subir nos EUA) é passageiro, e o teu horizonte é de muitos anos."
+}

@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-21",
+  "generatedBy": "Claude · análise diária",
+  "marketSummary": "Sexta-feira foi um dos piores dias do ano: o S&P 500 caiu 3,70% e o Nasdaq 5,28%, fechando a pior semana desde abril de 2025 (-8,6% no S&P). O gatilho foi uma notícia da Reuters de que o regulador americano (SEC) está a investigar a contabilidade da Nvidia, que afundou 14% e arrastou outras empresas de chips e de inteligência artificial; o Nasdaq passou a estar negativo em 2026. A Europa acompanhou (Stoxx 600 -2,00%, PSI -1,39%, pressionado pelo BCP), o Bitcoin caiu cerca de 5% para perto de 59 mil dólares e o ouro também recuou. Em contrapartida, as obrigações do Estado subiram de preço (os juros desceram), funcionando como refúgio, e o euro ficou estável perto de 1,098 dólares.",
+  "mood": "risk-off",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "change": "-3,70%"
+    },
+    {
+      "name": "Nasdaq Composite",
+      "change": "-5,28%"
+    },
+    {
+      "name": "Stoxx 600",
+      "change": "-2,00%"
+    },
+    {
+      "name": "PSI",
+      "change": "-1,39%"
+    },
+    {
+      "name": "Treasury 10 anos (EUA)",
+      "change": "-12 pb (4,92%)"
+    },
+    {
+      "name": "Bund 10 anos (Alemanha)",
+      "change": "-11 pb (3,30%)"
+    },
+    {
+      "name": "Petróleo Brent",
+      "change": "+0,64%"
+    },
+    {
+      "name": "Ouro",
+      "change": "-3,0%"
+    }
+  ],
+  "tips": [
+    {
+      "title": "Continuar a compra mensal do ETF de ações do mundo",
+      "instrument": "VWCE · Vanguard FTSE All-World UCITS ETF (Acc)",
+      "body": "Quando o mercado cai, o mesmo valor mensal compra mais unidades do ETF, o que baixa o teu preço médio ao longo do tempo. O VWCE tem milhares de empresas de dezenas de países, por isso um problema numa empresa (mesmo grande como a Nvidia) pesa pouco no total. Quedas de 10-20% acontecem quase todos os anos e fazem parte do caminho.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "a parte de ações do teu plano (ex.: 70-80% do investimento mensal), sem alterar",
+      "potential": "6-8%/ano cenário base a 15+ anos, com anos negativos pelo meio"
+    },
+    {
+      "title": "As obrigações mostraram para que servem",
+      "instrument": "VAGF · Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
+      "body": "Esta semana, enquanto as ações caíam, os juros das obrigações do Estado desceram, o que faz subir o preço das obrigações que já existem. É esse o papel do VAGF na carteira: amortecer as quedas. A cobertura em EUR (hedged) significa que a variação do dólar quase não te afeta.",
+      "horizon": "médio",
+      "risk": "baixo",
+      "suggestedAmount": "a parte de obrigações do plano (ex.: 15-25% do investimento mensal)",
+      "potential": "3-4%/ano cenário base"
+    },
+    {
+      "title": "Fundo de emergência primeiro, sempre",
+      "instrument": "XEON · Xtrackers II EUR Overnight Rate Swap UCITS ETF (Acc)",
+      "body": "O XEON acompanha a taxa de juro diária do euro e quase não oscila. É o sítio certo para o dinheiro que podes precisar em breve, para nunca teres de vender ações num dia como sexta-feira. Se ainda não tens 3-6 meses de despesas guardados, essa é a prioridade.",
+      "horizon": "curto",
+      "risk": "baixo",
+      "suggestedAmount": "até ter 3-6 meses de despesas; depois 0-10% do mensal",
+      "potential": "perto da taxa do BCE, sem garantia"
+    },
+    {
+      "title": "Ideia complementar: setores defensivos",
+      "instrument": "XDWS · Xtrackers MSCI World Consumer Staples UCITS ETF (Acc)",
+      "body": "Os bens de consumo básico (alimentação, higiene, bebidas) foram o único setor do S&P 500 a subir na sexta-feira, porque as pessoas continuam a comprá-los mesmo em crise. Um ETF destes reduz um pouco a dependência da tecnologia, mas também sobe menos quando o mercado está eufórico. É opcional: o VWCE já inclui estas empresas.",
+      "horizon": "longo",
+      "risk": "médio",
+      "suggestedAmount": "no máximo 5% do investimento mensal",
+      "potential": "5-7%/ano cenário base, com menos oscilação que tecnologia"
+    }
+  ],
+  "news": [
+    {
+      "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
+      "source": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460",
+      "summary": "Segundo duas fontes, a SEC está a examinar as práticas contabilísticas da Nvidia; a SEC não comentou e o foco da investigação não está confirmado.",
+      "relevance": "A Nvidia é das maiores empresas do mundo e pesa vários pontos percentuais no VWCE, por isso sentes a queda, mas a diversificação limita o impacto."
+    },
+    {
+      "title": "The snowballing selloff in global markets",
+      "source": "Reuters (via AOL)",
+      "url": "https://www.aol.com/articles/snowballing-selloff-global-markets-150352000.html",
+      "summary": "Receios de bolha na inteligência artificial e de mais subidas de juros nos EUA já apagaram quase 9 biliões de dólares às bolsas mundiais desde agosto; as obrigações do Estado serviram de refúgio.",
+      "relevance": "Mostra porque uma carteira com ações e obrigações (VWCE + VAGF) cai menos do que uma só com ações."
+    },
+    {
+      "title": "Nvidia Stock Plunge Wipes Out Nearly $500 Billion in One Day as SEC Reportedly Probes Its Accounting",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/",
+      "summary": "A Nvidia perdeu cerca de 491 mil milhões de dólares de valor num só dia e está quase 48% abaixo do máximo de outubro.",
+      "relevance": "Lembra o risco de concentrar dinheiro numa só ação: num ETF global, uma queda destas é diluída por milhares de empresas."
+    },
+    {
+      "title": "Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/",
+      "summary": "O S&P 500 caiu 3,70% e o Nasdaq 5,28%, com chips como AMD, Micron e Broadcom a cair mais de 12%; o dinheiro fugiu para setores defensivos.",
+      "relevance": "O S&P 500 está agora em correção (mais de 10% abaixo do máximo); para quem compra todos os meses, isto significa comprar mais barato."
+    },
+    {
+      "title": "European shares head for steepest weekly drop since March",
+      "source": "Reuters (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-head-steepest-weekly-082527441.html",
+      "summary": "As bolsas europeias caminharam para a pior semana desde março, com os investidores a desfazer apostas ligadas à IA após a estreia da Anthropic em bolsa.",
+      "relevance": "A Europa também caiu, mas menos que os EUA, porque tem menos empresas de tecnologia; é uma vantagem de ter um ETF com vários países."
+    },
+    {
+      "title": "Bolsa de Lisboa fecha a cair 1,39% em linha com restante Europa",
+      "source": "Notícias ao Minuto / Lusa",
+      "url": "https://www.noticiasaominuto.com/economia/3087703/bolsa-de-lisboa-fecha-a-cair-1-39-em-linha-com-restante-europa-atualizada",
+      "summary": "O PSI fechou nos 9.279,88 pontos, com o BCP a cair 4,05% e 13 das 16 cotadas no vermelho.",
+      "relevance": "Portugal pesa muito pouco num ETF global, por isso a bolsa de Lisboa afeta pouco o teu plano."
+    },
+    {
+      "title": "EUR/USD Forecast: Euro Defends 1.0950 at 19-Month Low",
+      "source": "TradingNEWS",
+      "url": "https://www.tradingnews.com/news/eur-usd-forecast-euro-defends-1-0950-at-19-month-low-rsi-29-1-1073-usd-upside-target-in-sight",
+      "summary": "O euro está perto de mínimos de 19 meses face ao dólar (cerca de 1,098), por causa da diferença de juros entre a Fed e o BCE.",
+      "relevance": "Um dólar forte faz subir, em euros, o valor das ações americanas do VWCE, o que amorteceu um pouco a queda para quem investe em euros."
+    }
+  ],
+  "signals": [
+    {
+      "symbol": "VWCE.DE",
+      "action": "MANTER",
+      "reason": "É o núcleo do plano. Continua as compras mensais; a queda torna cada compra mais barata."
+    },
+    {
+      "symbol": "VAGF.DE",
+      "action": "MANTER",
+      "reason": "As obrigações subiram de preço com a descida dos juros, cumprindo o papel de amortecedor."
+    },
+    {
+      "symbol": "XEON.DE",
+      "action": "MANTER",
+      "reason": "Reserva estável para o fundo de emergência; não é afetada pela queda das bolsas."
+    },
+    {
+      "symbol": "VUAA.L",
+      "action": "MANTER",
+      "reason": "ETF do S&P 500 em correção; não vender em pânico. Se já tens VWCE, não precisas dele (há muita sobreposição)."
+    },
+    {
+      "symbol": "IWDA.AS",
+      "action": "MANTER",
+      "reason": "Semelhante ao VWCE (países desenvolvidos). Quem já o tem pode mantê-lo; não é preciso ter os dois."
+    },
+    {
+      "symbol": "SXR8.DE",
+      "action": "MANTER",
+      "reason": "Mesma lógica do S&P 500: muito peso em tecnologia, por isso oscila mais nesta fase; manter se já tiveres."
+    },
+    {
+      "symbol": "CSPX.L",
+      "action": "MANTER",
+      "reason": "ETF do S&P 500 em dólares; mesma exposição que SXR8/VUAA, com o risco de câmbio adicional."
+    },
+    {
+      "symbol": "AAPL",
+      "action": "MANTER",
+      "reason": "Caiu com o mercado, sem notícia própria negativa; ação individual deve ser só uma parte pequena da carteira."
+    },
+    {
+      "symbol": "MSFT",
+      "action": "MANTER",
+      "reason": "Arrastada pela venda de tecnologia, mas sem notícia específica; manter posição pequena se já tiveres."
+    },
+    {
+      "symbol": "NVDA",
+      "action": "REVER",
+      "reason": "Caiu 14% com a notícia de investigação da SEC à contabilidade. Até haver clareza, não reforçar e confirmar que o peso na carteira é pequeno."
+    }
+  ],
+  "disclaimer": "Informação e análise educativa, não aconselhamento financeiro personalizado.",
+  "lessonTitle": "O que é uma correção?",
+  "lessonBody": "Chama-se correção a uma queda de 10% a 20% desde o último máximo; acima de 20% fala-se em mercado em baixa (bear market). O S&P 500 está agora cerca de 11% abaixo do recorde, ou seja, em correção. Historicamente, as correções acontecem em média uma vez por ano ou a cada dois anos e o mercado acabou sempre por recuperar, embora umas vezes em meses e outras em anos. Para quem investe todos os meses com horizonte longo, uma correção é o momento em que compra mais unidades pelo mesmo dinheiro.",
+  "beginnerNote": "Não mudes nada: faz a compra mensal como planeado e evita abrir a app várias vezes por dia. Vender depois de uma queda transforma uma perda temporária em definitiva, e as maiores subidas costumam vir logo a seguir às piores quedas."
+}
